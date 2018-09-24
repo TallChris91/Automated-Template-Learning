@@ -1,0 +1,170 @@
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> steals the ball from <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> intercepts
+<player_1> passes to <player_2>
+<player_1_team_1> steals the ball from <player_1_team_2>
+<player_1> shoots
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> intercepts
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> shoots
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> shoots
+<player_1> intercepts
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> shoots
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<team_1>s scores
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1_team_1> 's the ball over to <player_1_team_2>
+<player_1> has the ball
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> picks possession of the ball
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> will kick off
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> shoots
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> will inbound the ball
+<player_1> passes to <player_2>
+<player_1> intercepts
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> has the ball
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> intercepts
+<player_1> picks possession of the ball
+<player_1> loses the ball out of bound
+<player_1> passes to <player_2>
+<player_1> controls
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> kicks the ball out of bound
+<player_1> shoots
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1_team_1> passes to <player_2_team_1> who is guarded guarded by <player_1_team_2>
+<player_1> controls
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<team_1>s scores
+<player_1_team_1> steals the ball from <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1_team_1> steals the ball from <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> intercepts
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> controls
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> intercepts
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> has the ball
+<player_1> passes to <player_2>
+<player_1> picks possession of the ball
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> steals the ball from <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> picks possession of the ball
+<player_1> passes to <player_2>
+<player_1> picks possession of the ball
+<player_1> has the ball
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>

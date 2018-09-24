@@ -1,0 +1,170 @@
+<player_1_team_1> makes a bad pass that picked up by <player_1_team_2>
+<player_1> kicks the ball to the <player_2>
+<player_1> kicks to <player_2>
+<player_1> kicks to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> steals the ball from <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked up by <player_1_team_2>
+<player_1> passes to <player_2> in midfield
+<player_1> intercepts
+<player_1> kicks to <player_2>
+<player_1_team_1> steals the ball from <player_1_team_2>
+<player_1> kicks
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was picked up by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> intercepts
+<player_1> passes to <player_2>
+<player_1> kicks to <player_2>
+<player_1> kicks to <player_2>
+<player_1_team_1> makes a bad pass that was intercepted by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> turned the ball over to <player_1_team_2>
+<player_1_team_1> loses the ball to <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> dribbles away from her defender
+<player_1> kicks to <player_2>
+<player_1> kicks to <player_2>
+<player_1> kicks to <player_2> who has two defenders closing in on her
+<player_1> kicks to <player_2>
+<player_1> kicks to <player_2>
+<player_1> kicks
+<player_1> intercepts
+<player_1> passes to <player_2>
+<player_1> passes forward to <player_2>
+<player_1_team_1> makes a bad pass that was intercepted by <player_1_team_2>
+<player_1> kicks
+<player_1_team_1> makes a bad pass that was picked off by <player_1_team_2>
+<player_1> kicks to <player_2>
+<player_1> passes back to <player_2>
+<player_1> makes a dangerous pass to <player_2>
+<player_1> passes the ball to <player_2>
+<team_1> is offside
+<player_1_team_1> makes a bad pass that was picked up by <player_1_team_2>
+<player_1> kicks to <player_2>
+<player_1_team_1> passes to <player_2_team_1> who was well defended by <player_1_team_2>
+<player_1> has the ball
+<player_1> kicks to <player_2>
+<player_1> kicks to <player_2>
+<player_1> passes to <player_2> on the side
+<player_1> passes to <player_2> near midfield
+<player_1> immediately passes back to <player_2>
+<player_1> picks up the loose ball near the penalty box
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> tried to pass to <player_2_team_1> but was picked off by <player_1_team_2>
+<player_1_team_1> made a bad pass that was picked up by <player_1_team_2>
+<player_1> kicks to <player_2>
+<player_1> passes to <player_2> near the penalty box
+<player_1> will kick off
+<player_1> kicks to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes forward to <player_2>
+<player_1> is coming down the sideline
+<player_1> passes to <player_2>
+<player_1> passes the ball back to <player_2>
+<player_1_team_1> 's pass was picked off by <player_1_team_2>
+<player_1_team_1> turns the ball over to <player_1_team_2>
+<player_1> kicks to <player_2>
+<player_1> will inbound the ball
+<player_1> passes to <player_2>
+<player_1> steals the ball
+<player_1> kicks to <player_2>
+<player_1> makes a short pass to <player_2>
+<player_1> passes to <player_2>
+<player_1> kicks to <player_2>
+<player_1> kicks to <player_2>
+<player_1> passes to <player_2> surrounded by two pink defenders
+<player_1_team_1> loses the ball and turned it over to <player_1_team_2>
+<player_1_team_1> made a bad pass that was intercepted by <player_1_team_2>
+<player_1> kicks to <player_2>
+<player_1> kicks to <player_2>
+<player_1_team_1> 's pass was picked off by <player_1_team_2>
+the <player_1_team_1> made a bad pass that was picked up by <player_1_team_2>
+<player_1> kicks to <player_2>
+<player_1> passes to <player_2>
+<player_1> has the ball
+<player_1_team_1> 's pass is intercepted by <player_1_team_2>
+<player_1_team_1> turns the ball over to <player_1_team_2>
+<player_1> kicks to <player_2>
+<player_1> passes to <player_2>
+<player_1> intercepts
+<player_1> gains possession of the ball
+<player_1> loses control of the ball
+<player_1> kicks back to <player_2>
+<player_1> controls
+<player_1_team_1> 's pass is intercepted by <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1_team_1> made a bad pass and was picked off by <player_1_team_2>
+<player_1_team_1> also makes a bad pass that is picked up by <player_1_team_2>
+<player_1> again passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> loses the ball to <player_1_team_2>
+<player_1> kicked the ball out of bound
+<player_1> dribbles toward the goal
+<player_1> passes forward to <player_2>
+<player_1_team_1> turns the ball over to <player_1_team_2>
+<player_1_team_1> passes to <player_2_team_1> who 's closely guarded by <player_1_team_2>
+<player_1> controls
+<player_1> passes to <player_2>
+<player_1_team_1> loses control of the ball and turned it over to <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> kicks to <player_2>
+<player_1> passes to <player_2>
+<player_1> again passes to <player_2>
+<player_1_team_1> turns the ball over to <player_1_team_2>
+<player_1> kicks to <player_2>
+<team_1>s scores
+<player_1_team_1> stole the ball right back from <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1_team_1> steals the ball from <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> steals the ball
+<player_1> passes to <player_2> who almost lost the ball
+<player_1> makes a pass to <player_2>
+<player_1> kicks to <player_2>
+<player_1> controls
+<player_1> passes to <player_2>
+<player_1> passes back to <player_2>
+<player_1> passes to <player_2>
+<player_1> kicks to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2> near the sideline
+<player_1> passes to <player_2> inside the penalty area
+<player_1_team_1> loses the ball back to <player_1_team_2>
+<player_1> intercepts
+<player_1> passes to <player_2>
+<player_1_team_1> makes a bad pass that was intercepted by <player_1_team_2>
+<player_1> has the ball outside the penalty area
+<player_1> passes to <player_2>
+<player_1> picks up the ball
+<player_1> kicks off to <player_2>
+<player_1> passes to <player_2>
+<player_1> passes back to <player_2> near the middle of the field
+<player_1> kicks to <player_2>
+<player_1> passes to <player_2>
+<player_1_team_1> steals the ball from <player_1_team_2>
+<player_1> passes to <player_2>
+<player_1> passes to <player_2>
+<player_1> kicks to <player_2>
+<player_1> passes the ball out to <player_2>
+<player_1> kicks to <player_2>
+<player_1_team_1> 's pass is intercepted by <player_1_team_2>
+<player_1> kicks to <player_2>
+<player_1> picked up the loose ball
+<player_1> passes to <player_2>
+<player_1> gains possession of the ball
+the ball almost went out of bound before <player_1> picked it up
+<player_1> makes a short pass to <player_2>
+<player_1> immediately passes to <player_2>
+<player_1> kicks to <player_2>
+<player_1> kicks to <player_2>
+<player_1_team_1> makes a bad pass that was picked up by <player_1_team_2>

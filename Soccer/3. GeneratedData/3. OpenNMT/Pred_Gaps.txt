@@ -1,0 +1,642 @@
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> benutte het buitenkansje : <score> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<card_player> kreeg zijn tweede gele kaart .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> benutte het buitenkansje : <score> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .
+<goal_scorer> kopte raak uit een voorzet van <assist_giver> .

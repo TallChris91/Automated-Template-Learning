@@ -1,0 +1,60 @@
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> or less gradually <wind_direction_change> <wind_direction>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> or less gradually <wind_direction_change> <wind_direction>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> and <wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> then <wind_direction_change> <wind_direction> and <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> then <wind_speed_change> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> occasionally <wind_speed> gusts <gust_speed> <wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> then <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> <time>
+variable less than <wind_speed>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> gradually <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <time> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> then <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> or less <wind_direction_change> <wind_direction> and later <wind_speed_change> <wind_speed>
+<wind_direction> <wind_speed> gusts <gust_speed> gradually <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> or less <wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> gradually <wind_speed_change> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>

@@ -1,0 +1,2961 @@
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 46-49-58
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-46-63
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 46-53-65
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-46-52
+precipPotential_chance: 40 rainChance_mode: SChc Chance_time: after 2am-3am-4am Chance_time: after 2am-3am-4am
+rainChance_mode: Lkly
+rainChance_mode: Def Chance_time: at night rainChance_mode: Def Chance_time: at night
+precipPotential_chance: 81 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+snowChance_mode: Chc
+precipPotential_chance: 50 rainChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 51-58-70
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 53-54-57
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 35-37-43
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-62-74
+snowChance_mode: Chc Chance_time: before 11pm-midnight
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 55-66-75
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 19-37-48
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 51-56-65
+precipPotential_chance: 32 rainChance_mode: Chc Chance_time: before 9am-10am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 37-50-58
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-32-41
+precipPotential_chance: 15 rainChance_mode: SChc
+rainChance_mode: SChc Chance_time: after 1am
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+rainChance_mode: SChc
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+snowChance_mode: Lkly Chance_time: at day rainChance_mode: Lkly
+rainChance_mode: Chc Chance_time: before 11pm-midnight thunderChance_mode: SChc Chance_time: before 8pm-9pm-10pm Chance_time: before 8pm-9pm-10pm
+precipPotential_chance: 47 thunderChance_mode: Chc
+precipPotential_chance: 44 rainChance_mode: SChc Chance_time: before 11pm-midnight
+rainChance_mode: Chc Chance_time: after 11am-noon-1pm rainChance_mode: Chc Chance_time: after 11am-noon-1pm Chance_time: after 11am-noon-1pm rainChance_mode: Chc Chance_time: after 11am-noon-1pm
+rainChance_mode: Lkly Chance_time: before 3am-4am
+rainChance_mode: Chc
+rainChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 25-39-47
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 28-44-54
+skyCover_mode: 75-100 skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 33-42-48
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 21-24-32
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 57-62-71
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Def Chance_time: at night rainChance_mode: Def Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-46-55
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-46-60
+otherChance_mode: Unk Chance_time: at day
+rainChance_mode: Chc
+precipPotential_chance: 62 rainChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 61-70-76
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 45-53-72
+rainChance_mode: Def
+rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm snowChance_mode: Chc Chance_time: after 9am-10am Chance_time: after 9am-10am otherChance_mode: Unk Chance_time: at day
+rainChance_mode: Lkly Chance_time: after 1am
+rainChance_mode: Def Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-43-49
+precipPotential_chance: 90 rainChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 16-20-31
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 52-65-75
+precipPotential_chance: 81 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 61-65-73
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 42-48-60
+precipPotential_chance: 45 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 19-24-36
+rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-47-62
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Def Chance_time: after 9am-10am rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 48-53-64
+rainChance_mode: SChc Chance_time: before 9am-10am
+precipPotential_chance: 40 thunderChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 31-38-53
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 46-53-68
+otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 47-54-68
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 16-27-36
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 31-32-35
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-45-55
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-58-68
+rainChance_mode: Def Chance_time: at night
+rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 31-33-42
+rainChance_mode: Def Chance_time: at night thunderChance_mode: SChc
+precipPotential_chance: 38 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-36-44
+precipPotential_chance: 24 snowChance_mode: SChc
+rainChance_mode: Lkly Chance_time: at night thunderChance_mode: SChc
+freezingRainChance_mode: SChc Chance_time: after 1am
+rainChance_mode: SChc Chance_time: at day
+freezingRainChance_mode: SChc Chance_time: after 1am
+precipPotential_chance: 16 rainChance_mode: SChc Chance_time: before 8pm-9pm-10pm
+precipPotential_chance: 50 rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 38-40-42
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-45-51
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 32-45-54
+snowChance_mode: Def
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 26-35-39
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 25-32-42
+rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 24-28-39
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-49-66
+precipPotential_chance: 29 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Def
+rainChance_mode: Def Chance_time: at night
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 65-71-75
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 47-56-65
+rainChance_mode: SChc rainChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 46-53-61
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+rainChance_mode: SChc
+precipPotential_chance: 57 rainChance_mode: Lkly Chance_time: after 11am-noon-1pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 19-24-28
+precipPotential_chance: 25 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-54-64
+snowChance_mode: Def Chance_time: at night
+rainChance_mode: SChc
+rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 33-35-38
+precipPotential_chance: 86 rainChance_mode: SChc
+snowChance_mode: Def
+precipPotential_chance: 50 snowChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 55-60-70
+rainChance_mode: Lkly thunderChance_mode: Chc Chance_time: at day
+precipPotential_chance: 36 thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 35 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-38-50
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 55-67-76
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 32-42-55
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 35-41-58
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-30-34
+precipPotential_chance: 40 thunderChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 36-43-60
+precipPotential_chance: 54 snowChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 33-38-48
+precipPotential_chance: 20 rainChance_mode: Chc Chance_time: after 2am-3am-4am
+precipPotential_chance: 80 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 52-55-63
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 39-44-55
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-30-39
+precipPotential_chance: 46 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 68-74-79
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-37-41
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 53-60-73
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-47-55
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 10-19-24
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-56-67
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-38-45
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-32-41
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-44-54
+precipPotential_chance: 70 thunderChance_mode: Chc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-34-38
+rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Def
+rainChance_mode: Lkly
+precipPotential_chance: 16 snowChance_mode: SChc Chance_time: before 8pm-9pm-10pm
+rainChance_mode: Chc Chance_time: before 9am-10am
+rainChance_mode: SChc
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 42-50-57
+precipPotential_chance: 30 rainChance_mode: Chc
+rainChance_mode: Chc
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 48-62-70
+snowChance_mode: Lkly
+rainChance_mode: SChc thunderChance_mode: SChc Chance_time: after 11am-noon-1pm
+thunderChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-42-51
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 65-67-74
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-45-61
+rainChance_mode: Chc Chance_time: after 11am-noon-1pm rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-59-69
+rainChance_mode: SChc rainChance_mode: SChc Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-44-59
+precipPotential_chance: 53 rainChance_mode: Chc Chance_time: at day
+precipPotential_chance: 29 rainChance_mode: Chc Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 23-29-43
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-55-63
+rainChance_mode: Def
+otherChance_mode: Unk Chance_time: at night
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-50-55
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-51-59
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 48-63-73
+rainChance_mode: Lkly Chance_time: after 1am
+rainChance_mode: SChc rainChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 35-36-39
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+snowChance_mode: Def Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 51-58-71
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 29-32-41
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 16-25-33
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-35-41
+snowChance_mode: Chc
+rainChance_mode: SChc
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-38-42
+rainChance_mode: Lkly
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 31-34-44
+rainChance_mode: Lkly Chance_time: after 2pm-3pm-4pm-5pm
+precipPotential_chance: 80 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+precipPotential_chance: 43 thunderChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 24-37-46
+precipPotential_chance: 10 snowChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-45-58
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 20-27-39
+snowChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 47-58-68
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-37-49
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 53-58-67
+precipPotential_chance: 28 rainChance_mode: SChc
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 33-35-38
+rainChance_mode: Lkly
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Def
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-33-38
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-63-72
+rainChance_mode: Chc
+rainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 48-56-69
+precipPotential_chance: 28 rainChance_mode: Chc
+rainChance_mode: Lkly
+precipPotential_chance: 22 rainChance_mode: SChc Chance_time: after 11am-noon-1pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 27-33-36
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: SChc Chance_time: after 2am-3am-4am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-36-49
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 18-24-37
+precipPotential_chance: 81 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-32-40
+snowChance_mode: Chc Chance_time: after 2am-3am-4am rainChance_mode: Chc
+precipPotential_chance: 85 rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: Lkly
+rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Chc
+rainChance_mode: Def Chance_time: at night thunderChance_mode: Def Chance_time: at night Chance_time: at night otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Chc Chance_time: at night snowChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 11-15-27
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 11-15-24
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 57-61-71
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-51-71
+precipPotential_chance: 38 rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-46-53
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 49-56-70
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 53-65-73
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 25-30-43
+rainChance_mode: Lkly
+precipPotential_chance: 20 rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-48-66
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 39-41-43
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 38-51-59
+rainChance_mode: SChc
+rainChance_mode: Chc Chance_time: at night
+snowChance_mode: Def Chance_time: after 11pm-midnight rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 29-31-32
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 37-58-73
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-53-59
+rainChance_mode: SChc Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-34-39
+rainChance_mode: Def thunderChance_mode: SChc Chance_time: after 11pm-midnight
+precipPotential_chance: 57 rainChance_mode: Chc
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 34-40-46
+rainChance_mode: Def Chance_time: after 11pm-midnight
+rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 44-46-52
+precipPotential_chance: 54 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-49-57
+precipPotential_chance: 23 rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-35-50
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 33-36-45
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 43-46-55
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 50-52-57
+rainChance_mode: Chc Chance_time: after 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 61-71-77
+rainChance_mode: Lkly Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-44-56
+freezingRainChance_mode: Chc rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm otherChance_mode: Unk Chance_time: at night Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 40-54-65
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 27-34-39
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 43-48-57
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 45-49-60
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 27-42-52
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 66-73-78
+rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-59-68
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 24-31-39
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 39-55-65
+thunderChance_mode: Def Chance_time: after 9pm-10pm rainChance_mode: Def Chance_time: at night Chance_time: at night otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Def Chance_time: after 2am-3am-4am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 19-21-25
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 37-38-43
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-46-50
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-51-59
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 50-64-73
+rainChance_mode: SChc
+rainChance_mode: Lkly thunderChance_mode: Lkly Chance_time: after 11pm-midnight
+rainChance_mode: Def
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 48-53-63
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 39-40-41
+sleetChance_mode: Lkly Chance_time: at day freezingRainChance_mode: Lkly snowChance_mode: Lkly otherChance_mode: Unk
+snowChance_mode: SChc Chance_time: before 3am-4am
+rainChance_mode: SChc rainChance_mode: SChc Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 32-43-50
+rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 50-64-71
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-44-53
+snowChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 27-34-40
+rainChance_mode: SChc
+rainChance_mode: Chc
+thunderChance_mode: Def
+rainChance_mode: SChc
+rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 35-42-56
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-32-42
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 32-37-43
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-30-39
+precipPotential_chance: 52 rainChance_mode: Chc
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 64-76-86
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+rainChance_mode: Def Chance_time: after 2am-3am-4am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 25-39-46
+rainChance_mode: Lkly Chance_time: at night
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 25-28-33
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 45-48-57
+rainChance_mode: Chc
+rainChance_mode: Chc Chance_time: after 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-35-40
+rainChance_mode: SChc rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-69-80
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 47-54-64
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 54-58-71
+precipPotential_chance: 60 rainChance_mode: Lkly Chance_time: after 11pm-midnight
+snowChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm thunderChance_mode: SChc
+precipPotential_chance: 14 rainChance_mode: SChc Chance_time: before 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-35-40
+rainChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm snowChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-57-65
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-67-75
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 34-37-43
+rainChance_mode: SChc Chance_time: before 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 20-26-31
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 15-25-33
+rainChance_mode: SChc rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-33-38
+rainChance_mode: Def Chance_time: after 1am
+rainChance_mode: Lkly
+rainChance_mode: Def Chance_time: at day
+rainChance_mode: Chc Chance_time: at night snowChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-35-43
+rainChance_mode: Lkly Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-43-50
+precipPotential_chance: 46 snowChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 58-69-75
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 27-30-33
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 28-29-33
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 15 rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 62-71-78
+precipPotential_chance: 40 rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: SChc thunderChance_mode: SChc Chance_time: after 11am-noon-1pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-67-85
+rainChance_mode: SChc
+precipPotential_chance: 22 snowChance_mode: SChc
+precipPotential_chance: 80 rainChance_mode: Def Chance_time: after 9am-10am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 38-41-50
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-35-49
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-41-42
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-45-55
+precipPotential_chance: 34 snowChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 60-63-70
+snowChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 33-42-53
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-44-53
+rainChance_mode: Lkly Chance_time: after 1am
+precipPotential_chance: 19 rainChance_mode: SChc Chance_time: after 11pm-midnight
+precipPotential_chance: 30 thunderChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 39-40-43
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-46-52
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 21-31-38
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 51-57-64
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 61-72-78
+thunderChance_mode: Chc Chance_time: at day
+rainChance_mode: Def Chance_time: after 11pm-midnight
+precipPotential_chance: 66 rainChance_mode: Lkly Chance_time: after 11pm-midnight
+thunderChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 43-55-65
+rainChance_mode: Chc Chance_time: before 9am-10am
+rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-37-51
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-29-35
+rainChance_mode: Lkly
+rainChance_mode: Chc Chance_time: at night snowChance_mode: Chc
+precipPotential_chance: 47 rainChance_mode: Chc
+rainChance_mode: SChc
+precipPotential_chance: 56 rainChance_mode: Chc
+thunderChance_mode: Def Chance_time: at night
+rainChance_mode: Chc Chance_time: after 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 32-39-46
+rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 58-72-80
+precipPotential_chance: 22 rainChance_mode: SChc Chance_time: after 2am-3am-4am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 65-69-78
+rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 31-35-45
+rainChance_mode: Chc Chance_time: after 1am
+precipPotential_chance: 39 rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 50-56-70
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 34-42-48
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 67-69-77
+precipPotential_chance: 37 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 47-54-67
+rainChance_mode: Def thunderChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 42-50-65
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 38-49-58
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 60-64-74
+rainChance_mode: Def Chance_time: at night
+precipPotential_chance: 68 rainChance_mode: Lkly Chance_time: after 9am-10am
+rainChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+windDir_mode: s windSpeed_mode: 0 windDir_mode: s
+rainChance_mode: Chc Chance_time: at day
+precipPotential_chance: 15 snowChance_mode: SChc
+windDir_mode: ssw windDir_mode: ssw windSpeed_mode: 0
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 47-52-62
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+rainChance_mode: Def Chance_time: at night thunderChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 26-40-48
+rainChance_mode: Def Chance_time: at night thunderChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 25-32-38
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+rainChance_mode: Def Chance_time: at night thunderChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 45-49-57
+snowChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 21-29-34
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-36-39
+rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-35-40
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-42-49
+rainChance_mode: Def
+rainChance_mode: SChc rainChance_mode: SChc Chance_time: at night
+precipPotential_chance: 53 rainChance_mode: Chc
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-47-54
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 35-39-51
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 64-71-75
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 57-60-70
+rainChance_mode: Chc Chance_time: after 2am-3am-4am
+rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 14-20-30
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 48-55-61
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 62-69-76
+rainChance_mode: Def
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-36-44
+rainChance_mode: Def
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 13-24-32
+thunderChance_mode: Chc rainChance_mode: Chc Chance_time: at day
+thunderChance_mode: Def Chance_time: before 11am-noon-1pm-2pm
+snowChance_mode: SChc
+rainChance_mode: Def Chance_time: at day
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 39-39-41
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+snowChance_mode: Chc Chance_time: at day snowChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 25-28-39
+precipPotential_chance: 43 snowChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-39-42
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-33-37
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 40-46-61
+precipPotential_chance: 30 thunderChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-55-66
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 63-72-78
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 38-53-60
+rainChance_mode: Def Chance_time: at night
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 56-60-69
+rainChance_mode: SChc Chance_time: before 9am-10am
+rainChance_mode: Lkly Chance_time: after 11am-noon-1pm
+rainChance_mode: SChc rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-69-76
+snowChance_mode: Chc
+rainChance_mode: SChc rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-53-60
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 64-73-78
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 37-39-42
+rainChance_mode: Lkly Chance_time: at night snowChance_mode: Chc
+thunderChance_mode: Chc rainChance_mode: Chc Chance_time: at day
+thunderChance_mode: Lkly Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-36-41
+rainChance_mode: Def
+thunderChance_mode: Def Chance_time: before 11am-noon-1pm-2pm rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-49-57
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 44-49-56
+rainChance_mode: Lkly
+precipPotential_chance: 53 thunderChance_mode: Chc Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 43-53-67
+rainChance_mode: Lkly
+rainChance_mode: Def Chance_time: at day thunderChance_mode: Def
+rainChance_mode: SChc
+precipPotential_chance: 10 snowChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 63-67-74
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 67-73-77
+precipPotential_chance: 52 snowChance_mode: SChc Chance_time: after 11pm-midnight
+precipPotential_chance: 57 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-39-47
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 62-72-78
+rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Def Chance_time: at night thunderChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-53-59
+rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Def
+precipPotential_chance: 52 rainChance_mode: Chc
+precipPotential_chance: 30 rainChance_mode: Chc
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Lkly
+rainChance_mode: Def
+precipPotential_chance: 23 snowChance_mode: SChc
+rainChance_mode: Chc Chance_time: before 11pm-midnight snowChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 43-50-64
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-48-57
+precipPotential_chance: 45 snowChance_mode: Chc
+precipPotential_chance: 90 rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 31-33-40
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-51-59
+snowChance_mode: Chc Chance_time: at day snowChance_mode: Chc Chance_time: at day Chance_time: at day snowChance_mode: Chc Chance_time: at day
+rainChance_mode: Def
+rainChance_mode: Def Chance_time: at night thunderChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-33-37
+rainChance_mode: Chc Chance_time: after 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 37-42-53
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+rainChance_mode: SChc
+rainChance_mode: SChc Chance_time: after 11am-noon-1pm
+rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 38-57-71
+precipPotential_chance: 22 rainChance_mode: SChc Chance_time: after 2am-3am-4am
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly
+rainChance_mode: Def
+rainChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-44-68
+precipPotential_chance: 38 rainChance_mode: Chc Chance_time: before 3am-4am
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 51-56-62
+rainChance_mode: Chc Chance_time: at night snowChance_mode: SChc
+rainChance_mode: Chc
+rainChance_mode: Lkly thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-47-56
+rainChance_mode: Lkly
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 49-60-69
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 29-34-39
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 64-66-73
+snowChance_mode: Def Chance_time: before 8pm-9pm-10pm rainChance_mode: Lkly
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-58-67
+rainChance_mode: Chc Chance_time: after 11am-noon-1pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 25-39-50
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 53-64-72
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-42-50
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 15-20-32
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 52-60-75
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+precipPotential_chance: 57 rainChance_mode: Chc Chance_time: after 11pm-midnight
+rainChance_mode: Lkly
+rainChance_mode: Lkly
+rainChance_mode: SChc
+rainChance_mode: SChc Chance_time: at night snowChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 51-69-79
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 42-50-56
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-40-44
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-36-41
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 45-57-66
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 61-70-77
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 54-65-73
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 39-40-43
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-50-56
+snowChance_mode: Lkly Chance_time: at night rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-53-67
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-56-64
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-43-54
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 55-59-71
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 12-14-21
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-59-69
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 46-49-57
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 57-64-74
+rainChance_mode: Lkly Chance_time: after 1am
+precipPotential_chance: 28 rainChance_mode: Chc
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 52-64-74
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 16-23-34
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 65-69-76
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 33-36-45
+rainChance_mode: Lkly thunderChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Chc Chance_time: at night rainChance_mode: Chc Chance_time: at night
+precipPotential_chance: 60 rainChance_mode: Lkly Chance_time: after 11am-noon-1pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 37-39-44
+rainChance_mode: Def Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 60-63-68
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 52-59-70
+precipPotential_chance: 23 rainChance_mode: SChc
+rainChance_mode: Chc thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-37-52
+skyCover_mode: 0-25 skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 42-50-59
+rainChance_mode: Chc
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+rainChance_mode: Chc Chance_time: at night
+precipPotential_chance: 20 rainChance_mode: SChc Chance_time: after 1am
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Chc
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-53-63
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-28-33
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 47-64-77
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+snowChance_mode: Chc Chance_time: after 2am-3am-4am rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-44-46
+snowChance_mode: Chc Chance_time: after 2am-3am-4am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-35-49
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-45-61
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 30-32-38
+rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm snowChance_mode: Chc Chance_time: after 9am-10am Chance_time: after 9am-10am otherChance_mode: Unk Chance_time: at day
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-60-70
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 61-63-71
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-64-73
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 33-48-59
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 49-56-66
+thunderChance_mode: Def Chance_time: at night
+precipPotential_chance: 50 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 36-39-45
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-34-47
+precipPotential_chance: 21 thunderChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 38-47-65
+freezingRainChance_mode: Lkly snowChance_mode: Lkly rainChance_mode: Lkly Chance_time: after 9pm-10pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 44-59-70
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-43-52
+rainChance_mode: SChc
+rainChance_mode: Chc Chance_time: at day
+rainChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm
+thunderChance_mode: Lkly Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-55-63
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 63-72-77
+snowChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 39-40-42
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 26-32-43
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 58-65-71
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-38-46
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+rainChance_mode: Def Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-41-44
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 49-54-69
+rainChance_mode: Chc Chance_time: at day rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 18-30-37
+rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 31-33-41
+rainChance_mode: Chc freezingRainChance_mode: Chc Chance_time: at night otherChance_mode: Unk
+otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Def
+snowChance_mode: Chc Chance_time: after 2am-3am-4am rainChance_mode: Chc
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 50-60-68
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-61-72
+precipPotential_chance: 20 rainChance_mode: SChc Chance_time: after 9am-10am
+rainChance_mode: Def
+sleetChance_mode: Chc Chance_time: at night freezingRainChance_mode: Chc
+precipPotential_chance: 81 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+precipPotential_chance: 50 rainChance_mode: Chc
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-32-39
+rainChance_mode: Chc Chance_time: at night rainChance_mode: SChc
+rainChance_mode: Chc Chance_time: after 2am-3am-4am
+rainChance_mode: SChc
+otherChance_mode: Unk Chance_time: at night
+otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-44-56
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 23-30-36
+rainChance_mode: Def
+snowChance_mode: Chc
+precipPotential_chance: 90 rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-34-39
+rainChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 30-32-40
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 38-38-40
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+rainChance_mode: Def
+rainChance_mode: Lkly Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 23-31-43
+rainChance_mode: Lkly Chance_time: after 1am
+rainChance_mode: Def thunderChance_mode: SChc Chance_time: after 1am
+rainChance_mode: Def Chance_time: before 3pm-4pm thunderChance_mode: Def Chance_time: before 11am-noon-1pm-2pm Chance_time: before 11am-noon-1pm-2pm otherChance_mode: Unk Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 56-60-70
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 33-36-43
+precipPotential_chance: 78 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 50-56-69
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 50-58-72
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 21-26-33
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 52-61-74
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-60-70
+Chance_time: at day
+rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: Def Chance_time: after 1am
+rainChance_mode: Lkly Chance_time: at day
+precipPotential_chance: 21 rainChance_mode: SChc Chance_time: before 11pm-midnight
+rainChance_mode: Lkly Chance_time: at night thunderChance_mode: Chc
+precipPotential_chance: 69 rainChance_mode: Lkly Chance_time: after 11am-noon-1pm
+rainChance_mode: SChc Chance_time: at day rainChance_mode: SChc Chance_time: at day Chance_time: at day rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 68-69-75
+precipPotential_chance: 20 rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-62-70
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 33-42-49
+otherChance_mode: Unk Chance_time: at day
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+rainChance_mode: Def
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 26-40-51
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 26-35-40
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-57-68
+rainChance_mode: SChc
+thunderChance_mode: Lkly Chance_time: at day
+thunderChance_mode: Lkly Chance_time: at night
+precipPotential_chance: 52 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-36-50
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 23-27-38
+precipPotential_chance: 82 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+rainChance_mode: Def Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-34-41
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 23-28-33
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 58-65-72
+precipPotential_chance: 45 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 40-48-62
+rainChance_mode: Def
+precipPotential_chance: 15 rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-31-43
+precipPotential_chance: 68 rainChance_mode: Lkly Chance_time: after 11am-noon-1pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 23-30-42
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-37-46
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 38-41-47
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 56-60-70
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-43-50
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 60-64-72
+thunderChance_mode: Lkly
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 52-60-67
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 44-63-76
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-45-58
+snowChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 59-64-74
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 36-49-58
+rainChance_mode: Def Chance_time: after 2am-3am-4am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 45-61-71
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 55-61-75
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 42-50-68
+snowChance_mode: Def
+precipPotential_chance: 38 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: SChc
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+otherChance_mode: Unk Chance_time: at night
+precipPotential_chance: 58 rainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 46-53-66
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 42-44-46
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 43-46-54
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 51-64-77
+snowChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-61-63
+windDir_mode: ssw windSpeed_mode: 0
+precipPotential_chance: 29 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: SChc Chance_time: before 9am-10am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 30-45-55
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 32-34-41
+thunderChance_mode: Def Chance_time: at night
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-36-49
+snowChance_mode: Chc Chance_time: before 11pm-midnight
+precipPotential_chance: 37 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-58-64
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 32-47-56
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-45-53
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 19-27-38
+precipPotential_chance: 82 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+rainChance_mode: Lkly
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-54-62
+rainChance_mode: Chc Chance_time: before 9am-10am
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 64-67-74
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 44-56-63
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+rainChance_mode: Def
+rainChance_mode: SChc rainChance_mode: SChc
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-34-40
+rainChance_mode: Lkly
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 27-41-50
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-44-53
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 39-50-58
+rainChance_mode: Chc thunderChance_mode: Chc Chance_time: after 9am-10am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 19-26-32
+rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 33-36-45
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-36-50
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 55-66-74
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 35-38-41
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-43-57
+precipPotential_chance: 50 rainChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 21-36-47
+rainChance_mode: Def Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 61-65-74
+rainChance_mode: SChc Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 56-59-67
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+thunderChance_mode: Def Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 52-68-79
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-41-49
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-32-41
+rainChance_mode: Chc rainChance_mode: Lkly Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-34-41
+rainChance_mode: Lkly
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 33-43-49
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 44-63-75
+precipPotential_chance: 51 rainChance_mode: Chc
+precipPotential_chance: 45 rainChance_mode: Chc Chance_time: before 3am-4am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-52-60
+rainChance_mode: Chc Chance_time: after 11am-noon-1pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 37-45-60
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 36-37-44
+rainChance_mode: SChc
+rainChance_mode: Chc Chance_time: after 2am-3am-4am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 47-66-77
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 50-65-72
+precipPotential_chance: 50 rainChance_mode: Chc
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 20-24-35
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-33-38
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 47-61-71
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 55-67-73
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-55-63
+thunderChance_mode: Lkly Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-57-66
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-65-73
+rainChance_mode: SChc
+thunderChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-50-58
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 38-47-67
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 18-23-34
+precipPotential_chance: 37 rainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 50-64-76
+rainChance_mode: Chc
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 61-66-76
+rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+snowChance_mode: Chc Chance_time: after 2am-3am-4am rainChance_mode: Chc
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 11am-noon-1pm rainChance_mode: Chc Chance_time: after 11am-noon-1pm Chance_time: after 11am-noon-1pm rainChance_mode: Chc Chance_time: after 11am-noon-1pm
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Lkly Chance_time: after 1am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 71-75-79
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 48-58-66
+rainChance_mode: Lkly Chance_time: after 2pm-3pm-4pm-5pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 51-64-71
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-48-61
+snowChance_mode: SChc Chance_time: before 3am-4am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 23-27-38
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 20-25-32
+rainChance_mode: SChc
+rainChance_mode: SChc
+rainChance_mode: Lkly
+rainChance_mode: Def
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 24-28-38
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-33-44
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-38-48
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-29-40
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-56-67
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 18-23-35
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 24-40-50
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 36-45-51
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 35-44-57
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-53-62
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 59-65-71
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 60-64-73
+rainChance_mode: Lkly thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 35-41-51
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-33-43
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-50-59
+snowChance_mode: Lkly Chance_time: at day
+precipPotential_chance: 52 rainChance_mode: Chc
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 24-33-43
+rainChance_mode: Chc Chance_time: at day
+rainChance_mode: SChc rainChance_mode: SChc
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+rainChance_mode: SChc Chance_time: after 11am-noon-1pm
+rainChance_mode: Def
+rainChance_mode: Chc Chance_time: after 11am-noon-1pm rainChance_mode: Chc
+snowChance_mode: Chc Chance_time: at day rainChance_mode: SChc
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-38-42
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 55-59-69
+rainChance_mode: Def Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: SChc rainChance_mode: SChc
+thunderChance_mode: Def Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 23-27-39
+rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Def thunderChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm
+precipPotential_chance: 27 rainChance_mode: Chc Chance_time: after 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 16-23-34
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 35-38-44
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-45-55
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 68-75-80
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 32-35-45
+snowChance_mode: Lkly
+rainChance_mode: Def
+thunderChance_mode: Chc rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 52-58-69
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 56-62-74
+skyCover_mode: 0-25 skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 49-56-70
+rainChance_mode: Lkly Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 53-66-76
+rainChance_mode: Def Chance_time: at night
+thunderChance_mode: Def Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 49-54-61
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 19-22-33
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 48-54-65
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-35-40
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-36-50
+rainChance_mode: Chc Chance_time: after 1am
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 61-64-70
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 39-46-56
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 59-70-78
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 52-58-67
+rainChance_mode: Chc
+skyCover_mode: 50-75 skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 17-27-38
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-36-49
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-35-41
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 39-40-41
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 48-52-63
+snowChance_mode: Chc Chance_time: at day rainChance_mode: Chc
+thunderChance_mode: Chc rainChance_mode: Chc Chance_time: at night
+precipPotential_chance: 27 rainChance_mode: Chc
+rainChance_mode: Def Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 46-53-67
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 64-68-78
+rainChance_mode: Lkly
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-55-63
+rainChance_mode: SChc rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Def
+precipPotential_chance: 67 rainChance_mode: Lkly Chance_time: after 9am-10am
+snowChance_mode: Def Chance_time: before 11am-noon-1pm-2pm rainChance_mode: Lkly
+rainChance_mode: Lkly Chance_time: at night thunderChance_mode: SChc
+rainChance_mode: SChc rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 17-21-32
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 31-45-56
+rainChance_mode: Lkly
+rainChance_mode: Chc Chance_time: after 11am-noon-1pm Chance_time: after 11am-noon-1pm rainChance_mode: Chc
+rainChance_mode: Def thunderChance_mode: Def Chance_time: after 11am-noon-1pm
+rainChance_mode: Chc thunderChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm
+otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+rainChance_mode: SChc
+rainChance_mode: Chc
+precipPotential_chance: 69 thunderChance_mode: Chc Chance_time: at night
+skyCover_mode: 75-100 skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 24-32-40
+rainChance_mode: Lkly Chance_time: at day snowChance_mode: SChc
+rainChance_mode: Def freezingRainChance_mode: Lkly Chance_time: before 9am-10am thunderChance_mode: Chc
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 32-38-44
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-36-49
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-43-53
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 22-28-38
+rainChance_mode: Lkly thunderChance_mode: SChc Chance_time: after 11am-noon-1pm
+rainChance_mode: Chc Chance_time: after 11am-noon-1pm Chance_time: after 11am-noon-1pm rainChance_mode: Chc Chance_time: after 11am-noon-1pm
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-43-49
+rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 62-63-69
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-62-73
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 27 rainChance_mode: SChc Chance_time: before 9am-10am
+snowChance_mode: Chc Chance_time: after 2am-3am-4am
+rainChance_mode: Chc
+rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 24-32-46
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 32-35-42
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 29-46-57
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-33-46
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-53-62
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 20-24-35
+snowChance_mode: Def Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 21 snowChance_mode: SChc
+rainChance_mode: SChc rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-34-38
+snowChance_mode: SChc Chance_time: after 1am
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 48-61-69
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 45-57-66
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 27-44-56
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 44-47-53
+precipPotential_chance: 39 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 35-38-46
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-34-40
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 37-38-41
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 37-51-59
+rainChance_mode: Lkly
+rainChance_mode: Def
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 25-27-31
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly
+rainChance_mode: Lkly freezingRainChance_mode: Chc otherChance_mode: Unk Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 50-57-70
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 57-63-77
+snowChance_mode: Def
+rainChance_mode: Chc Chance_time: before 3am-4am
+rainChance_mode: Lkly
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 54-58-68
+snowChance_mode: Lkly Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 50-55-61
+precipPotential_chance: 49 rainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 33-45-53
+rainChance_mode: Def Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+precipPotential_chance: 54 rainChance_mode: Chc
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 29-32-36
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-41-46
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 18-31-38
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 48-53-67
+rainChance_mode: Lkly
+precipPotential_chance: 30 snowChance_mode: Chc Chance_time: at night
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 48-66-78
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 83 rainChance_mode: Chc Chance_time: after 1am
+precipPotential_chance: 23 rainChance_mode: SChc
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 48-57-65
+thunderChance_mode: Def rainChance_mode: Def Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-53-61
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-47-54
+rainChance_mode: SChc Chance_time: before 11pm-midnight snowChance_mode: SChc
+rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 20-23-32
+precipPotential_chance: 80 rainChance_mode: Def Chance_time: after 9am-10am
+snowChance_mode: Chc Chance_time: after 11am-noon-1pm rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm Chance_time: before 11am-noon-1pm-2pm otherChance_mode: Unk Chance_time: at day
+rainChance_mode: SChc
+rainChance_mode: Chc Chance_time: before 1am-2am
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 28-31-35
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 53-58-67
+precipPotential_chance: 50 rainChance_mode: Chc Chance_time: before 1am-2am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 37-44-58
+precipPotential_chance: 56 rainChance_mode: Chc Chance_time: after 9pm-10pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 33-40-51
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 36-38-44
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 22-38-47
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 35-37-45
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 39-50-60
+rainChance_mode: Def
+precipPotential_chance: 20 snowChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-38-54
+otherChance_mode: Unk Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 21-24-33
+rainChance_mode: SChc
+precipPotential_chance: 36 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 65-69-77
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 56-62-74
+rainChance_mode: Chc Chance_time: at day
+precipPotential_chance: 43 rainChance_mode: Chc Chance_time: before 3am-4am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-34-40
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 24-28-39
+rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 19-27-39
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 42-49-68
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 46-56-65
+rainChance_mode: Chc Chance_time: at day
+thunderChance_mode: Def Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-37-42
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-52-59
+otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 45-58-68
+rainChance_mode: SChc
+precipPotential_chance: 45 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 58-69-76
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 49-56-67
+rainChance_mode: Def
+rainChance_mode: SChc
+snowChance_mode: Chc Chance_time: before 11pm-midnight
+rainChance_mode: Def Chance_time: at night thunderChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 56-59-69
+precipPotential_chance: 41 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 47-66-77
+rainChance_mode: Chc Chance_time: at day rainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-34-39
+rainChance_mode: Chc
+rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-46-50
+rainChance_mode: SChc
+rainChance_mode: Lkly Chance_time: after 1am
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-39-41
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 51-57-63
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 67-69-75
+rainChance_mode: Lkly Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 24-31-42
+skyCover_mode: 25-50 temperature_mode: 41 Chance_time: by 9am temperature_mode: 53 day_night: day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 61-71-78
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 65-69-78
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-66-77
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 35-37-40
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 57-65-76
+rainChance_mode: Chc Chance_time: at night
+rainChance_mode: SChc
+snowChance_mode: Def Chance_time: before 11am-noon-1pm-2pm rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-33-38
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 62-68-82
+rainChance_mode: Lkly
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 67-70-77
+snowChance_mode: Lkly Chance_time: at day rainChance_mode: Lkly
+rainChance_mode: Def Chance_time: after 11pm-midnight
+rainChance_mode: Def Chance_time: after 11am-noon-1pm freezingRainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 45-57-67
+precipPotential_chance: 29 rainChance_mode: SChc Chance_time: before 9am-10am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-36-47
+rainChance_mode: SChc
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Lkly
+thunderChance_mode: Def Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-62-72
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+rainChance_mode: Chc thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+rainChance_mode: Chc Chance_time: after 1am
+precipPotential_chance: 16 rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: SChc rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 33-35-41
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-52-60
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 25-31-35
+rainChance_mode: Lkly
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 25-32-41
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 24-28-31
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 61-69-75
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly
+rainChance_mode: Def Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-52-60
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-34-38
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 17-27-39
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-46-57
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 31-32-38
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 42-48-56
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-34-41
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 20-24-36
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-34-42
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 33-44-53
+rainChance_mode: Chc Chance_time: at day
+snowChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 39-48-56
+rainChance_mode: Def Chance_time: at day
+rainChance_mode: Def
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-36-44
+precipPotential_chance: 26 rainChance_mode: SChc Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 20-29-34
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+precipPotential_chance: 30 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Def
+rainChance_mode: SChc rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 48-62-71
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 51 rainChance_mode: Chc
+rainChance_mode: Chc Chance_time: after 2am-3am-4am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-30-36
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 39-50-57
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-66-74
+rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-68-79
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 37-46-65
+rainChance_mode: Lkly Chance_time: after 11am-noon-1pm snowChance_mode: Chc
+sleetChance_mode: Lkly Chance_time: at day freezingRainChance_mode: Lkly snowChance_mode: Lkly otherChance_mode: Unk
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-40-54
+precipPotential_chance: 32 rainChance_mode: Chc Chance_time: at day
+precipPotential_chance: 32 rainChance_mode: Chc Chance_time: before 3am-4am
+otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Lkly thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 56-60-67
+rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-37-45
+rainChance_mode: SChc
+windDir_mode: se windSpeed_mode: 0 windDir_mode: se
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 19-25-30
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 43-46-56
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 25-31-42
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-54-63
+snowChance_mode: Lkly Chance_time: at day
+rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 23-32-41
+rainChance_mode: Lkly Chance_time: after 1am
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 38-38-39
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 30-34-44
+precipPotential_chance: 40 snowChance_mode: Chc Chance_time: at night
+rainChance_mode: Lkly Chance_time: at night thunderChance_mode: SChc
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 61-65-72
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-44-50
+precipPotential_chance: 90 rainChance_mode: Chc Chance_time: after 1am
+otherChance_mode: Unk Chance_time: at night
+precipPotential_chance: 53 rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: Lkly
+precipPotential_chance: 48 rainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-29-34
+rainChance_mode: Chc Chance_time: after 11am-noon-1pm Chance_time: after 11am-noon-1pm rainChance_mode: Chc Chance_time: after 11am-noon-1pm
+precipPotential_chance: 61 rainChance_mode: Lkly Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 39-45-58
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 36-38-42
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-35-40
+thunderChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 19-28-39
+precipPotential_chance: 53 rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 34-36-42
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 32-40-46
+precipPotential_chance: 40 rainChance_mode: Chc Chance_time: after 1am
+precipPotential_chance: 59 rainChance_mode: Chc Chance_time: after 11pm-midnight
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+rainChance_mode: Lkly Chance_time: at day
+snowChance_mode: Lkly Chance_time: at day rainChance_mode: Lkly
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 26-33-37
+precipPotential_chance: 59 rainChance_mode: Lkly Chance_time: after 11am-noon-1pm
+rainChance_mode: SChc
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 31-37-49
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 35-41-51
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 64-68-77
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Lkly
+rainChance_mode: Chc Chance_time: after 11pm-midnight
+precipPotential_chance: 78 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 17-21-30
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-66-75
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-44-52
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-36-42
+thunderChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 40-51-59
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 59-63-73
+precipPotential_chance: 80 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+precipPotential_chance: 85 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-45-51
+rainChance_mode: Def Chance_time: at night thunderChance_mode: SChc
+precipPotential_chance: 29 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-45-54
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 25-33-45
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-54-63
+rainChance_mode: Lkly thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+precipPotential_chance: 20 rainChance_mode: SChc Chance_time: after 11pm-midnight
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 19-31-41
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-37-49
+rainChance_mode: Chc
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+rainChance_mode: SChc
+precipPotential_chance: 22 rainChance_mode: SChc Chance_time: after 2am-3am-4am
+rainChance_mode: SChc rainChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 51-57-63
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 31-37-50
+rainChance_mode: Chc Chance_time: after 11am-noon-1pm
+precipPotential_chance: 80 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-41-44
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Def Chance_time: at night
+rainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 36-45-65
+thunderChance_mode: Def rainChance_mode: Def Chance_time: at day
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm Chance_time: before 8pm-9pm-10pm
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly
+rainChance_mode: Chc Chance_time: at night rainChance_mode: Chc Chance_time: at night
+precipPotential_chance: 18 rainChance_mode: SChc
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 55-68-76
+rainChance_mode: Lkly Chance_time: after 1am
+precipPotential_chance: 25 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 33-43-50
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 47-60-70
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 18-30-37
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-54-63
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-38-46
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 51-64-74
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 46-52-61
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 55-59-71
+rainChance_mode: Def
+rainChance_mode: Def Chance_time: after 11am-noon-1pm freezingRainChance_mode: Lkly otherChance_mode: Unk Chance_time: at day Chance_time: at day otherChance_mode: Unk Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-63-75
+rainChance_mode: SChc rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 42-54-62
+rainChance_mode: Lkly
+precipPotential_chance: 63 rainChance_mode: Lkly Chance_time: after 11pm-midnight
+snowChance_mode: Lkly Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 42-48-68
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-52-59
+rainChance_mode: Lkly Chance_time: after 1am
+rainChance_mode: SChc rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 51-56-68
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 27-31-38
+precipPotential_chance: 40 snowChance_mode: Chc Chance_time: at night
+rainChance_mode: Def Chance_time: after 11pm-midnight
+rainChance_mode: Chc Chance_time: before 1am-2am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 48-55-67
+thunderChance_mode: Lkly Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 26-33-45
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-45-56
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 55-60-71
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 49-64-73
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 34-36-40
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Def
+rainChance_mode: Lkly
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Chc
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-63-73
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 38-45-61
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 27-34-39
+rainChance_mode: Chc Chance_time: at day rainChance_mode: Chc
+precipPotential_chance: 32 rainChance_mode: Chc Chance_time: before 9am-10am
+rainChance_mode: Lkly Chance_time: after 1am
+rainChance_mode: Chc Chance_time: before 9am-10am snowChance_mode: Chc Chance_time: after 9am-10am Chance_time: after 9am-10am otherChance_mode: Unk Chance_time: at day
+snowChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 52-69-79
+rainChance_mode: Lkly Chance_time: after 2am-3am-4am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 45-57-65
+rainChance_mode: Lkly
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 37-41-50
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 34-47-56
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-37-42
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 25-29-39
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-46-54
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-45-52
+precipPotential_chance: 49 rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 43-56-66
+snowChance_mode: Chc
+precipPotential_chance: 81 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 21-27-33
+rainChance_mode: Def
+rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 35-45-59
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-41-44
+precipPotential_chance: 15 rainChance_mode: SChc Chance_time: before 8pm-9pm-10pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 16-26-33
+otherChance_mode: Unk
+precipPotential_chance: 19 rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 68-71-76
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-31-38
+precipPotential_chance: 49 rainChance_mode: Chc
+precipPotential_chance: 60 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-42-48
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-41-47
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 36-42-52
+rainChance_mode: Lkly
+thunderChance_mode: Def rainChance_mode: Def Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-37-49
+rainChance_mode: Lkly Chance_time: at day
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 46-53-66
+rainChance_mode: SChc Chance_time: at day
+freezingRainChance_mode: SChc Chance_time: after 1am
+precipPotential_chance: 72 thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+snowChance_mode: Chc Chance_time: after 2am-3am-4am rainChance_mode: Chc
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+precipPotential_chance: 21 snowChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-50-58
+rainChance_mode: Chc
+rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-50-67
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 58-71-79
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 27-34-42
+rainChance_mode: Lkly Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 43-50-65
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 61-65-75
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 40-43-50
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 20 rainChance_mode: SChc Chance_time: after 9am-10am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 42-49-57
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 57-67-73
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 52-62-67
+rainChance_mode: SChc rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Def
+rainChance_mode: Lkly
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 63-65-71
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 34-42-50
+snowChance_mode: Lkly Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 40-46-61
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 36-38-42
+rainChance_mode: Def Chance_time: at day
+rainChance_mode: Lkly Chance_time: at day thunderChance_mode: SChc Chance_time: before 3pm-4pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 44-56-67
+rainChance_mode: Def
+rainChance_mode: Def
+precipPotential_chance: 37 rainChance_mode: Chc Chance_time: before 9am-10am
+rainChance_mode: Lkly Chance_time: at night
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+precipPotential_chance: 15 rainChance_mode: SChc
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 35-39-43
+rainChance_mode: Lkly
+snowChance_mode: SChc Chance_time: at day rainChance_mode: SChc
+freezingRainChance_mode: SChc Chance_time: after 1am
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+rainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 23-28-34
+precipPotential_chance: 20 otherChance_mode: Unk Chance_time: at day
+otherChance_mode: Unk Chance_time: at night
+precipPotential_chance: 25 rainChance_mode: SChc Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-51-59
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 36-49-60
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 68-73-77
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 55-60-71
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 18-22-33
+rainChance_mode: Lkly Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 24-39-47
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: -6--1-8
+rainChance_mode: Chc Chance_time: after 2am-3am-4am
+rainChance_mode: Chc
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 58-66-72
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 44-51-64
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 25-31-35
+precipPotential_chance: 36 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-54-61
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-45-52
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 35-48-60
+rainChance_mode: SChc
+otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Lkly
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 43-46-55
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 28-31-39
+sleetChance_mode: Chc Chance_time: at night
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-35-42
+rainChance_mode: Chc Chance_time: at day rainChance_mode: Chc
+precipPotential_chance: 48 rainChance_mode: Chc
+precipPotential_chance: 58 rainChance_mode: Lkly Chance_time: after 11am-noon-1pm
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 40-41-43
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 29-35-47
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-35-40
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-46-53
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 43-50-67
+precipPotential_chance: 40 snowChance_mode: Chc Chance_time: at night
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 44-47-56
+precipPotential_chance: 90 rainChance_mode: Chc Chance_time: after 1am
+precipPotential_chance: 20 rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 20 rainChance_mode: SChc
+rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 47-54-69
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 62-70-75
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-33-38
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 53-57-67
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 59-64-74
+precipPotential_chance: 50 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-35-39
+rainChance_mode: Def Chance_time: at night thunderChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 25-31-43
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 37-50-58
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-57-68
+rainChance_mode: Lkly Chance_time: after 1am
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 20-28-39
+rainChance_mode: SChc rainChance_mode: SChc
+precipPotential_chance: 15 rainChance_mode: SChc
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-37-44
+rainChance_mode: Chc
+rainChance_mode: Lkly
+rainChance_mode: Def Chance_time: at night
+precipPotential_chance: 27 rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-36-49
+precipPotential_chance: 15 rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 24-31-42
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 42-46-54
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-68-77
+rainChance_mode: Chc Chance_time: at day
+snowChance_mode: Lkly
+rainChance_mode: SChc rainChance_mode: SChc
+rainChance_mode: Lkly
+rainChance_mode: Def Chance_time: at day
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly
+rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Def Chance_time: at day thunderChance_mode: Chc Chance_time: at day
+rainChance_mode: Def
+snowChance_mode: Def Chance_time: at day rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 31-36-44
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 34-35-37
+precipPotential_chance: 20 otherChance_mode: Unk Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 53-65-73
+rainChance_mode: Def Chance_time: at day thunderChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 25-31-40
+snowChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 32-39-45
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-37-47
+precipPotential_chance: 37 rainChance_mode: Chc Chance_time: after 2am-3am-4am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 63-70-75
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-44-53
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-45-61
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 47-62-72
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+rainChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 33-38-43
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-56-67
+rainChance_mode: SChc
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 63-73-81
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 49-61-69
+precipPotential_chance: 50 rainChance_mode: Chc
+rainChance_mode: SChc
+rainChance_mode: Def Chance_time: at night rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 51-58-65
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-64-73
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+rainChance_mode: Lkly Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 44-49-60
+rainChance_mode: Def Chance_time: at night
+precipPotential_chance: 46 thunderChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Def Chance_time: at night
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+thunderChance_mode: Def
+precipPotential_chance: 74 thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+precipPotential_chance: 26 rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm
+precipPotential_chance: 58 rainChance_mode: Chc
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 50-59-66
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-32-39
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 62-70-79
+thunderChance_mode: Def rainChance_mode: Def Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 50-66-79
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 16-26-38
+rainChance_mode: Lkly rainChance_mode: Lkly Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 8-13-21
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-52-59
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-35-39
+rainChance_mode: SChc Chance_time: before 11pm-midnight
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+rainChance_mode: Lkly thunderChance_mode: SChc Chance_time: at night
+precipPotential_chance: 29 rainChance_mode: SChc Chance_time: before 9am-10am
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 34-35-38
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-36-43
+rainChance_mode: Def
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+rainChance_mode: Def
+precipPotential_chance: 51 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 56-64-71
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 24-34-42
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 37-38-41
+rainChance_mode: Lkly
+rainChance_mode: Chc
+rainChance_mode: Def
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 26-31-45
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 24-41-52
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 21-27-37
+precipPotential_chance: 51 rainChance_mode: Chc
+precipPotential_chance: 58 thunderChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 36-49-61
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-36-47
+rainChance_mode: Def Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-33-38
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-44-53
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-54-63
+otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 49-64-73
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-53-59
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 21-29-35
+rainChance_mode: Chc Chance_time: after 11am-noon-1pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 29-35-43
+precipPotential_chance: 55 rainChance_mode: Lkly
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm Chance_time: before 8pm-9pm-10pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-32-37
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 58-62-72
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 47-57-65
+precipPotential_chance: 10 rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 54 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 24-30-41
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 23-31-44
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-50-59
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 39-54-65
+precipPotential_chance: 59 rainChance_mode: Chc
+rainChance_mode: Lkly Chance_time: before 8pm-9pm-10pm
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 66-69-77
+rainChance_mode: Def
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-53-62
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 45-49-60
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-33-37
+rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: Chc
+rainChance_mode: Def
+otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Def Chance_time: after 11pm-midnight
+rainChance_mode: Lkly thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+rainChance_mode: Lkly Chance_time: after 1am
+rainChance_mode: SChc
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+rainChance_mode: Chc thunderChance_mode: SChc Chance_time: after 11am-noon-1pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-33-46
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 49-63-70
+rainChance_mode: Lkly Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-59-72
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 69-74-78
+rainChance_mode: SChc rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 48-59-68
+rainChance_mode: Def Chance_time: after 11pm-midnight
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+rainChance_mode: Def
+precipPotential_chance: 78 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 59-64-73
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 63-73-81
+rainChance_mode: Lkly Chance_time: at night
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-42-48
+thunderChance_mode: Def rainChance_mode: Def Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 23-38-47
+rainChance_mode: SChc Chance_time: after 2am-3am-4am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 43-51-64
+precipPotential_chance: 60 thunderChance_mode: Chc
+precipPotential_chance: 70 rainChance_mode: SChc Chance_time: after 11am-noon-1pm
+rainChance_mode: Def Chance_time: after 1am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 66-70-74
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 57-72-83
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 18-22-33
+precipPotential_chance: 92 rainChance_mode: SChc Chance_time: before 11pm-midnight
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 51-69-79
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 48-52-64
+skyCover_mode: 75-100 skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-42-48
+snowChance_mode: Def Chance_time: after 11am-noon-1pm rainChance_mode: Def
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 24-31-42
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+rainChance_mode: SChc Chance_time: after 11am-noon-1pm
+rainChance_mode: Chc
+precipPotential_chance: 51 thunderChance_mode: SChc Chance_time: after 11pm-midnight
+precipPotential_chance: 88 rainChance_mode: SChc Chance_time: before 11pm-midnight
+thunderChance_mode: SChc rainChance_mode: SChc Chance_time: at day
+precipPotential_chance: 55 rainChance_mode: Chc
+rainChance_mode: Def Chance_time: after 11am-noon-1pm freezingRainChance_mode: Lkly otherChance_mode: Unk Chance_time: at day Chance_time: at day otherChance_mode: Unk Chance_time: at day
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-55-63
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-50-65
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 42-50-67
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 58-61-70
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 47-54-71
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-53-61
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 55-58-67
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 56-59-67
+precipPotential_chance: 21 rainChance_mode: SChc Chance_time: before 8pm-9pm-10pm
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 33-34-38
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Def
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 11am-noon-1pm rainChance_mode: Chc Chance_time: after 11am-noon-1pm Chance_time: after 11am-noon-1pm rainChance_mode: Chc Chance_time: after 11am-noon-1pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-42-51
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-33-46
+rainChance_mode: SChc rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 33-36-44
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 31-34-41
+snowChance_mode: SChc
+rainChance_mode: SChc
+rainChance_mode: Def
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 20-24-35
+otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Chc
+rainChance_mode: Lkly Chance_time: at day
+precipPotential_chance: 70 thunderChance_mode: Chc Chance_time: at day
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-37-40
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-61-71
+rainChance_mode: Def Chance_time: after 2am-3am-4am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 46-49-58
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-43-45
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 44-54-63
+precipPotential_chance: 25 otherChance_mode: Unk Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 33-34-37
+snowChance_mode: Chc Chance_time: at night rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 45-53-61
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 27-30-39
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 36-44-49
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-36-49
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-55-65
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 15-32-43
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-35-40
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-54-62
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 51-58-70
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-28-32
+thunderChance_mode: Def
+thunderChance_mode: Lkly Chance_time: at night
+rainChance_mode: SChc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 31-33-38
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 32-34-41
+rainChance_mode: Def Chance_time: after 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 49-62-71
+rainChance_mode: Def thunderChance_mode: Def Chance_time: after 11am-noon-1pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 66-67-69
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-51-62
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 20-29-35
+snowChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Def Chance_time: at day
+rainChance_mode: SChc
+rainChance_mode: Def Chance_time: at night thunderChance_mode: SChc
+rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-42-49
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 29-36-47
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 47-52-63
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-46-63
+otherChance_mode: Unk
+precipPotential_chance: 33 thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-61-72
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 38-46-63
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 36-37-40
+rainChance_mode: Def
+rainChance_mode: Chc Chance_time: at day
+precipPotential_chance: 48 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 59-65-71
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 44-58-68
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 34-42-49
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm Chance_time: before 8pm-9pm-10pm
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+otherChance_mode: Unk Chance_time: at night
+precipPotential_chance: 22 rainChance_mode: SChc Chance_time: after 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 49-58-70
+snowChance_mode: Chc Chance_time: before 11pm-midnight
+rainChance_mode: Lkly
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 29-45-55
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-28-33
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-37-43
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 51-57-63
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 28-33-44
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 26 rainChance_mode: Chc rainChance_mode: Chc Chance_time: before 11pm-midnight
+precipPotential_chance: 15 rainChance_mode: SChc
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 12-17-23
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 42-57-68
+rainChance_mode: SChc Chance_time: after 2am-3am-4am
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+thunderChance_mode: Def
+rainChance_mode: Chc Chance_time: at night snowChance_mode: Chc
+rainChance_mode: Chc thunderChance_mode: SChc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 19-23-35
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+rainChance_mode: Chc
+precipPotential_chance: 54 rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 45-60-72
+precipPotential_chance: 41 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-32-40
+thunderChance_mode: Def Chance_time: at day rainChance_mode: Def
+precipPotential_chance: 32 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 29-36-47
+rainChance_mode: SChc Chance_time: at day Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 66-70-78
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-44-60
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 36-38-41
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 49-58-65
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-35-41
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+precipPotential_chance: 20 rainChance_mode: SChc Chance_time: after 11pm-midnight
+snowChance_mode: SChc Chance_time: after 1am
+rainChance_mode: Chc
+rainChance_mode: Def
+rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 57-66-74
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 56-66-72
+rainChance_mode: Def Chance_time: after 11pm-midnight
+rainChance_mode: SChc Chance_time: before 11pm-midnight
+precipPotential_chance: 30 rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm
+thunderChance_mode: Lkly Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 33-39-49
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-67-75
+rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 16-23-34
+precipPotential_chance: 60 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Lkly
+snowChance_mode: Chc Chance_time: at day snowChance_mode: Chc
+skyCover_mode: 50-75 skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-34-46
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-46-59
+precipPotential_chance: 19 snowChance_mode: SChc Chance_time: after 9pm-10pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 39-56-70
+precipPotential_chance: 60 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 67-69-75
+precipPotential_chance: 30 rainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 48-63-74
+precipPotential_chance: 22 rainChance_mode: SChc Chance_time: after 2am-3am-4am
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm Chance_time: before 8pm-9pm-10pm
+skyCover_mode: 50-75 skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 53-54-60
+rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-55-63
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-42-50
+rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 23-27-37
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Def Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 31-38-51
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 48-53-65
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 63-67-77
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 56-61-70
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+thunderChance_mode: Def Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Lkly Chance_time: after 2pm-3pm-4pm-5pm snowChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm Chance_time: before 11am-noon-1pm-2pm otherChance_mode: Unk Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 37-49-60
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 61-71-78
+rainChance_mode: Chc Chance_time: at day rainChance_mode: Chc
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 25-39-47
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-43-53
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 57-63-71
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 32-34-41
+precipPotential_chance: 40 rainChance_mode: SChc Chance_time: before 1am-2am
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Lkly Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 21-29-40
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 45-51-64
+rainChance_mode: Def
+otherChance_mode: Unk Chance_time: at night
+precipPotential_chance: 36 snowChance_mode: Chc
+rainChance_mode: Def
+rainChance_mode: Chc Chance_time: at night
+precipPotential_chance: 23 rainChance_mode: SChc Chance_time: before 8pm-9pm-10pm
+rainChance_mode: Def
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 48-51-56
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 33-35-38
+rainChance_mode: Def Chance_time: after 11pm-midnight
+precipPotential_chance: 52 thunderChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Chc
+precipPotential_chance: 32 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 26-31-44
+precipPotential_chance: 33 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-59-73
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 51-58-70
+precipPotential_chance: 24 rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 17-18-24
+precipPotential_chance: 28 rainChance_mode: SChc Chance_time: before 8pm-9pm-10pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-68-87
+rainChance_mode: Def Chance_time: at day
+rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 29-34-39
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 65-73-78
+rainChance_mode: Chc
+precipPotential_chance: 28 rainChance_mode: Chc Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 15-25-33
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 37-41-49
+rainChance_mode: Def Chance_time: after 11am-noon-1pm freezingRainChance_mode: Lkly otherChance_mode: Unk Chance_time: at day Chance_time: at day otherChance_mode: Unk Chance_time: at day
+otherChance_mode: Unk Chance_time: at day
+rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-37-49
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-69-75
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 45-51-63
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-55-63
+rainChance_mode: Def Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-36-41
+snowChance_mode: Chc Chance_time: after 2am-3am-4am rainChance_mode: Chc
+rainChance_mode: Chc Chance_time: before 3am-4am
+rainChance_mode: Def Chance_time: before 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-37-49
+rainChance_mode: Chc Chance_time: before 3am-4am
+rainChance_mode: Chc Chance_time: after 11am-noon-1pm Chance_time: after 11am-noon-1pm rainChance_mode: Chc Chance_time: after 11am-noon-1pm
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 33-39-45
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-68-77
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-52-62
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-71-78
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+precipPotential_chance: 37 rainChance_mode: Chc Chance_time: after 2am-3am-4am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 42-45-54
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-51-58
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 40-47-62
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 16-22-36
+rainChance_mode: SChc
+precipPotential_chance: 30 rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 40-47-62
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 58-64-74
+rainChance_mode: Lkly snowChance_mode: Lkly Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 38-43-54
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-46-59
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 28-44-54
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-39-46
+rainChance_mode: Lkly freezingRainChance_mode: Lkly otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-42-50
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-48-63
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 53-66-72
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-27-31
+precipPotential_chance: 15 rainChance_mode: SChc
+precipPotential_chance: 27 rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 62-65-73
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 33-36-43
+rainChance_mode: Chc Chance_time: after 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 34-35-41
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 39-50-60
+rainChance_mode: Lkly Chance_time: at day
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-36-41
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 25-32-42
+rainChance_mode: Chc Chance_time: after 2am-3am-4am
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-43-49
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 31-37-48
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-69-78
+rainChance_mode: Chc Chance_time: before 3am-4am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 44-47-54
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-32-39
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-33-37
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: SChc Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 30-45-55
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly
+rainChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 53-63-71
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-61-71
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-60-71
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-40-51
+rainChance_mode: Def
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 31-34-39
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 37-43-50
+snowChance_mode: Def
+rainChance_mode: Lkly Chance_time: at day
+precipPotential_chance: 30 rainChance_mode: Chc Chance_time: before 9am-10am
+rainChance_mode: Lkly Chance_time: after 1am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-54-67
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-51-61
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 51-62-69
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-33-37
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 39-50-57
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-44-52
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 29-36-44
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+precipPotential_chance: 42 snowChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-41-47
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-44-56
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-30-39
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 52-70-81
+rainChance_mode: Lkly rainChance_mode: Lkly Chance_time: at day
+rainChance_mode: Lkly Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 32-40-47
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-56-66
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 35-44-51
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 57-60-69
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-45-47
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 21-24-33
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-34-45
+rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 44-54-62
+rainChance_mode: Def Chance_time: before 11pm-midnight
+thunderChance_mode: SChc rainChance_mode: SChc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 59-63-73
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 67-74-78
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 59-66-72
+rainChance_mode: Lkly Chance_time: at day
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 48-59-68
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 39-52-58
+precipPotential_chance: 43 rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 63-66-73
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+rainChance_mode: Def snowChance_mode: Def Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 26-39-46
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 32-42-49
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-52-65
+windDir_mode: sse windSpeed_mode: 9 windSpeed_mode: 29
+precipPotential_chance: 50 rainChance_mode: Chc Chance_time: before 3am-4am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 47-60-69
+precipPotential_chance: 78 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 49-59-69
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 63-66-74
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-46-54
+rainChance_mode: Lkly Chance_time: at day thunderChance_mode: SChc Chance_time: before 3pm-4pm
+rainChance_mode: Chc Chance_time: at day freezingRainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-56-68
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-36-44
+freezingRainChance_mode: Chc Chance_time: after 2am-3am-4am Chance_time: after 2am-3am-4am freezingRainChance_mode: Chc Chance_time: after 2am-3am-4am
+precipPotential_chance: 60 thunderChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-67-76
+rainChance_mode: Chc Chance_time: before 9am-10am snowChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 28-41-50
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 55-60-69
+precipPotential_chance: 32 rainChance_mode: Chc Chance_time: before 9am-10am
+rainChance_mode: Lkly
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 49-56-63
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 25-30-37
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 59-63-73
+rainChance_mode: Lkly Chance_time: after 1am
+rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 62-70-75
+rainChance_mode: Def Chance_time: after 11pm-midnight
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 39-53-64
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 39-41-43
+skyCover_mode: 50-75 skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 53-54-60
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 67-69-75
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 50-64-73
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-46-58
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 35-46-54
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-68-77
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 25-40-51
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 20-24-36
+rainChance_mode: Lkly Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 19-33-42
+rainChance_mode: Def Chance_time: at day
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 22-28-38
+rainChance_mode: Lkly
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-51-59
+snowChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 24 snowChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 32-37-49
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+snowChance_mode: Lkly
+precipPotential_chance: 10 rainChance_mode: SChc Chance_time: before 11pm-midnight
+rainChance_mode: Lkly Chance_time: before 3am-4am
+rainChance_mode: SChc rainChance_mode: SChc
+rainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 23-28-32
+snowChance_mode: Lkly Chance_time: before 3am-4am
+snowChance_mode: Def
+rainChance_mode: Chc
+skyCover_mode: 50-75 skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 68-77-83
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-40-42
+rainChance_mode: Def thunderChance_mode: SChc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 36-37-40
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 58-63-74
+precipPotential_chance: 32 rainChance_mode: Chc
+rainChance_mode: Lkly Chance_time: at day rainChance_mode: SChc Chance_time: at day
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-44-55
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 47-52-58
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-33-42
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-37-49
+precipPotential_chance: 20 snowChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-39-44
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 51-60-67
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 14-24-32
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 42-47-54
+freezingRainChance_mode: Chc Chance_time: after 2am-3am-4am
+precipPotential_chance: 30 rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 58-65-70
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-45-56
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-32-41
+rainChance_mode: Chc Chance_time: after 1am
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 34-36-39
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 36-43-49
+precipPotential_chance: 15 rainChance_mode: SChc
+rainChance_mode: Def
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 29-33-37
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 62-66-73
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-46-53
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 23-25-33
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-32-40
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 29-31-39
+otherChance_mode: Unk Chance_time: at night
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-32-37
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 10-15-27
+thunderChance_mode: Def Chance_time: at night
+rainChance_mode: Lkly
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 32-37-48
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 33-40-44
+precipPotential_chance: 25 snowChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-36-49
+rainChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 50-55-68
+precipPotential_chance: 11 snowChance_mode: SChc Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-43-50
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 59-64-74
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 51-58-70
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 45-46-52
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 52-59-75
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 66-69-76
+rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Lkly
+otherChance_mode: Unk Chance_time: at day
+rainChance_mode: Def Chance_time: at night thunderChance_mode: SChc
+rainChance_mode: SChc rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-51-59
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 24-28-34
+rainChance_mode: SChc Chance_time: after 9am-10am Chance_time: after 9am-10am thunderChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: SChc rainChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 62-66-74
+thunderChance_mode: Def
+otherChance_mode: Unk Chance_time: at night
+precipPotential_chance: 25 snowChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 16-22-31
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+precipPotential_chance: 10 snowChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 39-43-53
+rainChance_mode: Lkly Chance_time: at day
+rainChance_mode: Lkly thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+precipPotential_chance: 30 rainChance_mode: Chc Chance_time: before 9am-10am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-37-50
+windDir_mode: se windSpeed_mode: 3 windDir_mode: se windSpeed_mode: 20
+rainChance_mode: Chc freezingRainChance_mode: Chc Chance_time: at night otherChance_mode: Unk
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 48-54-69
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-57-68
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-36-50
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-35-51
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 27-29-32
+precipPotential_chance: 54 rainChance_mode: Chc
+precipPotential_chance: 32 rainChance_mode: Chc Chance_time: at day
+precipPotential_chance: 80 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 20-28-40
+precipPotential_chance: 67 rainChance_mode: Lkly Chance_time: after 9am-10am
+rainChance_mode: SChc Chance_time: at night rainChance_mode: SChc Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-67-76
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Chc Chance_time: at day
+rainChance_mode: SChc Chance_time: after 2am-3am-4am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-67-76
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-43-55
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-32-39
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 24-32-40
+precipPotential_chance: 29 rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 60-64-74
+precipPotential_chance: 33 rainChance_mode: Chc Chance_time: before 3am-4am
+rainChance_mode: Lkly
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 64-67-75
+rainChance_mode: SChc Chance_time: before 11pm-midnight rainChance_mode: SChc Chance_time: before 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 46-54-67
+rainChance_mode: Lkly Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-56-68
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 61-68-83
+rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 36-38-46
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 48-57-75
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-46-54
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-46-56
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-42-51
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 50-57-62
+rainChance_mode: Lkly
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 65-65-68
+rainChance_mode: Def Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-51-57
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-48-65
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-52-59
+rainChance_mode: Def Chance_time: after 11am-noon-1pm snowChance_mode: Chc
+precipPotential_chance: 19 rainChance_mode: SChc Chance_time: after 2am-3am-4am
+precipPotential_chance: 67 rainChance_mode: SChc Chance_time: before 11pm-midnight
+rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 21-27-32
+rainChance_mode: SChc rainChance_mode: SChc
+precipPotential_chance: 79 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+rainChance_mode: Chc Chance_time: before 3pm-4pm
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 43-46-54
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-35-49
+precipPotential_chance: 50 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-44-53
+rainChance_mode: Def
+rainChance_mode: Lkly
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 56-61-69
+rainChance_mode: Lkly
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 62-70-74
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+snowChance_mode: Chc Chance_time: at day freezingRainChance_mode: Chc
+precipPotential_chance: 23 rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-35-40
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-34-39
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 27-31-43
+precipPotential_chance: 20 thunderChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: SChc
+precipPotential_chance: 32 rainChance_mode: Chc Chance_time: before 9am-10am
+rainChance_mode: Chc Chance_time: before 9am-10am snowChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-38-49
+rainChance_mode: Chc Chance_time: after 1am
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-49-63
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 21-27-32
+rainChance_mode: Def
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-36-41
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 41 rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-40-57
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 31-34-43
+rainChance_mode: Chc Chance_time: after 11am-noon-1pm Chance_time: after 11am-noon-1pm rainChance_mode: Chc Chance_time: after 11am-noon-1pm
+rainChance_mode: Def thunderChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+precipPotential_chance: 51 rainChance_mode: Chc
+rainChance_mode: SChc rainChance_mode: SChc
+precipPotential_chance: 53 rainChance_mode: Chc
+rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-37-45
+snowChance_mode: Def
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Def Chance_time: at night
+snowChance_mode: Def Chance_time: before 8pm-9pm-10pm rainChance_mode: Lkly
+precipPotential_chance: 15 rainChance_mode: SChc
+skyCover_mode: 75-100 skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 16-24-35
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+precipPotential_chance: 20 rainChance_mode: SChc
+snowChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 35-38-46
+rainChance_mode: SChc
+rainChance_mode: Lkly Chance_time: after 2am-3am-4am
+precipPotential_chance: 17 snowChance_mode: SChc Chance_time: before 9am-10am
+rainChance_mode: Chc Chance_time: at day thunderChance_mode: SChc
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 50-63-73
+rainChance_mode: Def
+precipPotential_chance: 30 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 34-45-67
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 29-35-46
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 53-61-69
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-56-67
+freezingRainChance_mode: Lkly Chance_time: at night sleetChance_mode: Lkly
+rainChance_mode: Def Chance_time: after 2am-3am-4am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-48-55
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-36-41
+precipPotential_chance: 15 rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 46-54-67
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 28-34-39
+rainChance_mode: Lkly
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 36-37-39
+rainChance_mode: SChc rainChance_mode: SChc
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 52-64-74
+rainChance_mode: Def
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-32-38
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-45-52
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 26-37-45
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-55-63
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 58-63-75
+precipPotential_chance: 54 snowChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-45-60
+rainChance_mode: Chc thunderChance_mode: SChc Chance_time: after 11am-noon-1pm
+freezingRainChance_mode: SChc Chance_time: after 1am
+rainChance_mode: Chc Chance_time: at night snowChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 50-55-67
+rainChance_mode: SChc rainChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 58-62-70
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 31-40-47
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 23-30-36
+rainChance_mode: Lkly
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 57-64-70
+rainChance_mode: Def Chance_time: after 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-33-38
+precipPotential_chance: 90 rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+rainChance_mode: SChc Chance_time: after 2am-3am-4am
+snowChance_mode: Lkly Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 52-64-71
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 36-38-46
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 25-35-40
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-35-41
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 21-28-40
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 46-50-54
+rainChance_mode: Chc
+precipPotential_chance: 23 rainChance_mode: SChc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 47-54-62
+precipPotential_chance: 40 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 19-22-32
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 63-67-75
+precipPotential_chance: 46 snowChance_mode: Chc
+freezingRainChance_mode: Chc Chance_time: after 1am rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 64-68-75
+precipPotential_chance: 15 rainChance_mode: SChc
+snowChance_mode: Chc Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 25-30-41
+thunderChance_mode: Def Chance_time: at day
+otherChance_mode: Unk
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-40-51
+rainChance_mode: Lkly
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm
+rainChance_mode: Chc
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 60-64-73
+snowChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 35-47-56
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 24-27-33
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-35-40
+precipPotential_chance: 36 rainChance_mode: SChc
+precipPotential_chance: 53 thunderChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 31-43-54
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-44-46
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 54-57-66
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 65-71-75
+precipPotential_chance: 50 thunderChance_mode: SChc Chance_time: after 11pm-midnight
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 44-58-69
+rainChance_mode: Lkly Chance_time: at day Chance_time: at day
+snowChance_mode: Chc Chance_time: at night Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 23-33-40
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-42-49
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 38-53-62
+precipPotential_chance: 39 thunderChance_mode: Chc Chance_time: at day
+rainChance_mode: Chc thunderChance_mode: Chc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 51-57-63
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 57-68-75
+snowChance_mode: Chc Chance_time: after 2am-3am-4am
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 63-72-78
+rainChance_mode: Chc Chance_time: at night rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-55-73
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 57-63-72
+precipPotential_chance: 80 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+rainChance_mode: Chc
+precipPotential_chance: 45 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Def thunderChance_mode: Def Chance_time: after 11am-noon-1pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-44-55
+precipPotential_chance: 78 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 60-69-75
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-41-46
+rainChance_mode: Def Chance_time: at night
+snowChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 55-59-67
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-45-54
+rainChance_mode: Def
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 47-54-68
+precipPotential_chance: 46 rainChance_mode: Chc Chance_time: before 3am-4am
+precipPotential_chance: 24 snowChance_mode: SChc Chance_time: before 9am-10am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 35-37-45
+precipPotential_chance: 44 rainChance_mode: Chc
+rainChance_mode: Chc Chance_time: after 1am
+precipPotential_chance: 70 thunderChance_mode: Chc Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 33-45-54
+rainChance_mode: Lkly
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+freezingRainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 30-33-41
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 51-57-62
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 49-63-74
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 35-38-45
+rainChance_mode: Lkly thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+rainChance_mode: Lkly Chance_time: before 3am-4am
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 42-45-55
+precipPotential_chance: 18 rainChance_mode: SChc Chance_time: before 8pm-9pm-10pm
+rainChance_mode: SChc Chance_time: before 11pm-midnight
+snowChance_mode: SChc
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 31-35-38
+precipPotential_chance: 15 rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-44-58
+precipPotential_chance: 28 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-49-55
+rainChance_mode: Def Chance_time: after 1am
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly
+freezingRainChance_mode: Chc Chance_time: before 9am-10am rainChance_mode: Chc
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 42-45-56
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 28-29-33
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 24-39-50
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-34-40
+rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-62-71
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+rainChance_mode: SChc
+precipPotential_chance: 22 rainChance_mode: SChc Chance_time: after 2am-3am-4am
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 32-36-43
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 23-28-33
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 34-37-40
+precipPotential_chance: 52 rainChance_mode: Chc
+rainChance_mode: Lkly Chance_time: at night thunderChance_mode: Chc Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 33-39-49
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 37-43-55
+rainChance_mode: Chc thunderChance_mode: SChc Chance_time: after 11am-noon-1pm
+precipPotential_chance: 100 rainChance_mode: SChc
+rainChance_mode: Chc Chance_time: at day Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 30-35-40
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-57-69
+freezingRainChance_mode: SChc Chance_time: after 1am
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-39-45
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 35-46-53
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 48-59-67
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 52-59-73
+rainChance_mode: SChc
+otherChance_mode: Unk Chance_time: at day
+rainChance_mode: Def
+rainChance_mode: Chc Chance_time: at night
+snowChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 23-26-34
+rainChance_mode: Def Chance_time: before 11pm-midnight freezingRainChance_mode: Def
+precipPotential_chance: 85 rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 47-58-65
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 61-69-75
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-33-38
+rainChance_mode: SChc Chance_time: at day
+rainChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 33-48-59
+rainChance_mode: Def
+rainChance_mode: Def Chance_time: after 1am
+rainChance_mode: Def
+snowChance_mode: Def Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: SChc Chance_time: after 11am-noon-1pm
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 67-74-80
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 62-69-74
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 25-33-44
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 56-61-69
+rainChance_mode: SChc
+rainChance_mode: Def thunderChance_mode: SChc Chance_time: after 1am
+rainChance_mode: Lkly
+rainChance_mode: Def
+rainChance_mode: Lkly
+rainChance_mode: Def Chance_time: after 11am-noon-1pm freezingRainChance_mode: Lkly otherChance_mode: Unk Chance_time: at day Chance_time: at day otherChance_mode: Unk Chance_time: at day
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 21-26-37
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-29-40
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 44-50-57
+rainChance_mode: Def
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+precipPotential_chance: 40 snowChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 37-48-69
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 64-75-81
+rainChance_mode: Chc Chance_time: at night snowChance_mode: Chc
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-53-60
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-62-71
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 62-70-79
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 67-74-79
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 49-56-67
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-45-52
+snowChance_mode: Def Chance_time: after 9pm-10pm rainChance_mode: Def
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 37-48-55
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 32 rainChance_mode: Chc Chance_time: before 9am-10am
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+otherChance_mode: Unk Chance_time: at night
+precipPotential_chance: 60 rainChance_mode: Chc Chance_time: before 11pm-midnight
+otherChance_mode: Unk Chance_time: at day
+precipPotential_chance: 39 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 54-59-69
+rainChance_mode: Def
+thunderChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 46-60-70
+precipPotential_chance: 58 rainChance_mode: Chc Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 66-74-79
+precipPotential_chance: 15 rainChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 15-25-33
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 61-69-75
+snowChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+otherChance_mode: Unk Chance_time: at day
+windDir_mode: s windSpeed_mode: 37 windDir_mode: s
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+precipPotential_chance: 47 rainChance_mode: Chc
+otherChance_mode: Unk Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 60-62-71
+rainChance_mode: Lkly thunderChance_mode: Chc Chance_time: after 11am-noon-1pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 55-61-70
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 51-63-73
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 36-50-58
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-42-46
+precipPotential_chance: 70 rainChance_mode: Chc rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-49-58
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 14-19-29
+rainChance_mode: Chc
+snowChance_mode: Chc Chance_time: at day freezingRainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-42-47
+precipPotential_chance: 30 rainChance_mode: Chc
+precipPotential_chance: 66 snowChance_mode: Lkly Chance_time: after 9am-10am
+rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 56-61-69
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 16-24-35
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-34-44
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 48-53-63
+rainChance_mode: Def Chance_time: after 11am-noon-1pm freezingRainChance_mode: Lkly otherChance_mode: Unk Chance_time: at day Chance_time: at day otherChance_mode: Unk Chance_time: at day
+rainChance_mode: Chc
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+precipPotential_chance: 40 rainChance_mode: SChc Chance_time: after 2am-3am-4am Chance_time: after 2am-3am-4am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 38-47-55
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 63-73-82
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 34-38-43
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 31-35-40
+rainChance_mode: Def thunderChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 47-54-69
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+precipPotential_chance: 29 rainChance_mode: SChc Chance_time: before 9am-10am
+precipPotential_chance: 84 rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-35-41
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 59-65-69
+rainChance_mode: Def
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm Chance_time: before 8pm-9pm-10pm
+rainChance_mode: Def Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 64-73-78
+precipPotential_chance: 90 rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 34-37-43
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 26-36-42
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 54-60-65
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 51-55-64
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 25-40-50
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-53-61
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 48-54-66
+rainChance_mode: Def thunderChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 58-64-74
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 41-45-56
+rainChance_mode: SChc
+precipPotential_chance: 22 rainChance_mode: SChc
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 63-72-81
+rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 33-41-56
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 32-40-46
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 8-21-30
+rainChance_mode: Lkly Chance_time: at day Chance_time: at day
+precipPotential_chance: 38 rainChance_mode: SChc
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm Chance_time: before 8pm-9pm-10pm
+snowChance_mode: Def Chance_time: after 11pm-midnight rainChance_mode: Def
+precipPotential_chance: 26 thunderChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-28-33
+snowChance_mode: Chc Chance_time: at day freezingRainChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-36-48
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 23-37-44
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Def Chance_time: after 11pm-midnight
+precipPotential_chance: 25 snowChance_mode: SChc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-55-63
+rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: Chc
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-36-49
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 46-55-59
+rainChance_mode: SChc rainChance_mode: SChc Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-47-55
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-37-43
+rainChance_mode: Lkly Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Lkly Chance_time: at night thunderChance_mode: SChc
+rainChance_mode: SChc rainChance_mode: SChc
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 75-100 skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 52-66-79
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 37-47-63
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 34-36-40
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 43-53-61
+rainChance_mode: SChc Chance_time: after 1am
+precipPotential_chance: 27 snowChance_mode: Chc
+precipPotential_chance: 21 rainChance_mode: SChc
+precipPotential_chance: 32 rainChance_mode: Chc Chance_time: before 3am-4am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-27-31
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-34-42
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 25-28-34
+rainChance_mode: Lkly
+precipPotential_chance: 54 rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 65-73-79
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 43-45-51
+precipPotential_chance: 61 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-35-50
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 75-100 skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 34-43-47
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 16-22-36
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-29-34
+rainChance_mode: Def
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 42-49-57
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 33-35-39
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 57-63-73
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-45-55
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 49-65-74
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 50-56-70
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 26-33-42
+rainChance_mode: Def Chance_time: after 11pm-midnight
+skyCover_mode: 50-75 skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-33-37
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 44-52-59
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 35-36-38
+rainChance_mode: Chc Chance_time: at night rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 64-75-82
+rainChance_mode: Def Chance_time: after 1am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 55-60-71
+precipPotential_chance: 70 rainChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-45-57
+rainChance_mode: SChc rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 34-38-43
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-45-47
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 40-42-44
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 61-70-75
+rainChance_mode: Def Chance_time: after 11pm-midnight
+rainChance_mode: Lkly Chance_time: after 2am-3am-4am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 36-39-44
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 16-23-34
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 42-47-56
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 25-28-38
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 53-61-69
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 23-30-35
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 48-60-70
+rainChance_mode: Def Chance_time: at day
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+precipPotential_chance: 51 rainChance_mode: Chc
+rainChance_mode: Lkly Chance_time: after 11am-noon-1pm snowChance_mode: Chc
+rainChance_mode: SChc Chance_time: after 2am-3am-4am
+rainChance_mode: Lkly Chance_time: after 2am-3am-4am
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 51-65-73
+windDir_mode: n windSpeed_mode: 0 windDir_mode: n
+rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 25-29-40
+rainChance_mode: SChc Chance_time: before 11pm-midnight
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 24-28-35
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 15-24-33
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-41-47
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 36-37-40
+rainChance_mode: Lkly Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-46-51
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 52-55-64
+precipPotential_chance: 27 rainChance_mode: SChc Chance_time: before 8pm-9pm-10pm
+otherChance_mode: Unk
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 57-65-71
+precipPotential_chance: 60 rainChance_mode: Lkly Chance_time: after 11am-noon-1pm
+rainChance_mode: SChc
+precipPotential_chance: 43 rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 61-64-72
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 48-58-66
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 60-64-72
+rainChance_mode: Chc Chance_time: after 1am
+rainChance_mode: Chc Chance_time: after 1am
+windDir_mode: w windSpeed_mode: 0 windDir_mode: w
+precipPotential_chance: 18 rainChance_mode: SChc
+precipPotential_chance: 27 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Lkly Chance_time: at day
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Lkly
+rainChance_mode: Def Chance_time: after 11pm-midnight
+snowChance_mode: Def Chance_time: at day rainChance_mode: Chc
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Chc Chance_time: before 11pm-midnight
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 35-36-39
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 30-38-44
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 40-44-55
+rainChance_mode: Chc Chance_time: at night
+rainChance_mode: SChc Chance_time: after 2am-3am-4am
+rainChance_mode: Chc Chance_time: after 9am-10am
+precipPotential_chance: 22 snowChance_mode: SChc
+rainChance_mode: SChc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 48-53-66
+rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 28-29-33
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 48-55-67
+precipPotential_chance: 30 rainChance_mode: SChc Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 30-35-52
+rainChance_mode: SChc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 39-43-51
+rainChance_mode: Lkly
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 38-41-48
+snowChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 25-35-41
+skyCover_mode: 75-100 skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 64-75-86
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 37-46-63
+rainChance_mode: SChc
+skyCover_mode: 50-75 skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-51-59
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 29-34-46
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+thunderChance_mode: Def
+rainChance_mode: Lkly Chance_time: at day thunderChance_mode: SChc Chance_time: before 3pm-4pm
+precipPotential_chance: 80 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 44-58-69
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+precipPotential_chance: 42 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 44-57-67
+rainChance_mode: Lkly Chance_time: at night
+snowChance_mode: Chc
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 43-62-74
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 27-42-52
+rainChance_mode: SChc rainChance_mode: SChc
+precipPotential_chance: 83 rainChance_mode: Def Chance_time: after 11am-noon-1pm
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 24-29-34
+rainChance_mode: SChc Chance_time: at day
+snowChance_mode: Chc
+rainChance_mode: SChc rainChance_mode: Chc Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 31-33-41
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+otherChance_mode: Unk Chance_time: at night
+precipPotential_chance: 90 rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 64-67-74
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 54-65-73
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 42-45-53
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 20-24-34
+rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-69-75
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 22-30-43
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 35-38-45
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 42-50-67
+precipPotential_chance: 29 snowChance_mode: Chc Chance_time: at night
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 39-53-61
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 32-44-59
+rainChance_mode: Def
+precipPotential_chance: 22 rainChance_mode: SChc Chance_time: after 2am-3am-4am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-44-53
+snowChance_mode: Def
+rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 48-54-70
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-46-58
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 41-58-71
+precipPotential_chance: 43 rainChance_mode: Chc Chance_time: before 3am-4am
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 37-51-60
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+precipPotential_chance: 78 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 24-28-38
+precipPotential_chance: 40 rainChance_mode: Chc
+rainChance_mode: SChc rainChance_mode: SChc
+rainChance_mode: SChc Chance_time: after 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 66-75-81
+precipPotential_chance: 61 rainChance_mode: Lkly Chance_time: at night
+snowChance_mode: Chc Chance_time: at day freezingRainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 42-49-56
+skyCover_mode: 75-100 skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 45-50-59
+rainChance_mode: Lkly
+precipPotential_chance: 50 rainChance_mode: Chc Chance_time: after 1am
+skyCover_mode: 75-100 skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 33-42-48
+rainChance_mode: Def thunderChance_mode: SChc Chance_time: after 9pm-10pm
+rainChance_mode: Lkly Chance_time: before 11pm-midnight
+rainChance_mode: Chc Chance_time: before 9am-10am
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm snowChance_mode: Chc
+rainChance_mode: Chc Chance_time: after 2pm-3pm-4pm-5pm
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 25-28-32
+rainChance_mode: Def thunderChance_mode: SChc Chance_time: after 1am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 37-42-51
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 35-43-50
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 16-30-40
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 31-34-38
+rainChance_mode: Def
+precipPotential_chance: 28 snowChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 46-57-66
+rainChance_mode: Def Chance_time: at day thunderChance_mode: Def
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 28-34-47
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-34-47
+rainChance_mode: Def Chance_time: at night
+rainChance_mode: Def
+rainChance_mode: Def
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 41-45-58
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 57-64-74
+rainChance_mode: Def Chance_time: at night
+precipPotential_chance: 26 rainChance_mode: SChc Chance_time: before 8pm-9pm-10pm
+precipPotential_chance: 59 rainChance_mode: Chc Chance_time: after 11pm-midnight
+thunderChance_mode: Def Chance_time: before 11am-noon-1pm-2pm rainChance_mode: Def Chance_time: at day Chance_time: at day otherChance_mode: Unk Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 59-63-73
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 33-35-41
+rainChance_mode: Chc Chance_time: at night rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Lkly Chance_time: after 1am
+freezingRainChance_mode: SChc Chance_time: after 1am
+rainChance_mode: Chc
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 26-28-35
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 23-29-43
+precipPotential_chance: 70 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 28-32-43
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 40-43-50
+precipPotential_chance: 71 rainChance_mode: Chc Chance_time: at day
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 26-31-36
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 38-56-70
+precipPotential_chance: 31 snowChance_mode: Chc
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 27-33-47
+rainChance_mode: Chc rainChance_mode: Chc Chance_time: after 9am-10am
+snowChance_mode: Chc Chance_time: after 2am-3am-4am rainChance_mode: Chc
+precipPotential_chance: 45 rainChance_mode: Chc
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 37-47-55
+snowChance_mode: Chc Chance_time: before 11pm-midnight
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 57-62-70
+thunderChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 33-36-43
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 38-44-56
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 44-50-56
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 25-32-44
+rainChance_mode: Chc Chance_time: at day
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+rainChance_mode: Def
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 47-65-77
+thunderChance_mode: Def
+rainChance_mode: Lkly
+precipPotential_chance: 53 rainChance_mode: Chc
+rainChance_mode: Def Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 33-39-44
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 32-34-45
+otherChance_mode: Unk Chance_time: at night
+skyCover_mode: 0-25 temperature_minmeanmax temperature_mode: 47-62-71
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 35-36-39
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 36-40-50
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+precipPotential_chance: 46 rainChance_mode: Chc Chance_time: before 11am-noon-1pm-2pm
+snowChance_mode: Lkly Chance_time: at day
+precipPotential_chance: 30 rainChance_mode: Chc Chance_time: before 8pm-9pm-10pm
+rainChance_mode: Chc
+rainChance_mode: Def Chance_time: after 11pm-midnight
+rainChance_mode: Lkly Chance_time: at night thunderChance_mode: SChc Chance_time: at night
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 48-59-68
+rainChance_mode: Chc
+rainChance_mode: Chc thunderChance_mode: SChc Chance_time: after 2pm-3pm-4pm-5pm
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 29-32-42
+skyCover_mode: 50-75 temperature_minmeanmax temperature_mode: 30-32-41
+precipPotential_chance: 39 rainChance_mode: Chc Chance_time: after 2am-3am-4am
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 48-55-69
+rainChance_mode: Def
+otherChance_mode: Unk Chance_time: at day Chance_time: at day
+skyCover_mode: 25-50 temperature_minmeanmax temperature_mode: 27-32-42
+rainChance_mode: Def
+precipPotential_chance: 31 rainChance_mode: Chc Chance_time: before 9am-10am
+rainChance_mode: SChc Chance_time: before 11am-noon-1pm-2pm
+precipPotential_chance: 25 rainChance_mode: Chc Chance_time: at night
+rainChance_mode: Chc
+rainChance_mode: Lkly
+rainChance_mode: Lkly Chance_time: at night rainChance_mode: Lkly Chance_time: at night
+rainChance_mode: Chc rainChance_mode: SChc Chance_time: at day
+precipPotential_chance: 68 rainChance_mode: Lkly Chance_time: after 9am-10am
+rainChance_mode: SChc
+rainChance_mode: Chc Chance_time: at day Chance_time: at day rainChance_mode: Chc
+skyCover_mode: 75-100 temperature_minmeanmax temperature_mode: 31-38-45
+otherChance_mode: Unk Chance_time: at day Chance_time: at day

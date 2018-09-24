@@ -1,0 +1,60 @@
+se-e 32-38 gusts 50 backing E-NE easing 12-18 decreasing by mid afternoon then variable increasing ne-n 22-28 later 
+nw 10 gradually veering ese this evening 
+nne 18-22 increasing 24-28 gusts 36 by evening 
+s-se 8 or less veering w-sw this evening 
+s'ly 30-35 gusts 45 veering ssw 28-32 decreasing by midday then increasing sw 34 by 32-38 gusts 48 by evening backing ssw WindSpeedMin.4: 22-28 by afternoon easing 26-30 by midday GustSpeedChange.4: evening 
+ne 26-30 gusts 38 gradually veering ESE-SE easing decreasing 10-14 by late evening 
+nne 14-18 gradually gradually backing n'ly 18-22 gusts 32 by evening 
+nne 26-30 
+s-ssw 12-18 gradually gradually backing s-se 22-28 by evening 
+w-sw 22-28 gusts 40 soon veering w-nw 18-22 decreasing by afternoon increasing nw-n 25-30 by 25-30 gusts 45 later 
+ene 16-20 backing sse by early 6 by 12 by midday then backing se and rising by mid evening and easing 10-15 increasing WindSpeedMin.4: 14 midnight 
+n-ne 22-28 gusts 38 backing nw 18-22 decreasing by evening then veering and increasing N-NW variable 22-28 later 
+sse 12-16 backing ese 02-06 gusts 30 
+ne 14-18 veering ese 06-10 by evening then cyclonic variable 04-08 by late evening 
+sse 22-28 increasing evening veering sse 26-32 for a time 
+nne 24-28 gusts 36 gradually veering ne decreasing 10-14 by late evening 
+se-e 32-38 gusts 50 backing E-NE easing 12-18 decreasing by mid afternoon then variable increasing ne-n 22-28 later 
+se 38-42 gusts 55 veering easing sse 32-38 with gusts to by midday then veering ssw and evening early evening and increasing to GustSpeedChange.4: WindSpeedMin.4: easing 26-30 by evening later 
+sw 18-22 decreasing 10-14 by late evening 
+s-sw 18-22 easing 15-20 later 
+w'ly 24-28 gusts 36 backing sw 34 increasing 25-30 with gusts 45 by evening 
+wsw 10-14 rising 14-18 this evening veering wnw this evening and backing nw WindSpeedMin.4: 12 8 or less by evening 
+sse 26-30 easing 20-24 by late afternoon then rising 22-28 26-30 gusts 40 by late evening 
+w-sw 22-28 gusts 40 soon veering w-nw 18-22 decreasing by afternoon increasing nw-n 25-30 by 25-30 gusts 45 later 
+ese 28-32 gusts 40 soon sse-s 26-30 by easing 25-30 with gusts 38 soon veering then increasing s'ly 30-34 gusts 45 by evening 
+wnw 04-08 backing WSW-SW less this evening 
+s-sw 15-20 easing 8-12 by evening 
+nnw 16-20 increasing 22 28-32 with gusts 34 by midday and decreasing w-sw 10-14 by evening backing and increasing ssw 16-20 later 
+ssw 10-14 veering wsw 14-18 by midday easing w'ly 10-14 by late evening 
+se 38-42 gusts 55 veering easing sse 32-38 with gusts to by midday then veering ssw and evening early evening and increasing to GustSpeedChange.4: WindSpeedMin.4: easing 26-30 by evening later 
+w'ly 26-30 gusts 40 gradually gradually backing sw increasing 28-32 gusts 45 by evening then easing 24-28 by late evening later 
+se 08-12 backing ese increasing 10-14 by evening 
+s'ly than 10 or less increasing 12-18 
+wnw 10-15 backing w-wsw 16-20 by midday then veering w'ly variable increasing 18-22 gusts 32 by evening 
+n'ly 18-22 gusts 30 easing decreasing 14-18 by evening 
+nnw 16 slowly 22 gusts 30 veering n'ly easing 12-18 with gusts to 16 by evening 
+se 38-42 gusts 55 veering easing sse 32-38 with gusts to by midday then veering ssw and evening early evening and increasing to GustSpeedChange.4: WindSpeedMin.4: easing 26-30 by evening later 
+s-se NE-NNE 02-06 increasing 08-12 by evening 
+ssw 16-20 veering sw this evening then easing 14-18 by late evening 
+s-se M-S-SE 10 or less veering s'ly 8-12 gusts to by late evening 
+w'ly 12-16 increasing 18-22 by midday then backing SW-SSW 08-12 by evening then variable gusts 32 
+s-sw 10-15 becoming sw 15-20 by evening 
+s-se 8-12 backing ese this evening 
+s-sse 14-18 increasing 24-28 by late evening 
+nnw 06-10 veering e 02-06 by evening 
+nnw 12-16 veering n'ly increasing 20-25 by 20-24 gusts 32 by afternoon then easing 14-18 by late evening 
+sw 18-22 backing ssw 22-26 by midday then backing and s'ly 26-30 by late evening 
+sse 20-25 increasing 22-28 by afternoon 
+ese 28-32 gusts 40 soon sse-s 26-30 by easing 25-30 with gusts 38 soon veering then increasing s'ly 30-34 gusts 45 by evening 
+s-se M-NE 10 or less veering s-sw and later increasing 12-18 
+n-nnw 28-32 gusts 45 easing 10-15 decreasing by evening 
+s-sse 20-24 veering s'ly 14-18 by late evening 
+sw 12-18 backing increasing se-e 22-28 by evening 
+se 12-18 veering s'ly 35-40 gusts 55 by afternoon veering and decreasing w-sw 12-18 
+n-nne 16-20 decreasing 10-14 by evening 
+w'ly 22-28 increasing 25-30 gusts 40 
+n-nw 15-20 veering sw 10 or less by mid afternoon then increasing s-se then variable 10-15 later 
+sw-wsw 24-28 veering W-WNW increasing 32-36 gusts 45 by midday and backing nw later 
+s-se ssw-s WindSpeedMin.1: 36 40 slowly gusts 50 easing gradually decreasing 20-24 by 22-28 gusts 36 by late evening 
+s-se NW-W 08-12 backing ssw 26-30 by mid afternoon then increasing veering w'ly 30-35 gusts 45 by evening 

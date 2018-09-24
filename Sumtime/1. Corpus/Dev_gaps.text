@@ -1,0 +1,59 @@
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <time> then <wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_speed_change> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> soon <wind_speed_change> <wind_speed> <wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> inceasing <wind_speed> <time> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> very soon <wind_direction_change> <wind_direction> <wind_speed>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_direction> <wind_speed> for a time then <wind_direction_change> <wind_direction> <wind_speed> <time> and <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_speed_change> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction> <wind_speed>
+<wind_direction> <wind_speed> becoming cyclonic variable <wind_speed> <time> then <wind_direction> <wind_speed> <time> <wind_speed_change> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_direction> <wind_speed> for a time <time>
+<wind_direction> <wind_speed> <wind_speed_change> <time> to be <wind_direction> <wind_speed> from <time>
+<wind_direction> <wind_speed> gusts <gust_speed> for a time then <wind_direction_change> <wind_direction> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> soon <wind_speed_change> <wind_speed> or less <wind_direction_change> and <wind_speed_change> gradually <wind_direction> <wind_speed> gusts <gust_speed>
+<wind_direction> <wind_speed> steadily <wind_speed_change> <wind_direction> <wind_speed> with gusts to <gust_speed>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <time> then <wind_speed_change> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> risk gusts to <gust_speed> in any thunderstorm
+variable <wind_speed> soon <wind_direction> <wind_speed> then <wind_speed_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change>/<wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> then <wind_speed_change> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> with gusts to <gust_speed> slowly <wind_speed_change> <wind_direction> <wind_speed>
+<wind_direction> <wind_speed> soon <wind_speed_change> and <wind_direction_change> <wind_direction> <wind_speed>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> gusts <gust_speed>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <time> and <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> occasionally <wind_speed> gusts <gust_speed> <wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> soon <wind_speed_change> <wind_direction> <wind_speed> or less <wind_direction_change> and <wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> <wind_direction_change> <wind_direction> <time> and <wind_speed_change> <wind_speed>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> soon <wind_direction> <wind_speed>
+<wind_direction> <wind_speed> gradually <wind_direction_change>/<wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> soon <wind_speed_change> <wind_direction> <wind_speed> or less <wind_speed_change> <wind_speed> for a time <time>
+<wind_direction> <wind_speed> or less <wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> soon <wind_direction_change> <wind_direction> <wind_speed> or less <wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <time> then <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_speed_change> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_direction_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> or less and <wind_direction_change> <wind_direction>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> soon <wind_direction_change> <wind_direction> then <wind_speed_change> <wind_direction> <wind_speed> gusts <gust_speed>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> then <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> with gusts to <gust_speed> slowly <wind_speed_change> to <wind_speed>
+<wind_direction> <wind_speed> gusts <gust_speed> slowly <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> later to <wind_speed>
+<wind_direction> <wind_speed> soon <wind_direction> <wind_speed_change> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time>
+<wind_direction> <wind_speed> steadily <wind_direction_change> and <wind_speed_change> <wind_direction> <wind_speed>
+<wind_direction> <wind_speed> with gusts to <gust_speed> <wind_speed_change> <wind_direction> <wind_speed> <time> later <wind_direction> <wind_speed> then <wind_direction> <wind_speed>
+variable <wind_speed> setting <wind_direction> <wind_speed> <time> risk gusts to <gust_speed> in any thunderstorm
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> then <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> then <wind_direction_change>/<wind_speed_change> <wind_direction> <wind_speed> <time>
+<wind_direction> <wind_speed> gradually <wind_speed_change> <wind_speed>
+<wind_direction> <wind_speed> gusts to <wind_speed> <wind_speed_change> slowly after <time> <wind_direction> <wind_speed> <time>

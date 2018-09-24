@@ -1,0 +1,1699 @@
+pass.arg1: purple4 pass.arg2: purple3 kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple8
+kick.arg1: purple7 kick.arg1: purple7 defense.arg1: pink3 defense.arg2: pink3 turnover.arg1: purple7 turnover.arg2: pink3
+pass.arg1: pink2 pass.arg2: pink6
+pass.arg1: pink7 pass.arg2: pink3
+pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: pink7 pass.arg2: pink6
+pass.arg1: pink11 pass.arg2: pink10
+pass.arg1: purple3 pass.arg2: purple10
+pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: pink7 pass.arg2: pink10
+pass.arg1: purple8 pass.arg2: purple10
+pass.arg1: purple7 pass.arg2: purple9
+badPass.arg1: purple2 badPass.arg2: pink8 turnover.arg1: purple2 turnover.arg2: pink8
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: purple10 pass.arg2: purple9
+pass.arg1: purple8 pass.arg2: purple11 kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+badPass.arg1: pink9 badPass.arg2: purple3 turnover.arg1: pink9 turnover.arg2: purple3
+badPass.arg1: purple7 badPass.arg2: pink6 turnover.arg1: purple7 turnover.arg2: pink6
+pass.arg1: pink4 pass.arg2: pink8
+badPass.arg1: purple3 badPass.arg2: pink7 turnover.arg1: purple3 turnover.arg2: pink7
+pass.arg1: purple10 pass.arg2: purple7
+badPass.arg1: pink5 badPass.arg2: purple4 turnover.arg1: pink5 turnover.arg2: purple4
+pass.arg1: purple1 pass.arg2: purple4
+pass.arg1: purple11 pass.arg2: purple10
+playmode.arg1: corner_kick_r badPass.arg1: purple3 badPass.arg2: pink9 turnover.arg1: purple3 turnover.arg2: pink9
+badPass.arg1: pink9 badPass.arg2: purple3 turnover.arg1: pink9 turnover.arg2: purple3
+pass.arg1: purple2 pass.arg2: purple9
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: pink5 pass.arg2: pink10
+pass.arg1: purple7 pass.arg2: purple2
+badPass.arg1: pink8 badPass.arg2: purple3 turnover.arg1: pink8 turnover.arg2: purple3
+pass.arg1: purple5 pass.arg2: purple10
+pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: pink7 pass.arg2: pink8
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink10
+pass.arg1: purple10 pass.arg2: purple11
+kick.arg1: pink10 defense.arg1: purple4 defense.arg2: purple4 turnover.arg1: pink10 turnover.arg2: purple4
+steal.arg1: pink6 turnover.arg1: purple6 turnover.arg2: pink6
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink7
+pass.arg1: pink7 pass.arg2: pink8
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: pink3 pass.arg2: pink7
+pass.arg1: purple7 pass.arg2: purple9
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple10
+pass.arg1: pink10 pass.arg2: pink11 kick.arg1: pink11 badPass.arg1: pink11 badPass.arg2: purple6 turnover.arg1: pink11 turnover.arg2: purple6
+pass.arg1: pink6 pass.arg2: pink7
+pass.arg1: purple9 pass.arg2: purple2 kick.arg1: purple2 badPass.arg1: purple2 badPass.arg2: pink8 turnover.arg1: purple2 turnover.arg2: pink8
+kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink9
+badPass.arg1: pink1 badPass.arg2: purple9 turnover.arg1: pink1 turnover.arg2: purple9
+badPass.arg1: purple3 badPass.arg2: pink6 turnover.arg1: purple3 turnover.arg2: pink6
+pass.arg1: purple4 pass.arg2: purple6
+kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple5 turnover.arg1: pink10 turnover.arg2: purple5
+defense.arg1: pink6 defense.arg2: pink6 turnover.arg1: purple6 turnover.arg2: pink6
+pass.arg1: purple8 pass.arg2: purple10 kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+steal.arg1: purple4 turnover.arg1: pink9 turnover.arg2: purple4
+badPass.arg1: pink8 badPass.arg2: purple6 turnover.arg1: pink8 turnover.arg2: purple6
+pass.arg1: pink7 pass.arg2: pink8
+badPass.arg1: pink7 badPass.arg2: purple5 turnover.arg1: pink7 turnover.arg2: purple5
+badPass.arg1: pink7 badPass.arg2: purple3 turnover.arg1: pink7 turnover.arg2: purple3
+playmode.arg1: free_kick_r block.arg1: pink1 turnover.arg1: purple8 turnover.arg2: pink1
+steal.arg1: purple5 turnover.arg1: pink11 turnover.arg2: purple5
+badPass.arg1: purple10 badPass.arg2: pink4 turnover.arg1: purple10 turnover.arg2: pink4
+pass.arg1: pink4 pass.arg2: pink2 kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink6
+kick.arg1: purple6 playmode.arg1: offside_l badPass.arg1: purple6 badPass.arg2: pink2 turnover.arg1: purple6 turnover.arg2: pink2
+pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: purple10 pass.arg2: purple9
+kick.arg1: purple9 block.arg1: pink1 turnover.arg1: purple9 turnover.arg2: pink1
+badPass.arg1: purple1 badPass.arg2: pink8 turnover.arg1: purple1 turnover.arg2: pink8
+pass.arg1: pink5 pass.arg2: pink2 kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink6
+pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: pink4 pass.arg2: pink8
+defense.arg1: pink4 defense.arg2: pink4 turnover.arg1: purple10 turnover.arg2: pink4
+kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink9
+kick.arg1: purple10 badPass.arg1: purple10 badPass.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2
+kick.arg1: pink6 badPass.arg1: pink6 badPass.arg2: purple11 turnover.arg1: pink6 turnover.arg2: purple11
+pass.arg1: pink7 pass.arg2: pink8
+kick.arg1: purple11 badPass.arg1: purple11 badPass.arg2: pink6 turnover.arg1: purple11 turnover.arg2: pink6
+pass.arg1: purple10 pass.arg2: purple8
+playmode.arg1: free_kick_l pass.arg1: purple3 pass.arg2: purple1
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink8
+playmode.arg1: free_kick_l pass.arg1: purple5 pass.arg2: purple1
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple5
+pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: pink10 pass.arg2: pink6 kick.arg1: pink6 badPass.arg1: pink6 badPass.arg2: purple6 turnover.arg1: pink6 turnover.arg2: purple6
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink5
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: purple10 pass.arg2: purple7
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink6
+kick.arg1: pink10 kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink9
+badPass.arg1: pink9 badPass.arg2: purple6 turnover.arg1: pink9 turnover.arg2: purple6
+kick.arg1: pink9 badPass.arg1: pink9 badPass.arg2: purple8 turnover.arg1: pink9 turnover.arg2: purple8
+pass.arg1: pink5 pass.arg2: pink9
+pass.arg1: purple10 pass.arg2: purple6
+kick.arg1: purple3 badPass.arg1: purple3 badPass.arg2: pink5 turnover.arg1: purple3 turnover.arg2: pink5
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: pink8 pass.arg2: pink10 kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink7
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: purple10 pass.arg2: purple11
+badPass.arg1: purple7 badPass.arg2: pink11 turnover.arg1: purple7 turnover.arg2: pink11
+pass.arg1: purple10 pass.arg2: purple8
+pass.arg1: pink4 pass.arg2: pink3
+badPass.arg1: pink7 badPass.arg2: purple7 turnover.arg1: pink7 turnover.arg2: purple7
+playmode.arg1: play_on pass.arg1: purple1 pass.arg2: purple2
+pass.arg1: purple10 pass.arg2: purple9
+kick.arg1: pink3
+badPass.arg1: purple1 badPass.arg2: pink8 turnover.arg1: purple1 turnover.arg2: pink8
+pass.arg1: pink6 pass.arg2: pink9
+badPass.arg1: pink2 badPass.arg2: purple3 turnover.arg1: pink2 turnover.arg2: purple3 steal.arg1: pink6 turnover.arg1: purple3 turnover.arg2: pink6
+kick.arg1: pink9
+badPass.arg1: purple5 badPass.arg2: pink3 turnover.arg1: purple5 turnover.arg2: pink3
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+kick.arg1: pink11 defense.arg1: purple5 defense.arg2: purple5 turnover.arg1: pink11 turnover.arg2: purple5
+badPass.arg1: pink11 badPass.arg2: purple2 turnover.arg1: pink11 turnover.arg2: purple2
+pass.arg1: purple4 pass.arg2: purple11 playmode.arg1: kick_off_l
+pass.arg1: pink10 pass.arg2: pink9 steal.arg1: purple4 turnover.arg1: pink9 turnover.arg2: purple4
+badPass.arg1: pink8 badPass.arg2: purple2 turnover.arg1: pink8 turnover.arg2: purple2
+badPass.arg1: purple4 badPass.arg2: pink9
+kick.arg1: pink10
+playmode.arg1: offside_l playmode.arg1: free_kick_r badPass.arg1: purple6 badPass.arg2: pink2 turnover.arg1: purple6 turnover.arg2: pink2
+pass.arg1: pink7 pass.arg2: pink10
+badPass.arg1: purple2 badPass.arg2: pink8 turnover.arg1: purple2 turnover.arg2: pink8
+badPass.arg1: purple4 badPass.arg2: pink5 turnover.arg1: purple4 turnover.arg2: pink5
+pass.arg1: pink6 pass.arg2: pink5
+pass.arg1: purple3 pass.arg2: purple4 kick.arg1: purple4 pass.arg1: purple4 pass.arg2: purple8
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple7
+pass.arg1: purple10 pass.arg2: purple9
+pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: pink8 pass.arg2: pink10
+pass.arg1: purple3 pass.arg2: purple11
+pass.arg1: pink2 pass.arg2: pink6
+pass.arg1: purple11 pass.arg2: purple10
+badPass.arg1: pink3 badPass.arg2: purple8 turnover.arg1: pink3 turnover.arg2: purple8 kick.arg1: purple8 playmode.arg1: offside_l badPass.arg1: purple8 badPass.arg2: pink2 turnover.arg1: purple8 turnover.arg2: pink2
+kick.arg1: pink9 badPass.arg1: pink9 badPass.arg2: purple4 turnover.arg1: pink9 turnover.arg2: purple4
+kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink11
+kick.arg1: purple10 playmode.arg1: free_kick_r block.arg1: pink1 turnover.arg1: purple10 turnover.arg2: pink1
+kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink6
+badPass.arg1: pink10 badPass.arg2: purple4 turnover.arg1: pink10 turnover.arg2: purple4
+pass.arg1: purple2 pass.arg2: purple7
+kick.arg1: pink10
+badPass.arg1: purple7 badPass.arg2: pink5 turnover.arg1: purple7 turnover.arg2: pink5
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple2
+pass.arg1: purple9 pass.arg2: purple7
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: purple11 pass.arg2: purple6
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink10
+kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink6
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: pink2 pass.arg2: pink6
+defense.arg1: pink3 defense.arg2: pink3 turnover.arg1: purple11 turnover.arg2: pink3
+kick.arg1: purple5 badPass.arg1: purple5 badPass.arg2: pink7 turnover.arg1: purple5 turnover.arg2: pink7
+kick.arg1: pink4
+steal.arg1: purple5 turnover.arg1: pink11 turnover.arg2: purple5
+pass.arg1: pink1 pass.arg2: pink4
+kick.arg1: purple10
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple9
+playmode.arg1: play_on kick.arg1: purple4 pass.arg1: purple4 pass.arg2: purple11
+steal.arg1: purple2 turnover.arg1: pink8 turnover.arg2: purple2
+pass.arg1: pink6 pass.arg2: pink7
+pass.arg1: pink8 pass.arg2: pink10
+kick.arg1: pink11
+badPass.arg1: purple8 badPass.arg2: pink5 turnover.arg1: purple8 turnover.arg2: pink5
+badPass.arg1: purple6 badPass.arg2: pink2 turnover.arg1: purple6 turnover.arg2: pink2
+pass.arg1: purple8 pass.arg2: purple11
+badPass.arg1: pink5 badPass.arg2: purple10 turnover.arg1: pink5 turnover.arg2: purple10 kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+badPass.arg1: pink6 badPass.arg2: purple7 turnover.arg1: pink6 turnover.arg2: purple7
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink10
+playmode.arg1: free_kick_l block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+pass.arg1: purple10 pass.arg2: purple9
+pass.arg1: purple11 pass.arg2: purple10 steal.arg1: pink3 turnover.arg1: purple10 turnover.arg2: pink3
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple7
+pass.arg1: pink4 pass.arg2: pink8
+pass.arg1: purple7 pass.arg2: purple9 kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple10
+kick.arg1: purple10 badPass.arg1: purple10 badPass.arg2: pink4 turnover.arg1: purple10 turnover.arg2: pink4
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink7
+badPass.arg1: pink2 badPass.arg2: purple3 turnover.arg1: pink2 turnover.arg2: purple3
+playmode.arg1: offside_l playmode.arg1: free_kick_r badPass.arg1: purple2 badPass.arg2: pink8 turnover.arg1: purple2 turnover.arg2: pink8
+kick.arg1: pink3 pass.arg1: pink3 pass.arg2: pink6
+pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: purple5 pass.arg2: purple10
+pass.arg1: purple9 pass.arg2: purple10
+badPass.arg1: pink3 badPass.arg2: purple8 turnover.arg1: pink3 turnover.arg2: purple8
+kick.arg1: pink9
+badPass.arg1: purple10 badPass.arg2: pink6 turnover.arg1: purple10 turnover.arg2: pink6
+pass.arg1: purple4 pass.arg2: purple2
+badPass.arg1: pink11 badPass.arg2: purple2 turnover.arg1: pink11 turnover.arg2: purple2 kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple7
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+badPass.arg1: purple2 badPass.arg2: pink8 turnover.arg1: purple2 turnover.arg2: pink8
+pass.arg1: pink2 pass.arg2: pink6
+pass.arg1: pink7 pass.arg2: pink10
+pass.arg1: purple4 pass.arg2: purple8
+defense.arg1: purple4 defense.arg2: purple4 turnover.arg1: pink10 turnover.arg2: purple4
+kick.arg1: pink3 pass.arg1: pink3 pass.arg2: pink6
+pass.arg1: purple10 pass.arg2: purple11
+badPass.arg1: pink8 badPass.arg2: purple7 turnover.arg1: pink8 turnover.arg2: purple7
+pass.arg1: pink10 pass.arg2: pink11
+pass.arg1: pink10 pass.arg2: pink11
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple10
+pass.arg1: pink4 pass.arg2: pink8
+pass.arg1: purple2 pass.arg2: purple6
+pass.arg1: purple9 pass.arg2: purple10
+kick.arg1: pink9
+pass.arg1: purple7 pass.arg2: purple9
+playmode.arg1: free_kick_r badPass.arg1: purple8 badPass.arg2: pink2 turnover.arg1: purple8 turnover.arg2: pink2
+badPass.arg1: pink10 badPass.arg2: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+kick.arg1: pink3 pass.arg1: pink3 pass.arg2: pink2
+pass.arg1: pink5 pass.arg2: pink10
+pass.arg1: pink6 pass.arg2: pink7
+pass.arg1: pink7 pass.arg2: pink10
+badPass.arg1: pink10 badPass.arg2: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+pass.arg1: pink5 pass.arg2: pink10
+pass.arg1: purple2 pass.arg2: purple9
+defense.arg1: pink4 defense.arg2: pink4 turnover.arg1: purple7 turnover.arg2: pink4
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink10
+pass.arg1: purple7 pass.arg2: purple9
+kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple6 turnover.arg1: pink10 turnover.arg2: purple6
+badPass.arg1: purple9 badPass.arg2: pink7 turnover.arg1: purple9 turnover.arg2: pink7
+pass.arg1: pink4 pass.arg2: pink7
+badPass.arg1: purple8 badPass.arg2: pink2 turnover.arg1: purple8 turnover.arg2: pink2
+pass.arg1: purple8 pass.arg2: purple11
+badPass.arg1: purple2 badPass.arg2: pink7 turnover.arg1: purple2 turnover.arg2: pink7
+pass.arg1: purple11 pass.arg2: purple10
+badPass.arg1: pink11 badPass.arg2: purple5 turnover.arg1: pink11 turnover.arg2: purple5
+pass.arg1: pink8 pass.arg2: pink11 kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink10
+pass.arg1: purple4 pass.arg2: purple8
+kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink9
+kick.arg1: purple10 badPass.arg1: purple10 badPass.arg2: pink5 turnover.arg1: purple10 turnover.arg2: pink5
+badPass.arg1: purple9 badPass.arg2: pink3 turnover.arg1: purple9 turnover.arg2: pink3
+pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: purple10 pass.arg2: purple8
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink10
+badPass.arg1: pink10 badPass.arg2: purple2 turnover.arg1: pink10 turnover.arg2: purple2
+defense.arg1: pink4 defense.arg2: pink4 turnover.arg1: purple10 turnover.arg2: pink4
+pass.arg1: pink6 pass.arg2: pink8
+badPass.arg1: purple3 badPass.arg2: pink2 turnover.arg1: purple3 turnover.arg2: pink2
+kick.arg1: pink9 block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+pass.arg1: purple7 pass.arg2: purple9
+badPass.arg1: purple4 badPass.arg2: pink6 turnover.arg1: purple4 turnover.arg2: pink6
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink5 kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink10
+badPass.arg1: pink8 badPass.arg2: purple7 turnover.arg1: pink8 turnover.arg2: purple7
+pass.arg1: purple10 pass.arg2: purple9
+pass.arg1: purple10 pass.arg2: purple11
+badPass.arg1: pink8 badPass.arg2: purple2 turnover.arg1: pink8 turnover.arg2: purple2
+pass.arg1: pink8 pass.arg2: pink6
+steal.arg1: purple7 turnover.arg1: pink8 turnover.arg2: purple7 kick.arg1: purple7 badPass.arg1: purple7 badPass.arg2: pink8 turnover.arg1: purple7 turnover.arg2: pink8
+pass.arg1: purple10 pass.arg2: purple9
+kick.arg1: pink8
+pass.arg1: pink11 pass.arg2: pink10 kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple5 turnover.arg1: pink10 turnover.arg2: purple5
+kick.arg1: pink7
+pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: pink2 pass.arg2: pink5
+pass.arg1: purple7 pass.arg2: purple10
+pass.arg1: pink2 pass.arg2: pink3
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple7
+pass.arg1: purple11 pass.arg2: purple10
+badPass.arg1: pink8 badPass.arg2: purple5 turnover.arg1: pink8 turnover.arg2: purple5
+pass.arg1: purple7 pass.arg2: purple9
+badPass.arg1: purple6 badPass.arg2: pink6 turnover.arg1: purple6 turnover.arg2: pink6
+pass.arg1: pink7 pass.arg2: pink11
+badPass.arg1: pink4 badPass.arg2: purple9 turnover.arg1: pink4 turnover.arg2: purple9 kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple10
+kick.arg1: pink10 steal.arg1: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+pass.arg1: purple8 pass.arg2: purple4
+pass.arg1: pink6 pass.arg2: pink10
+pass.arg1: purple9 pass.arg2: purple10
+badPass.arg1: purple11 badPass.arg2: pink6 turnover.arg1: purple11 turnover.arg2: pink6
+pass.arg1: pink5 pass.arg2: pink10
+pass.arg1: pink11 pass.arg2: pink8
+playmode.arg1: kick_in_r badPass.arg1: purple1 badPass.arg2: pink9 turnover.arg1: purple1 turnover.arg2: pink9
+pass.arg1: purple3 pass.arg2: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple10
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink3
+pass.arg1: purple3 pass.arg2: purple10
+steal.arg1: pink7 turnover.arg1: purple10 turnover.arg2: pink7
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+kick.arg1: pink4 pass.arg1: pink4 pass.arg2: pink7
+pass.arg1: purple6 pass.arg2: purple9
+pass.arg1: purple8 pass.arg2: purple6
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: pink6 pass.arg2: pink7
+pass.arg1: purple6 pass.arg2: purple10
+pass.arg1: purple3 pass.arg2: purple8
+badPass.arg1: pink8 badPass.arg2: purple2 turnover.arg1: pink8 turnover.arg2: purple2
+pass.arg1: purple9 pass.arg2: purple6
+pass.arg1: pink6 pass.arg2: pink7
+pass.arg1: purple9 pass.arg2: purple7
+kick.arg1: purple9 playmode.arg1: free_kick_r block.arg1: pink1 turnover.arg1: purple9 turnover.arg2: pink1
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink5
+badPass.arg1: pink11 badPass.arg2: purple2 turnover.arg1: pink11 turnover.arg2: purple2
+kick.arg1: pink11 badPass.arg1: pink11 badPass.arg2: purple6 turnover.arg1: pink11 turnover.arg2: purple6
+pass.arg1: purple1 pass.arg2: purple2
+pass.arg1: pink7 pass.arg2: pink6
+badPass.arg1: pink5 badPass.arg2: purple3 turnover.arg1: pink5 turnover.arg2: purple3
+pass.arg1: purple11 pass.arg2: purple10
+badPass.arg1: purple11 badPass.arg2: pink6 turnover.arg1: purple11 turnover.arg2: pink6
+pass.arg1: purple10 pass.arg2: purple9
+pass.arg1: purple7 pass.arg2: purple9
+kick.arg1: pink8 badPass.arg1: pink8 badPass.arg2: purple2 turnover.arg1: pink8 turnover.arg2: purple2
+kick.arg1: pink9 badPass.arg1: pink9 badPass.arg2: purple8 turnover.arg1: pink9 turnover.arg2: purple8
+pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: purple4 pass.arg2: purple2 playmode.arg1: corner_kick_r kick.arg1: purple2
+pass.arg1: pink10 pass.arg2: pink9
+pass.arg1: purple6 pass.arg2: purple9
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+badPass.arg1: purple1 badPass.arg2: pink9 turnover.arg1: purple1 turnover.arg2: pink9
+pass.arg1: purple4 pass.arg2: purple8
+kick.arg1: pink3 pass.arg1: pink3 pass.arg2: pink7
+pass.arg1: purple7 pass.arg2: purple9
+badPass.arg1: purple5 badPass.arg2: pink4 turnover.arg1: purple5 turnover.arg2: pink4
+pass.arg1: pink5 pass.arg2: pink9
+pass.arg1: pink5 pass.arg2: pink9
+kick.arg1: pink3 kick.arg1: pink3
+badPass.arg1: purple6 badPass.arg2: pink2 turnover.arg1: purple6 turnover.arg2: pink2
+pass.arg1: pink7 pass.arg2: pink4
+pass.arg1: purple9 pass.arg2: purple7
+kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink6
+pass.arg1: purple4 pass.arg2: purple8
+badPass.arg1: pink3 badPass.arg2: purple10 turnover.arg1: pink3 turnover.arg2: purple10
+pass.arg1: purple7 pass.arg2: purple5
+pass.arg1: purple10 pass.arg2: purple11
+block.arg1: purple1 turnover.arg1: pink8 turnover.arg2: purple1
+badPass.arg1: pink8 badPass.arg2: purple4 turnover.arg1: pink8 turnover.arg2: purple4
+pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: pink2 pass.arg2: pink4
+defense.arg1: purple3 defense.arg2: purple3 turnover.arg1: pink9 turnover.arg2: purple3 steal.arg1: pink10 turnover.arg1: purple3 turnover.arg2: pink10
+pass.arg1: pink10 pass.arg2: pink9
+badPass.arg1: purple9 badPass.arg2: pink4 turnover.arg1: purple9 turnover.arg2: pink4
+badPass.arg1: pink10 badPass.arg2: purple5 turnover.arg1: pink10 turnover.arg2: purple5
+playmode.arg1: free_kick_r pass.arg1: pink2 pass.arg2: pink1
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: purple10 pass.arg2: purple9
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink10
+pass.arg1: purple10 pass.arg2: purple11
+badPass.arg1: pink6 badPass.arg2: purple6 turnover.arg1: pink6 turnover.arg2: purple6 kick.arg1: purple6 badPass.arg1: purple6 badPass.arg2: pink9 turnover.arg1: purple6 turnover.arg2: pink9
+pass.arg1: pink5 pass.arg2: pink7
+steal.arg1: pink3 turnover.arg1: purple11 turnover.arg2: pink3
+pass.arg1: pink2 pass.arg2: pink6
+kick.arg1: pink10
+pass.arg1: pink6 pass.arg2: pink11
+playmode.arg1: kick_in_r badPass.arg1: purple1 badPass.arg2: pink9 turnover.arg1: purple1 turnover.arg2: pink9
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink10
+badPass.arg1: pink7 badPass.arg2: purple7 turnover.arg1: pink7 turnover.arg2: purple7
+playmode.arg1: play_on kick.arg1: pink10
+pass.arg1: purple9 pass.arg2: purple7
+pass.arg1: pink5 pass.arg2: pink9
+pass.arg1: purple7 pass.arg2: purple9
+badPass.arg1: purple9 badPass.arg2: pink6 turnover.arg1: purple9 turnover.arg2: pink6
+pass.arg1: purple9 pass.arg2: purple8
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink7
+kick.arg1: pink4 pass.arg1: pink4 pass.arg2: pink8
+pass.arg1: purple1 pass.arg2: purple8
+kick.arg1: pink6 badPass.arg1: pink6 badPass.arg2: purple3 turnover.arg1: pink6 turnover.arg2: purple3
+pass.arg1: purple9 pass.arg2: purple7
+badPass.arg1: purple5 badPass.arg2: pink7 turnover.arg1: purple5 turnover.arg2: pink7
+pass.arg1: purple11 pass.arg2: purple10 kick.arg1: purple10 block.arg1: pink1 turnover.arg1: purple10 turnover.arg2: pink1
+pass.arg1: pink3 pass.arg2: pink5
+badPass.arg1: pink10 badPass.arg2: purple4 turnover.arg1: pink10 turnover.arg2: purple4
+kick.arg1: pink4 pass.arg1: pink4 pass.arg2: pink8
+pass.arg1: purple3 pass.arg2: purple4
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink5
+pass.arg1: pink3 pass.arg2: pink8
+pass.arg1: purple4 pass.arg2: purple3
+kick.arg1: pink10
+pass.arg1: pink3 pass.arg2: pink10
+badPass.arg1: purple9 badPass.arg2: pink3 turnover.arg1: purple9 turnover.arg2: pink3
+kick.arg1: purple10 defense.arg1: pink4 defense.arg2: pink4 turnover.arg1: purple10 turnover.arg2: pink4
+pass.arg1: purple3 pass.arg2: purple11
+pass.arg1: pink7 pass.arg2: pink6
+kick.arg1: pink8 badPass.arg1: pink8 badPass.arg2: purple7 turnover.arg1: pink8 turnover.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple9
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple2
+badPass.arg1: pink11 badPass.arg2: purple6 turnover.arg1: pink11 turnover.arg2: purple6
+pass.arg1: purple10 pass.arg2: purple11
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: purple3 pass.arg2: purple11
+pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: purple7 pass.arg2: purple10
+badPass.arg1: pink10 badPass.arg2: purple5 turnover.arg1: pink10 turnover.arg2: purple5
+badPass.arg1: pink10 badPass.arg2: purple4 turnover.arg1: pink10 turnover.arg2: purple4
+pass.arg1: purple5 pass.arg2: purple6
+badPass.arg1: pink9 badPass.arg2: purple8 turnover.arg1: pink9 turnover.arg2: purple8
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: pink2 pass.arg2: pink7
+kick.arg1: pink9 defense.arg1: purple3 defense.arg2: purple3 turnover.arg1: pink9 turnover.arg2: purple3
+kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink2
+pass.arg1: purple11 pass.arg2: purple8
+kick.arg1: pink6 steal.arg1: purple10 turnover.arg1: pink6 turnover.arg2: purple10
+pass.arg1: pink7 pass.arg2: pink8
+badPass.arg1: purple4 badPass.arg2: pink6 turnover.arg1: purple4 turnover.arg2: pink6 kick.arg1: pink6 badPass.arg1: pink6 badPass.arg2: purple6 turnover.arg1: pink6 turnover.arg2: purple6
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink4
+pass.arg1: pink8 pass.arg2: pink11
+badPass.arg1: purple5 badPass.arg2: pink4 turnover.arg1: purple5 turnover.arg2: pink4
+badPass.arg1: pink8 badPass.arg2: purple5 turnover.arg1: pink8 turnover.arg2: purple5
+playmode.arg1: kick_in_r badPass.arg1: purple4 badPass.arg2: pink9 turnover.arg1: purple4 turnover.arg2: pink9
+pass.arg1: pink8 pass.arg2: pink4
+pass.arg1: pink6 pass.arg2: pink9 steal.arg1: purple3 turnover.arg1: pink9 turnover.arg2: purple3
+playmode.arg1: free_kick_l block.arg1: purple1 turnover.arg1: pink10 turnover.arg2: purple1
+pass.arg1: purple11 pass.arg2: purple10
+kick.arg1: pink4 pass.arg1: pink4 pass.arg2: pink7
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: purple9 pass.arg2: purple10
+playmode.arg1: kick_in_r badPass.arg1: purple4 badPass.arg2: pink2 turnover.arg1: purple4 turnover.arg2: pink2
+kick.arg1: pink8 defense.arg1: purple2 defense.arg2: purple2 turnover.arg1: pink8 turnover.arg2: purple2
+badPass.arg1: pink7 badPass.arg2: purple7 turnover.arg1: pink7 turnover.arg2: purple7
+badPass.arg1: pink11 badPass.arg2: purple3 turnover.arg1: pink11 turnover.arg2: purple3
+pass.arg1: purple10 pass.arg2: purple11 kick.arg1: purple11 badPass.arg1: purple11 badPass.arg2: pink5 turnover.arg1: purple11 turnover.arg2: pink5
+pass.arg1: pink1 pass.arg2: pink8
+steal.arg1: pink4 turnover.arg1: purple9 turnover.arg2: pink4
+pass.arg1: purple4 pass.arg2: purple1
+pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: pink9 pass.arg2: pink10 kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink11
+badPass.arg1: pink6 badPass.arg2: purple8 turnover.arg1: pink6 turnover.arg2: purple8
+pass.arg1: purple6 pass.arg2: purple11
+pass.arg1: pink6 pass.arg2: pink7
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink7
+badPass.arg1: purple2 badPass.arg2: pink7 turnover.arg1: purple2 turnover.arg2: pink7 kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink11
+steal.arg1: purple5 turnover.arg1: pink11 turnover.arg2: purple5 steal.arg1: pink11 turnover.arg1: purple5 turnover.arg2: pink11 kick.arg1: pink11 badPass.arg1: pink11 badPass.arg2: purple5 turnover.arg1: pink11 turnover.arg2: purple5
+kick.arg1: pink4 pass.arg1: pink4 pass.arg2: pink7
+kick.arg1: pink6 badPass.arg1: pink6 badPass.arg2: purple5 turnover.arg1: pink6 turnover.arg2: purple5
+pass.arg1: pink4 pass.arg2: pink2
+pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: purple3 pass.arg2: purple8
+pass.arg1: purple10 pass.arg2: purple9
+pass.arg1: pink4 pass.arg2: pink7
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple10
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink4
+pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: pink2 pass.arg2: pink3
+pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: pink1 pass.arg2: pink5
+kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink5
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink7
+badPass.arg1: pink8 badPass.arg2: purple2 turnover.arg1: pink8 turnover.arg2: purple2
+pass.arg1: pink5 pass.arg2: pink10
+badPass.arg1: purple5 badPass.arg2: pink4 turnover.arg1: purple5 turnover.arg2: pink4
+badPass.arg1: pink10 badPass.arg2: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+kick.arg1: pink10
+badPass.arg1: purple11 badPass.arg2: pink7 turnover.arg1: purple11 turnover.arg2: pink7
+kick.arg1: pink3 pass.arg1: pink3 pass.arg2: pink4
+pass.arg1: purple10 pass.arg2: purple8
+pass.arg1: pink7 pass.arg2: pink10
+steal.arg1: purple4 turnover.arg1: pink9 turnover.arg2: purple4
+pass.arg1: pink8 pass.arg2: pink5
+pass.arg1: purple7 pass.arg2: purple9
+badPass.arg1: purple10 badPass.arg2: pink7 turnover.arg1: purple10 turnover.arg2: pink7
+pass.arg1: pink7 pass.arg2: pink10 kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+badPass.arg1: purple2 badPass.arg2: pink7 turnover.arg1: purple2 turnover.arg2: pink7
+steal.arg1: purple10 turnover.arg1: pink6 turnover.arg2: purple10 kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple3
+pass.arg1: purple10 pass.arg2: purple11
+badPass.arg1: purple10 badPass.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2
+pass.arg1: purple6 pass.arg2: purple9
+pass.arg1: purple11 pass.arg2: purple8
+pass.arg1: purple5 pass.arg2: purple1 kick.arg1: purple1 pass.arg1: purple1 pass.arg2: purple7
+steal.arg1: purple7 turnover.arg1: pink11 turnover.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple2
+kick.arg1: pink11 defense.arg1: purple5 defense.arg2: purple5 turnover.arg1: pink11 turnover.arg2: purple5
+pass.arg1: purple4 pass.arg2: purple11
+pass.arg1: purple5 pass.arg2: purple11
+pass.arg1: purple2 pass.arg2: purple7
+pass.arg1: purple11 pass.arg2: purple7
+pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: pink2 pass.arg2: pink5
+pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: pink6 pass.arg2: pink2
+pass.arg1: purple8 pass.arg2: purple11
+badPass.arg1: purple4 badPass.arg2: pink6 turnover.arg1: purple4 turnover.arg2: pink6 kick.arg1: pink6 badPass.arg1: pink6 badPass.arg2: purple6 turnover.arg1: pink6 turnover.arg2: purple6
+pass.arg1: pink7 pass.arg2: pink8
+badPass.arg1: purple7 badPass.arg2: pink8 turnover.arg1: purple7 turnover.arg2: pink8
+pass.arg1: purple11 pass.arg2: purple6
+pass.arg1: pink11 pass.arg2: pink7
+badPass.arg1: purple7 badPass.arg2: pink8 turnover.arg1: purple7 turnover.arg2: pink8
+pass.arg1: pink4 pass.arg2: pink8
+pass.arg1: pink4 pass.arg2: pink8
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink10
+pass.arg1: pink6 pass.arg2: pink9
+kick.arg1: pink11
+pass.arg1: purple11 pass.arg2: purple6
+playmode.arg1: offside_l badPass.arg1: purple2 badPass.arg2: pink8 turnover.arg1: purple2 turnover.arg2: pink8
+kick.arg1: pink4 badPass.arg1: pink4 badPass.arg2: purple9 turnover.arg1: pink4 turnover.arg2: purple9
+pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: pink5 pass.arg2: pink9 steal.arg1: purple4 turnover.arg1: pink9 turnover.arg2: purple4
+pass.arg1: pink7 pass.arg2: pink11 kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink8
+kick.arg1: pink3 pass.arg1: pink3 pass.arg2: pink4
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: pink4 pass.arg2: pink11
+playmode.arg1: kick_in_r badPass.arg1: purple1 badPass.arg2: pink9 turnover.arg1: purple1 turnover.arg2: pink9
+playmode.arg1: free_kick_r pass.arg1: pink3 pass.arg2: pink1
+badPass.arg1: purple3 badPass.arg2: pink6 turnover.arg1: purple3 turnover.arg2: pink6
+badPass.arg1: purple11 badPass.arg2: pink5 turnover.arg1: purple11 turnover.arg2: pink5
+pass.arg1: pink2 pass.arg2: pink1
+kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink6
+playmode.arg1: kick_in_r badPass.arg1: purple8 badPass.arg2: pink5 turnover.arg1: purple8 turnover.arg2: pink5
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: pink7 pass.arg2: pink6
+pass.arg1: pink10 pass.arg2: pink11
+pass.arg1: purple11 pass.arg2: purple10
+badPass.arg1: purple10 badPass.arg2: pink4 turnover.arg1: purple10 turnover.arg2: pink4
+pass.arg1: pink4 pass.arg2: pink8
+pass.arg1: purple5 pass.arg2: purple10
+badPass.arg1: pink11 badPass.arg2: purple5 turnover.arg1: pink11 turnover.arg2: purple5
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink6
+badPass.arg1: purple2 badPass.arg2: pink7 turnover.arg1: purple2 turnover.arg2: pink7
+pass.arg1: pink1 pass.arg2: pink4
+pass.arg1: purple8 pass.arg2: purple10
+pass.arg1: pink3 pass.arg2: pink4
+badPass.arg1: purple9 badPass.arg2: pink8 turnover.arg1: purple9 turnover.arg2: pink8
+defense.arg1: pink3 defense.arg2: pink3 turnover.arg1: purple11 turnover.arg2: pink3 kick.arg1: pink3 pass.arg1: pink3 pass.arg2: pink2
+playmode.arg1: free_kick_l block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+pass.arg1: pink7 pass.arg2: pink6
+pass.arg1: purple4 pass.arg2: purple3
+pass.arg1: pink5 pass.arg2: pink9
+kick.arg1: pink4 playmode.arg1: free_kick_r pass.arg1: pink4 pass.arg2: pink1
+pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: pink7 pass.arg2: pink6 kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink10
+defense.arg1: pink3 defense.arg2: pink3 turnover.arg1: purple10 turnover.arg2: pink3
+steal.arg1: pink10 turnover.arg1: purple3 turnover.arg2: pink10 kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink9
+pass.arg1: purple2 pass.arg2: purple7
+kick.arg1: pink3 pass.arg1: pink3 pass.arg2: pink11
+pass.arg1: purple2 pass.arg2: purple9
+pass.arg1: purple8 pass.arg2: purple4 steal.arg1: pink5 turnover.arg1: purple4 turnover.arg2: pink5
+pass.arg1: purple6 pass.arg2: purple10
+pass.arg1: purple2 pass.arg2: purple7
+pass.arg1: pink6 pass.arg2: pink7
+badPass.arg1: pink11 badPass.arg2: purple4 turnover.arg1: pink11 turnover.arg2: purple4
+pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: purple11 pass.arg2: purple10
+badPass.arg1: pink2 badPass.arg2: purple8 turnover.arg1: pink2 turnover.arg2: purple8
+pass.arg1: pink4 pass.arg2: pink8
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink8
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple10
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple7
+pass.arg1: pink7 pass.arg2: pink6
+badPass.arg1: purple8 badPass.arg2: pink9 turnover.arg1: purple8 turnover.arg2: pink9
+playmode.arg1: kick_in_r badPass.arg1: purple1 badPass.arg2: pink9 turnover.arg1: purple1 turnover.arg2: pink9
+pass.arg1: pink2 pass.arg2: pink5
+pass.arg1: pink1 pass.arg2: pink5
+pass.arg1: pink1 pass.arg2: pink5
+kick.arg1: pink4 pass.arg1: pink4 pass.arg2: pink7
+badPass.arg1: purple8 badPass.arg2: pink2 turnover.arg1: purple8 turnover.arg2: pink2
+pass.arg1: purple10 pass.arg2: purple9
+badPass.arg1: purple3 badPass.arg2: pink5 turnover.arg1: purple3 turnover.arg2: pink5
+pass.arg1: pink4 pass.arg2: pink3
+kick.arg1: pink6 badPass.arg1: pink6 badPass.arg2: purple10 turnover.arg1: pink6 turnover.arg2: purple10
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink8
+pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: purple10 pass.arg2: purple9
+pass.arg1: purple5 pass.arg2: purple9
+pass.arg1: pink2 pass.arg2: pink5 kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink9
+pass.arg1: purple4 pass.arg2: purple11
+pass.arg1: pink5 pass.arg2: pink9 kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink10
+defense.arg1: purple3 defense.arg2: purple3 turnover.arg1: pink9 turnover.arg2: purple3 steal.arg1: pink10 turnover.arg1: purple3 turnover.arg2: pink10 steal.arg1: purple3 turnover.arg1: pink10 turnover.arg2: purple3 steal.arg1: pink10 turnover.arg1: purple3 turnover.arg2: pink10
+kick.arg1: pink4 playmode.arg1: free_kick_r pass.arg1: pink4 pass.arg2: pink1
+pass.arg1: pink7 pass.arg2: pink8
+pass.arg1: pink7 pass.arg2: pink8
+defense.arg1: pink3 defense.arg2: pink3 turnover.arg1: purple9 turnover.arg2: pink3
+badPass.arg1: purple11 badPass.arg2: pink2 turnover.arg1: purple11 turnover.arg2: pink2
+pass.arg1: purple10 pass.arg2: purple9
+badPass.arg1: purple9 badPass.arg2: pink4 turnover.arg1: purple9 turnover.arg2: pink4 kick.arg1: pink3 badPass.arg1: pink3 badPass.arg2: purple9 turnover.arg1: pink3 turnover.arg2: purple9
+kick.arg1: pink9 badPass.arg1: pink9 badPass.arg2: purple6 turnover.arg1: pink9 turnover.arg2: purple6 steal.arg1: pink9 turnover.arg1: purple6 turnover.arg2: pink9
+pass.arg1: pink7 pass.arg2: pink8
+steal.arg1: pink3 turnover.arg1: purple11 turnover.arg2: pink3 steal.arg1: purple11 turnover.arg1: pink2 turnover.arg2: purple11
+pass.arg1: purple9 pass.arg2: purple10
+badPass.arg1: pink6 badPass.arg2: purple3 turnover.arg1: pink6 turnover.arg2: purple3
+pass.arg1: pink7 pass.arg2: pink6
+defense.arg1: purple2 defense.arg2: purple2 turnover.arg1: pink11 turnover.arg2: purple2
+badPass.arg1: purple1 badPass.arg2: pink9 turnover.arg1: purple1 turnover.arg2: pink9
+pass.arg1: pink10 pass.arg2: pink9 kick.arg1: pink9
+pass.arg1: pink2 pass.arg2: pink6 kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink2
+pass.arg1: pink2 pass.arg2: pink5
+pass.arg1: pink10 pass.arg2: pink9
+kick.arg1: pink10
+badPass.arg1: purple7 badPass.arg2: pink3 turnover.arg1: purple7 turnover.arg2: pink3
+playmode.arg1: play_on kick.arg1: pink1 pass.arg1: pink1 pass.arg2: pink4
+pass.arg1: pink3 pass.arg2: pink6
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink4
+pass.arg1: purple9 pass.arg2: purple8
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: pink6 pass.arg2: pink10
+pass.arg1: purple10 pass.arg2: purple7
+badPass.arg1: purple3 badPass.arg2: pink6 turnover.arg1: purple3 turnover.arg2: pink6
+pass.arg1: purple10 pass.arg2: purple9
+playmode.arg1: free_kick_l
+pass.arg1: purple9 pass.arg2: purple10
+playmode.arg1: kick_in_l badPass.arg1: pink10 badPass.arg2: purple4 turnover.arg1: pink10 turnover.arg2: purple4 playmode.arg1: play_on
+pass.arg1: purple4 pass.arg2: purple8
+badPass.arg1: pink10 badPass.arg2: purple6 turnover.arg1: pink10 turnover.arg2: purple6 kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple5
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+badPass.arg1: purple11 badPass.arg2: pink3 turnover.arg1: purple11 turnover.arg2: pink3
+badPass.arg1: pink5 badPass.arg2: purple7 turnover.arg1: pink5 turnover.arg2: purple7
+badPass.arg1: purple8 badPass.arg2: pink4 turnover.arg1: purple8 turnover.arg2: pink4
+steal.arg1: pink6 turnover.arg1: pink6 turnover.arg2: purple3
+kick.arg1: pink8 badPass.arg1: pink8 badPass.arg2: purple3 turnover.arg1: pink8 turnover.arg2: purple3 kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple7
+badPass.arg1: purple9 badPass.arg2: pink11 turnover.arg1: purple9 turnover.arg2: pink11
+badPass.arg1: purple3 badPass.arg2: pink11 turnover.arg1: purple3 turnover.arg2: pink11 kick.arg1: pink11 playmode.arg1: goal_r playmode.arg1: kick_off_l
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple10
+pass.arg1: purple7 pass.arg2: purple4 kick.arg1: purple4 pass.arg1: purple4 pass.arg2: purple3
+kick.arg1: purple7
+kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple7
+kick.arg1: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+pass.arg1: purple7 pass.arg2: purple6
+kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple5 turnover.arg1: pink10 turnover.arg2: purple5 kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple4
+kick.arg1: purple9 playmode.arg1: kick_in_l
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple3
+playmode.arg1: play_on kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: pink10 pass.arg2: pink9
+kick.arg1: pink8 defense.arg1: purple3 defense.arg2: purple3 turnover.arg1: pink8 turnover.arg2: purple3
+pass.arg1: pink9 pass.arg2: pink11
+defense.arg1: purple3 defense.arg2: purple3 turnover.arg1: pink9 turnover.arg2: purple3 kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple1
+pass.arg1: pink8 pass.arg2: pink10
+kick.arg1: pink9 defense.arg1: purple5 defense.arg2: purple5 turnover.arg1: pink9 turnover.arg2: purple5
+pass.arg1: purple3 pass.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple10
+pass.arg1: purple7 pass.arg2: purple6
+playmode.arg1: kick_in_l pass.arg1: purple9 pass.arg2: purple6
+badPass.arg1: pink11 badPass.arg2: purple5
+pass.arg1: pink7 pass.arg2: pink10
+pass.arg1: purple6 pass.arg2: purple2 kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple6
+playmode.arg1: goal_r playmode.arg1: kick_off_l badPass.arg1: pink10 badPass.arg2: purple10 turnover.arg1: pink10 turnover.arg2: purple10
+defense.arg1: pink3 defense.arg2: pink3 turnover.arg1: purple7 turnover.arg2: pink3
+pass.arg1: purple8 pass.arg2: purple9
+pass.arg1: purple6 pass.arg2: purple2
+badPass.arg1: purple9 badPass.arg2: pink6 turnover.arg1: purple9 turnover.arg2: pink6 kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink9
+pass.arg1: purple9 pass.arg2: purple10 kick.arg1: purple10
+steal.arg1: pink3 turnover.arg1: pink3 turnover.arg2: purple9
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple8 kick.arg1: purple8
+kick.arg1: purple10 badPass.arg1: purple10 badPass.arg2: pink9 turnover.arg1: purple10 turnover.arg2: pink9
+playmode.arg1: free_kick_l badPass.arg1: pink6 badPass.arg2: purple3 turnover.arg1: pink6 turnover.arg2: purple3
+badPass.arg1: purple4 badPass.arg2: pink9 turnover.arg1: purple4 turnover.arg2: pink9
+pass.arg1: purple10 pass.arg2: purple6
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple4
+pass.arg1: purple7 pass.arg2: purple6
+kick.arg1: purple11 steal.arg1: purple11 turnover.arg1: purple11 turnover.arg2: pink4
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple10 kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: purple10 pass.arg2: purple8
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple2
+kick.arg1: purple9 badPass.arg1: purple9 badPass.arg2: pink5 turnover.arg1: purple9 turnover.arg2: pink5
+playmode.arg1: kick_in_r badPass.arg1: purple2 badPass.arg2: pink8 turnover.arg1: purple2 turnover.arg2: pink8
+pass.arg1: pink9 pass.arg2: pink11
+kick.arg1: purple7 badPass.arg1: purple7 badPass.arg2: pink9 turnover.arg1: purple7 turnover.arg2: pink9
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple4
+pass.arg1: purple3 pass.arg2: purple7
+pass.arg1: purple7 pass.arg2: purple10
+pass.arg1: purple8 pass.arg2: purple3
+pass.arg1: purple11 pass.arg2: purple10
+kick.arg1: pink11 defense.arg1: purple6 defense.arg2: purple6 turnover.arg1: pink11 turnover.arg2: purple6
+pass.arg1: purple7 pass.arg2: purple6
+pass.arg1: pink7 pass.arg2: pink9 kick.arg1: pink9 playmode.arg1: goal_r badPass.arg1: pink9 badPass.arg2: purple10 turnover.arg1: pink9 turnover.arg2: purple10
+pass.arg1: purple10 pass.arg2: purple8
+playmode.arg1: corner_kick_r
+kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple8
+pass.arg1: purple10 pass.arg2: purple3
+badPass.arg1: purple6 badPass.arg2: pink6 turnover.arg1: purple6 turnover.arg2: pink6
+badPass.arg1: purple7 badPass.arg2: pink9 turnover.arg1: purple7 turnover.arg2: pink9
+pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: purple6 pass.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple4
+steal.arg1: pink10 turnover.arg1: pink10 turnover.arg2: purple5
+pass.arg1: pink5 pass.arg2: pink3 kick.arg1: pink3 badPass.arg1: pink3 badPass.arg2: purple7 turnover.arg1: pink3 turnover.arg2: purple7
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11 kick.arg1: purple11
+badPass.arg1: purple2 badPass.arg2: pink8 turnover.arg1: purple2 turnover.arg2: pink8 kick.arg1: pink8
+badPass.arg1: purple7 badPass.arg2: pink5 turnover.arg1: purple7 turnover.arg2: pink5
+kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink3
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink6
+playmode.arg1: kick_in_r
+pass.arg1: purple10 pass.arg2: purple6
+pass.arg1: purple6 pass.arg2: purple9
+playmode.arg1: play_on kick.arg1: purple1 pass.arg1: purple1 pass.arg2: purple2
+kick.arg1: pink9
+kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink8
+pass.arg1: purple8 pass.arg2: purple11
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+kick.arg1: pink11 badPass.arg1: pink11 badPass.arg2: purple3 turnover.arg1: pink11 turnover.arg2: purple3
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+pass.arg1: purple6 pass.arg2: purple9
+pass.arg1: purple8 pass.arg2: purple11
+badPass.arg1: purple2 badPass.arg2: pink8 turnover.arg1: purple2 turnover.arg2: pink8
+pass.arg1: pink9 pass.arg2: pink10
+kick.arg1: purple6 kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple10
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple8 kick.arg1: purple8 badPass.arg1: purple8 badPass.arg2: pink8 turnover.arg1: purple8 turnover.arg2: pink8
+kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple2
+pass.arg1: purple2 pass.arg2: purple7
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple3
+pass.arg1: purple7 pass.arg2: purple6 kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple2
+pass.arg1: pink8 pass.arg2: pink11
+kick.arg1: pink8 badPass.arg1: pink8 badPass.arg2: purple6 turnover.arg1: pink8 turnover.arg2: purple6
+pass.arg1: pink7 pass.arg2: pink9 kick.arg1: pink9 playmode.arg1: goal_r badPass.arg1: pink9 badPass.arg2: purple10 turnover.arg1: pink9 turnover.arg2: purple10
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple6
+pass.arg1: purple4 pass.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple10
+kick.arg1: purple4 pass.arg1: purple4 pass.arg2: purple5
+badPass.arg1: pink9 badPass.arg2: purple4 turnover.arg1: pink9 turnover.arg2: purple4 kick.arg1: purple4 pass.arg1: purple4 pass.arg2: purple3
+badPass.arg1: purple10 badPass.arg2: pink7 turnover.arg1: purple10 turnover.arg2: pink7
+pass.arg1: purple8 pass.arg2: purple10
+pass.arg1: purple9 pass.arg2: purple6 kick.arg1: purple6
+steal.arg1: pink10 turnover.arg1: pink10 turnover.arg2: purple5 kick.arg1: purple5 badPass.arg1: purple5 badPass.arg2: pink10 turnover.arg1: purple5 turnover.arg2: pink10
+pass.arg1: purple1 pass.arg2: purple5
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple8
+kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple2
+badPass.arg1: pink3 badPass.arg2: purple7 turnover.arg1: pink3 turnover.arg2: purple7 kick.arg1: purple7 badPass.arg1: purple7 badPass.arg2: pink9 turnover.arg1: purple7 turnover.arg2: pink9
+kick.arg1: pink6 playmode.arg1: offside_r playmode.arg1: free_kick_l defense.arg1: purple3 defense.arg2: purple3 turnover.arg1: pink6 turnover.arg2: purple3
+kick.arg1: purple6 badPass.arg1: purple6 badPass.arg2: pink5 turnover.arg1: purple6 turnover.arg2: pink5
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink9
+pass.arg1: purple10 pass.arg2: purple6
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple2
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink10
+playmode.arg1: play_on kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple7
+badPass.arg1: purple2 badPass.arg2: pink11 turnover.arg1: purple2 turnover.arg2: pink11
+pass.arg1: pink9 pass.arg2: pink10 kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple10 turnover.arg1: pink10 turnover.arg2: purple10
+pass.arg1: purple3 pass.arg2: purple1
+pass.arg1: purple4 pass.arg2: purple8
+pass.arg1: purple7 pass.arg2: purple10
+pass.arg1: pink9 pass.arg2: pink8
+pass.arg1: purple6 pass.arg2: purple9 kick.arg1: purple9
+badPass.arg1: purple3 badPass.arg2: pink11 turnover.arg1: purple3 turnover.arg2: pink11
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple8 kick.arg1: purple8 badPass.arg1: purple8 badPass.arg2: pink5 turnover.arg1: purple8 turnover.arg2: pink5
+pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: purple9 pass.arg2: purple7
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple4
+badPass.arg1: pink7 badPass.arg2: purple7 turnover.arg1: pink7 turnover.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple6
+kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple5 turnover.arg1: pink10 turnover.arg2: purple5
+pass.arg1: purple7 pass.arg2: purple10
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+playmode.arg1: kick_in_l badPass.arg1: pink9 badPass.arg2: purple8 turnover.arg1: pink9 turnover.arg2: purple8
+badPass.arg1: purple3 badPass.arg2: pink5 turnover.arg1: purple3 turnover.arg2: pink5
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple9
+kick.arg1: purple10 badPass.arg1: purple10 badPass.arg2: pink9 turnover.arg1: purple10 turnover.arg2: pink9
+kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple7
+kick.arg1: pink9 block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+steal.arg1: pink9 turnover.arg1: pink9 turnover.arg2: purple3
+badPass.arg1: purple5 badPass.arg2: pink9 turnover.arg1: purple5 turnover.arg2: pink9
+pass.arg1: pink11 pass.arg2: pink8
+pass.arg1: purple7 pass.arg2: purple10 kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple8
+badPass.arg1: purple5 badPass.arg2: pink7 turnover.arg1: purple5 turnover.arg2: pink7
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple9
+playmode.arg1: play_on kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink7
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple7
+badPass.arg1: pink10 badPass.arg2: purple7 turnover.arg1: pink10 turnover.arg2: purple7
+badPass.arg1: purple5 badPass.arg2: pink11 turnover.arg1: purple5 turnover.arg2: pink11 kick.arg1: pink11
+pass.arg1: pink11 pass.arg2: pink10 kick.arg1: pink10 playmode.arg1: goal_r badPass.arg1: pink10 badPass.arg2: purple10 turnover.arg1: pink10 turnover.arg2: purple10
+badPass.arg1: purple8 badPass.arg2: pink9 turnover.arg1: purple8 turnover.arg2: pink9
+badPass.arg1: pink3 badPass.arg2: purple11 turnover.arg1: pink3 turnover.arg2: purple11
+kick.arg1: pink11 badPass.arg1: pink11 badPass.arg2: purple2 turnover.arg1: pink11 turnover.arg2: purple2
+steal.arg1: pink3 turnover.arg1: pink3 turnover.arg2: purple9 kick.arg1: purple9 badPass.arg1: purple9 badPass.arg2: pink3 turnover.arg1: purple9 turnover.arg2: pink3
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple9
+pass.arg1: purple2 pass.arg2: purple6
+badPass.arg1: pink4 badPass.arg2: purple9 turnover.arg1: pink4 turnover.arg2: purple9 kick.arg1: purple9 badPass.arg1: purple9 badPass.arg2: pink6 turnover.arg1: purple9 turnover.arg2: pink6
+badPass.arg1: pink6 badPass.arg2: purple3 turnover.arg1: pink6 turnover.arg2: purple3
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink7 kick.arg1: pink7
+pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: purple10 pass.arg2: purple11 kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple7
+pass.arg1: purple4 pass.arg2: purple7
+pass.arg1: purple7 pass.arg2: purple10
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple7
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple10
+badPass.arg1: pink7 badPass.arg2: purple11 turnover.arg1: pink7 turnover.arg2: purple11
+pass.arg1: purple11 pass.arg2: purple5 kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple8
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink9 kick.arg1: pink9
+badPass.arg1: pink6 badPass.arg2: purple9 turnover.arg1: pink6 turnover.arg2: purple9 kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: purple2 pass.arg2: purple9 steal.arg1: purple9 turnover.arg1: purple9 turnover.arg2: pink5
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple7
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple3
+badPass.arg1: purple9 badPass.arg2: pink5 turnover.arg1: purple9 turnover.arg2: pink5 kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink8
+pass.arg1: purple4 pass.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple10
+playmode.arg1: goal_r playmode.arg1: kick_off_l badPass.arg1: pink9 badPass.arg2: purple10 turnover.arg1: pink9 turnover.arg2: purple10 playmode.arg1: play_on kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple8
+kick.arg1: purple4 pass.arg1: purple4 pass.arg2: purple3
+pass.arg1: pink2 pass.arg2: pink11
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple3
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink9 kick.arg1: pink9 badPass.arg1: pink9 badPass.arg2: purple10 turnover.arg1: pink9 turnover.arg2: purple10
+pass.arg1: pink7 pass.arg2: pink9 steal.arg1: pink9 turnover.arg1: pink9 turnover.arg2: purple3
+badPass.arg1: pink11 badPass.arg2: purple8 turnover.arg1: pink11 turnover.arg2: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+kick.arg1: pink8
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple3 kick.arg1: purple3 badPass.arg1: purple3 badPass.arg2: pink9 turnover.arg1: purple3 turnover.arg2: pink9
+pass.arg1: purple3 pass.arg2: purple2 kick.arg1: purple2 badPass.arg1: purple2 badPass.arg2: pink8 turnover.arg1: purple2 turnover.arg2: pink8
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+badPass.arg1: purple6 badPass.arg2: pink3 turnover.arg1: purple6 turnover.arg2: pink3
+playmode.arg1: play_on kick.arg1: purple1 pass.arg1: purple1 pass.arg2: purple2
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink9 kick.arg1: pink9 block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple7
+playmode.arg1: play_on kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple6
+pass.arg1: pink10 pass.arg2: pink9 kick.arg1: pink9 playmode.arg1: goal_r badPass.arg1: pink9 badPass.arg2: purple10 turnover.arg1: pink9 turnover.arg2: purple10
+badPass.arg1: purple11 badPass.arg2: pink4 turnover.arg1: purple11 turnover.arg2: pink4 kick.arg1: pink4 pass.arg1: pink4 pass.arg2: pink7
+pass.arg1: purple7 pass.arg2: purple4
+badPass.arg1: purple11 badPass.arg2: pink9 turnover.arg1: purple11 turnover.arg2: pink9
+badPass.arg1: purple3 badPass.arg2: pink7 turnover.arg1: purple3 turnover.arg2: pink7
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple8 kick.arg1: purple8
+pass.arg1: purple7 pass.arg2: purple4
+steal.arg1: pink11 turnover.arg1: pink11 turnover.arg2: purple2 kick.arg1: purple2 badPass.arg1: purple2 badPass.arg2: pink9 turnover.arg1: purple2 turnover.arg2: pink9
+steal.arg1: pink9 turnover.arg1: pink9 turnover.arg2: purple4
+kick.arg1: pink9 playmode.arg1: free_kick_l block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+kick.arg1: pink9
+pass.arg1: purple2 pass.arg2: purple3 kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple6
+pass.arg1: pink4 pass.arg2: pink9
+playmode.arg1: goal_r badPass.arg1: pink11 badPass.arg2: purple10 turnover.arg1: pink11 turnover.arg2: purple10
+playmode.arg1: goal_r playmode.arg1: kick_off_l
+badPass.arg1: purple6 badPass.arg2: pink11 turnover.arg1: purple6 turnover.arg2: pink11
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple6
+pass.arg1: purple10 pass.arg2: purple11 kick.arg1: purple11 badPass.arg1: purple11 badPass.arg2: pink7 turnover.arg1: purple11 turnover.arg2: pink7
+playmode.arg1: play_on kick.arg1: purple1 pass.arg1: purple1 pass.arg2: purple5
+kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple4
+badPass.arg1: purple7 badPass.arg2: pink5 turnover.arg1: purple7 turnover.arg2: pink5
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: purple11 pass.arg2: purple7
+badPass.arg1: purple8 badPass.arg2: pink5 turnover.arg1: purple8 turnover.arg2: pink5
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple6
+pass.arg1: purple6 pass.arg2: purple9
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple6
+kick.arg1: purple4 pass.arg1: purple4 pass.arg2: purple7
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple3
+pass.arg1: purple3 pass.arg2: purple10
+pass.arg1: pink7 pass.arg2: pink10 kick.arg1: pink10
+pass.arg1: pink6 pass.arg2: pink9 kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink11
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple6
+pass.arg1: pink7 pass.arg2: pink10
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink8
+pass.arg1: pink7 pass.arg2: pink9
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple2
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple7
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple8
+defense.arg1: purple6 defense.arg2: purple6 turnover.arg1: pink11 turnover.arg2: purple6
+badPass.arg1: purple8 badPass.arg2: pink8 turnover.arg1: purple8 turnover.arg2: pink8 kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink6
+pass.arg1: purple6 pass.arg2: purple9
+kick.arg1: pink9 defense.arg1: purple3 defense.arg2: purple3 turnover.arg1: pink9 turnover.arg2: purple3
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+pass.arg1: pink4 pass.arg2: pink10
+pass.arg1: pink10 pass.arg2: pink9
+playmode.arg1: goal_kick_l pass.arg1: purple3 pass.arg2: purple1
+kick.arg1: purple10
+badPass.arg1: purple7 badPass.arg2: pink9 turnover.arg1: purple7 turnover.arg2: pink9
+pass.arg1: purple6 pass.arg2: purple7
+kick.arg1: pink9 playmode.arg1: offside_r playmode.arg1: free_kick_l defense.arg1: purple3 defense.arg2: purple3 turnover.arg1: pink9 turnover.arg2: purple3
+pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: purple10 pass.arg2: purple11
+badPass.arg1: purple8 badPass.arg2: pink6 turnover.arg1: purple8 turnover.arg2: pink6 kick.arg1: pink6 badPass.arg1: pink6 badPass.arg2: purple3 turnover.arg1: pink6 turnover.arg2: purple3
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple4
+playmode.arg1: goal_l badPass.arg1: purple10 badPass.arg2: pink9 turnover.arg1: purple10 turnover.arg2: pink9
+playmode.arg1: goal_r playmode.arg1: kick_off_l badPass.arg1: pink10 badPass.arg2: purple10 turnover.arg1: pink10 turnover.arg2: purple10
+pass.arg1: pink11 pass.arg2: pink10
+playmode.arg1: play_on kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple7
+pass.arg1: purple3 pass.arg2: purple1 playmode.arg1: free_kick_l
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple4
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple7
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple6
+playmode.arg1: play_on kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple7
+badPass.arg1: purple8 badPass.arg2: pink5 turnover.arg1: purple8 turnover.arg2: pink5
+pass.arg1: purple11 pass.arg2: purple8
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple8
+badPass.arg1: purple6 badPass.arg2: pink9 turnover.arg1: purple6 turnover.arg2: pink9
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple6
+playmode.arg1: play_on kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple2
+pass.arg1: purple4 pass.arg2: purple3
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple10
+kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple7
+steal.arg1: pink10 turnover.arg1: pink10 turnover.arg2: purple5 kick.arg1: purple5 badPass.arg1: purple5 badPass.arg2: pink9 turnover.arg1: purple5 turnover.arg2: pink9
+pass.arg1: pink9 pass.arg2: pink11
+kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink11
+kick.arg1: purple11 badPass.arg1: purple11 badPass.arg2: pink7 turnover.arg1: purple11 turnover.arg2: pink7
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: purple10 pass.arg2: purple6
+pass.arg1: pink7 pass.arg2: pink9 kick.arg1: pink9 badPass.arg1: pink9 badPass.arg2: purple10 turnover.arg1: pink9 turnover.arg2: purple10
+pass.arg1: purple6 pass.arg2: purple10 kick.arg1: purple10
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11 kick.arg1: purple11
+pass.arg1: purple9 pass.arg2: purple2
+defense.arg1: purple3 defense.arg2: purple3 turnover.arg1: pink9 turnover.arg2: purple3 kick.arg1: purple3 badPass.arg1: purple3 badPass.arg2: pink11 turnover.arg1: purple3 turnover.arg2: pink11
+pass.arg1: purple10 pass.arg2: purple8 kick.arg1: purple8 badPass.arg1: purple8 badPass.arg2: pink8 turnover.arg1: purple8 turnover.arg2: pink8
+badPass.arg1: purple7 badPass.arg2: pink10 turnover.arg1: purple7 turnover.arg2: pink10
+steal.arg1: pink10 turnover.arg1: pink10 turnover.arg2: purple5 kick.arg1: purple5 badPass.arg1: purple5 badPass.arg2: pink11 turnover.arg1: purple5 turnover.arg2: pink11
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple8
+badPass.arg1: pink3 badPass.arg2: purple7 turnover.arg1: pink3 turnover.arg2: purple7
+playmode.arg1: play_on pass.arg1: purple1 pass.arg2: purple2
+badPass.arg1: purple10 badPass.arg2: pink4 turnover.arg1: purple10 turnover.arg2: pink4
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple8
+pass.arg1: purple7 pass.arg2: purple6
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+steal.arg1: purple11 turnover.arg1: purple11 turnover.arg2: pink7 kick.arg1: pink4 pass.arg1: pink4 pass.arg2: pink10
+playmode.arg1: play_on kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple7
+pass.arg1: pink9 pass.arg2: pink11
+kick.arg1: purple7
+kick.arg1: pink7 badPass.arg1: pink7 badPass.arg2: purple8 turnover.arg1: pink7 turnover.arg2: purple8
+pass.arg1: purple11 pass.arg2: purple5
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple6
+pass.arg1: purple11 pass.arg2: purple8
+pass.arg1: purple3 pass.arg2: purple6
+pass.arg1: purple7 pass.arg2: purple8
+badPass.arg1: pink4 badPass.arg2: purple8 turnover.arg1: pink4 turnover.arg2: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: purple2 pass.arg2: purple9 steal.arg1: purple9 turnover.arg1: purple9 turnover.arg2: pink5
+pass.arg1: pink8 pass.arg2: pink6
+pass.arg1: pink8 pass.arg2: pink11
+kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple4
+pass.arg1: purple9 pass.arg2: purple6
+kick.arg1: purple3 badPass.arg1: purple3 badPass.arg2: pink7 turnover.arg1: purple3 turnover.arg2: pink7
+badPass.arg1: pink11 badPass.arg2: purple4 turnover.arg1: pink11 turnover.arg2: purple4
+kick.arg1: pink9 badPass.arg1: pink9 badPass.arg2: purple10 turnover.arg1: pink9 turnover.arg2: purple10
+pass.arg1: purple6 pass.arg2: purple3 kick.arg1: purple3 badPass.arg1: purple3 badPass.arg2: pink9 turnover.arg1: purple3 turnover.arg2: pink9
+kick.arg1: purple10 badPass.arg1: purple10 badPass.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink9
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink9
+pass.arg1: purple6 pass.arg2: purple2 kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple3
+pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: purple4 pass.arg2: purple3
+pass.arg1: purple4 pass.arg2: purple7
+kick.arg1: pink9 block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1 playmode.arg1: free_kick_l
+steal.arg1: pink3 turnover.arg1: pink3 turnover.arg2: purple6
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple10
+badPass.arg1: purple5 badPass.arg2: pink10 turnover.arg1: purple5 turnover.arg2: pink10 kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink9 kick.arg1: pink9 badPass.arg1: pink9 badPass.arg2: purple10 turnover.arg1: pink9 turnover.arg2: purple10
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple7
+pass.arg1: purple5 pass.arg2: purple11
+pass.arg1: pink4 pass.arg2: pink7
+pass.arg1: purple4 pass.arg2: purple8
+kick.arg1: purple6 badPass.arg1: purple6 badPass.arg2: pink8 turnover.arg1: purple6 turnover.arg2: pink8
+pass.arg1: purple2 pass.arg2: purple3
+steal.arg1: pink11 turnover.arg1: pink11 turnover.arg2: purple2
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: purple7 pass.arg2: purple4 kick.arg1: purple4 pass.arg1: purple4 pass.arg2: purple3
+kick.arg1: pink9 playmode.arg1: free_kick_l block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple6 kick.arg1: purple6 badPass.arg1: purple6 badPass.arg2: pink9 turnover.arg1: purple6 turnover.arg2: pink9
+badPass.arg1: pink9 badPass.arg2: purple7 turnover.arg1: pink9 turnover.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple4
+playmode.arg1: goal_r playmode.arg1: kick_off_l badPass.arg1: pink11 badPass.arg2: purple10 turnover.arg1: pink11 turnover.arg2: purple10
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple3
+block.arg1: purple1 turnover.arg1: pink8 turnover.arg2: purple1
+playmode.arg1: kick_in_l badPass.arg1: pink11 badPass.arg2: purple2 turnover.arg1: pink11 turnover.arg2: purple2
+pass.arg1: purple9 pass.arg2: purple10
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+badPass.arg1: pink6 badPass.arg2: purple7 turnover.arg1: pink6 turnover.arg2: purple7
+playmode.arg1: free_kick_r steal.arg1: pink1 turnover.arg1: purple11 turnover.arg2: pink1
+pass.arg1: purple6 pass.arg2: purple9
+badPass.arg1: purple5 badPass.arg2: pink10 turnover.arg1: purple5 turnover.arg2: pink10 kick.arg1: pink10 defense.arg1: purple4 defense.arg2: purple4
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: pink2 pass.arg2: pink6
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink10
+pass.arg1: purple10 pass.arg2: purple9
+badPass.arg1: purple3 badPass.arg2: pink5 turnover.arg1: purple3 turnover.arg2: pink5
+badPass.arg1: pink10 badPass.arg2: purple4 turnover.arg1: pink10 turnover.arg2: purple4 kick.arg1: purple4 badPass.arg1: purple4 badPass.arg2: pink9 turnover.arg1: purple4 turnover.arg2: pink9
+pass.arg1: purple4 pass.arg2: purple8 kick.arg1: purple8 badPass.arg1: purple8 badPass.arg2: pink10 turnover.arg1: purple8 turnover.arg2: pink10
+badPass.arg1: pink5 badPass.arg2: purple3 turnover.arg1: pink5 turnover.arg2: purple3
+badPass.arg1: pink2 badPass.arg2: purple11 turnover.arg1: pink2 turnover.arg2: purple11
+pass.arg1: purple7 pass.arg2: purple10
+kick.arg1: purple11
+pass.arg1: purple3 pass.arg2: purple11
+badPass.arg1: pink10 badPass.arg2: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink7
+badPass.arg1: purple10 badPass.arg2: pink9 turnover.arg1: purple10 turnover.arg2: pink9
+pass.arg1: purple8 pass.arg2: purple10
+playmode.arg1: play_on playmode.arg1: kick_in_l kick.arg1: pink2 badPass.arg1: pink2 badPass.arg2: purple11 turnover.arg1: pink2 turnover.arg2: purple11
+pass.arg1: purple11 pass.arg2: purple10
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple9
+pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: purple7 pass.arg2: purple4
+badPass.arg1: pink8 badPass.arg2: purple3 turnover.arg1: pink8 turnover.arg2: purple3 kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple5
+playmode.arg1: play_on kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+steal.arg1: pink2 turnover.arg1: purple11 turnover.arg2: pink2 steal.arg1: purple11 turnover.arg1: pink2 turnover.arg2: purple11
+defense.arg1: purple3 defense.arg2: purple3 turnover.arg1: pink7 turnover.arg2: purple3
+pass.arg1: pink6 pass.arg2: pink11
+badPass.arg1: purple2 badPass.arg2: pink7 turnover.arg1: purple2 turnover.arg2: pink7
+pass.arg1: purple2 pass.arg2: purple6
+steal.arg1: purple8 turnover.arg1: pink9 turnover.arg2: purple8 kick.arg1: purple8 badPass.arg1: purple8 badPass.arg2: pink9 turnover.arg1: purple8 turnover.arg2: pink9
+badPass.arg1: pink2 badPass.arg2: purple8 turnover.arg1: pink2 turnover.arg2: purple8 kick.arg1: purple8 badPass.arg1: purple8 badPass.arg2: pink7 turnover.arg1: purple8 turnover.arg2: pink7
+badPass.arg1: pink10 badPass.arg2: purple8 turnover.arg1: pink10 turnover.arg2: purple8
+pass.arg1: purple9 pass.arg2: purple11
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple8
+kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink6
+pass.arg1: purple4 pass.arg2: purple11
+kick.arg1: purple8 badPass.arg1: purple8 badPass.arg2: pink2 turnover.arg1: purple8 turnover.arg2: pink2
+pass.arg1: purple8 pass.arg2: purple10
+kick.arg1: purple10 kick.arg1: purple10 defense.arg1: pink2 defense.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2
+pass.arg1: pink8 pass.arg2: pink11
+badPass.arg1: pink4 badPass.arg2: purple6 turnover.arg1: pink4 turnover.arg2: purple6
+badPass.arg1: pink6 badPass.arg2: purple3 turnover.arg1: pink6 turnover.arg2: purple3
+pass.arg1: purple7 pass.arg2: purple9 steal.arg1: pink4 turnover.arg1: purple9 turnover.arg2: pink4
+pass.arg1: purple3 pass.arg2: purple8
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink10
+badPass.arg1: pink9 badPass.arg2: purple4 turnover.arg1: pink9 turnover.arg2: purple4
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple6
+pass.arg1: purple6 pass.arg2: purple5
+kick.arg1: purple10 playmode.arg1: goal_l badPass.arg1: purple10 badPass.arg2: pink10 turnover.arg1: purple10 turnover.arg2: pink10
+pass.arg1: pink10 pass.arg2: pink8
+steal.arg1: purple8 turnover.arg1: pink7 turnover.arg2: purple8 steal.arg1: pink7 turnover.arg1: purple8 turnover.arg2: pink7
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple7
+badPass.arg1: purple5 badPass.arg2: pink10 turnover.arg1: purple5 turnover.arg2: pink10 kick.arg1: pink10 defense.arg1: purple4 defense.arg2: purple4
+pass.arg1: pink6 pass.arg2: pink11
+pass.arg1: pink3 pass.arg2: pink6
+pass.arg1: purple10 pass.arg2: purple7
+playmode.arg1: kick_in_r
+playmode.arg1: play_on kick.arg1: pink1 pass.arg1: pink1 pass.arg2: pink2
+kick.arg1: pink9
+playmode.arg1: free_kick_l block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+pass.arg1: purple10 pass.arg2: purple11 kick.arg1: purple11 playmode.arg1: goal_l badPass.arg1: purple11 badPass.arg2: pink10 turnover.arg1: purple11 turnover.arg2: pink10
+pass.arg1: pink10 pass.arg2: pink4 kick.arg1: pink4 pass.arg1: pink4 pass.arg2: pink8
+pass.arg1: purple9 pass.arg2: purple10
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink7
+kick.arg1: pink7 steal.arg1: purple8 turnover.arg1: pink7 turnover.arg2: purple8
+pass.arg1: purple4 pass.arg2: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+badPass.arg1: pink2 badPass.arg2: purple11 turnover.arg1: pink2 turnover.arg2: purple11
+playmode.arg1: play_on pass.arg1: pink1 pass.arg2: pink2
+pass.arg1: purple4 pass.arg2: purple7
+pass.arg1: purple1 pass.arg2: purple4
+pass.arg1: purple9 pass.arg2: purple11 kick.arg1: purple11 badPass.arg1: purple11 badPass.arg2: pink10 turnover.arg1: purple11 turnover.arg2: pink10
+kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+pass.arg1: purple10 pass.arg2: purple11
+badPass.arg1: pink4 badPass.arg2: purple2 turnover.arg1: pink4 turnover.arg2: purple2 steal.arg1: pink11 turnover.arg1: purple2 turnover.arg2: pink11
+playmode.arg1: free_kick_l steal.arg1: purple1 turnover.arg1: pink10 turnover.arg2: purple1
+badPass.arg1: pink8 badPass.arg2: purple3 turnover.arg1: pink8 turnover.arg2: purple3
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple7
+pass.arg1: purple7 pass.arg2: purple10
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: purple6 pass.arg2: purple9
+steal.arg1: purple3 turnover.arg1: pink9 turnover.arg2: purple3 kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple8
+kick.arg1: purple11
+badPass.arg1: purple7 badPass.arg2: pink3 turnover.arg1: purple7 turnover.arg2: pink3 kick.arg1: pink3 pass.arg1: pink3 pass.arg2: pink8
+badPass.arg1: pink10 badPass.arg2: purple8 turnover.arg1: pink10 turnover.arg2: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+pass.arg1: purple8 pass.arg2: purple11 kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple7
+pass.arg1: purple10 pass.arg2: purple9
+pass.arg1: purple4 pass.arg2: purple10
+kick.arg1: purple11
+pass.arg1: pink3 pass.arg2: pink8
+pass.arg1: purple3 pass.arg2: purple8 steal.arg1: pink7 turnover.arg1: purple8 turnover.arg2: pink7
+pass.arg1: purple8 pass.arg2: purple10 kick.arg1: purple10 badPass.arg1: purple10 badPass.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2
+pass.arg1: purple6 pass.arg2: purple10 kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: purple6 pass.arg2: purple5
+pass.arg1: purple6 pass.arg2: purple9
+pass.arg1: pink7 pass.arg2: pink9 kick.arg1: pink9 badPass.arg1: pink9 badPass.arg2: purple4 turnover.arg1: pink9 turnover.arg2: purple4
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple6
+pass.arg1: pink7 pass.arg2: pink9
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10 kick.arg1: purple10 badPass.arg1: purple10 badPass.arg2: pink10 turnover.arg1: purple10 turnover.arg2: pink10
+pass.arg1: pink7 pass.arg2: pink10
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink10
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink10
+playmode.arg1: kick_in_l
+badPass.arg1: purple5 badPass.arg2: pink10 turnover.arg1: purple5 turnover.arg2: pink10
+pass.arg1: purple7 pass.arg2: purple11
+badPass.arg1: purple9 badPass.arg2: pink3 turnover.arg1: purple9 turnover.arg2: pink3
+badPass.arg1: pink10 badPass.arg2: purple4 turnover.arg1: pink10 turnover.arg2: purple4 kick.arg1: purple4 playmode.arg1: kick_in_r badPass.arg1: purple4 badPass.arg2: pink9 turnover.arg1: purple4 turnover.arg2: pink9
+steal.arg1: purple8 turnover.arg1: pink9 turnover.arg2: purple8
+kick.arg1: purple1 pass.arg1: purple1 pass.arg2: purple4
+playmode.arg1: kick_in_r
+kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink9
+pass.arg1: purple10 pass.arg2: purple8
+pass.arg1: purple10 pass.arg2: purple11 kick.arg1: purple11 badPass.arg1: purple11 badPass.arg2: pink10 turnover.arg1: purple11 turnover.arg2: pink10
+badPass.arg1: pink2 badPass.arg2: purple11 turnover.arg1: pink2 turnover.arg2: purple11 kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple8
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple10
+pass.arg1: purple7 pass.arg2: purple10
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: purple9 pass.arg2: purple11 kick.arg1: purple11 playmode.arg1: goal_l badPass.arg1: purple11 badPass.arg2: pink10 turnover.arg1: purple11 turnover.arg2: pink10
+pass.arg1: purple7 pass.arg2: purple10
+pass.arg1: purple1 pass.arg2: purple4
+badPass.arg1: pink4 badPass.arg2: purple2 turnover.arg1: pink4 turnover.arg2: purple2
+kick.arg1: purple11 kick.arg1: purple11
+badPass.arg1: pink11 badPass.arg2: purple2 turnover.arg1: pink11 turnover.arg2: purple2
+kick.arg1: purple1 pass.arg1: purple1 pass.arg2: purple2 kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple6
+pass.arg1: purple3 pass.arg2: purple5
+kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple6
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple9
+kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple7
+pass.arg1: pink11 pass.arg2: pink10 steal.arg1: purple2 turnover.arg1: pink10 turnover.arg2: purple2
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: purple8 pass.arg2: purple7 kick.arg1: purple7 badPass.arg1: purple7 badPass.arg2: pink3 turnover.arg1: purple7 turnover.arg2: pink3
+steal.arg1: purple3 turnover.arg1: pink9 turnover.arg2: purple3 kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple8
+badPass.arg1: purple7 badPass.arg2: pink2
+badPass.arg1: pink5 badPass.arg2: purple4 turnover.arg1: pink5 turnover.arg2: purple4
+pass.arg1: purple7 pass.arg2: purple11
+pass.arg1: pink8 pass.arg2: pink10
+steal.arg1: pink7 turnover.arg1: purple8 turnover.arg2: pink7 steal.arg1: purple8 turnover.arg1: pink7 turnover.arg2: purple8
+pass.arg1: purple8 pass.arg2: purple10
+pass.arg1: purple4 pass.arg2: purple11 steal.arg1: pink2 turnover.arg1: purple11 turnover.arg2: pink2
+kick.arg1: purple9
+pass.arg1: purple10 pass.arg2: purple11 kick.arg1: purple11 badPass.arg1: purple11 badPass.arg2: pink10 turnover.arg1: purple11 turnover.arg2: pink10
+badPass.arg1: pink11 badPass.arg2: purple2 turnover.arg1: pink11 turnover.arg2: purple2 playmode.arg1: play_on
+kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple6
+block.arg1: purple1 turnover.arg1: pink8 turnover.arg2: purple1
+pass.arg1: pink1 pass.arg2: pink2
+badPass.arg1: purple7 badPass.arg2: pink11 turnover.arg1: purple7 turnover.arg2: pink11
+pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: purple4 pass.arg2: purple7
+kick.arg1: purple9 badPass.arg1: purple9 badPass.arg2: pink4 turnover.arg1: purple9 turnover.arg2: pink4
+playmode.arg1: play_on kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink7
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple9
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+badPass.arg1: pink6 badPass.arg2: purple5 turnover.arg1: pink6 turnover.arg2: purple5
+steal.arg1: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+badPass.arg1: pink10 badPass.arg2: purple4 turnover.arg1: pink10 turnover.arg2: purple4
+pass.arg1: purple7 pass.arg2: purple3
+kick.arg1: purple9
+badPass.arg1: purple10 badPass.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2
+pass.arg1: purple3 pass.arg2: purple7
+badPass.arg1: pink5 badPass.arg2: purple3 turnover.arg1: pink5 turnover.arg2: purple3 steal.arg1: pink9 turnover.arg1: purple3 turnover.arg2: pink9
+badPass.arg1: pink2 badPass.arg2: purple7 turnover.arg1: pink2 turnover.arg2: purple7 steal.arg1: pink2 turnover.arg1: purple7 turnover.arg2: pink2 kick.arg1: pink2 badPass.arg1: pink2 badPass.arg2: purple11 turnover.arg1: pink2 turnover.arg2: purple11
+kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+pass.arg1: purple11 pass.arg2: purple10
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: purple10 pass.arg2: purple6
+playmode.arg1: kick_in_r badPass.arg1: purple10 badPass.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2
+kick.arg1: pink9
+pass.arg1: purple8 pass.arg2: purple10 steal.arg1: pink5 turnover.arg1: purple10 turnover.arg2: pink5
+pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: purple5 pass.arg2: purple8
+pass.arg1: purple3 pass.arg2: purple8
+block.arg1: pink1 turnover.arg1: purple9 turnover.arg2: pink1
+pass.arg1: purple3 pass.arg2: purple7
+pass.arg1: purple8 pass.arg2: purple10 kick.arg1: purple10 badPass.arg1: purple10 badPass.arg2: pink6 turnover.arg1: purple10 turnover.arg2: pink6
+playmode.arg1: free_kick_l kick.arg1: pink3 badPass.arg1: pink3 badPass.arg2: purple11 turnover.arg1: pink3 turnover.arg2: purple11
+playmode.arg1: kick_in_r badPass.arg1: purple8 badPass.arg2: pink9 turnover.arg1: purple8 turnover.arg2: pink9
+badPass.arg1: pink4 badPass.arg2: purple2 turnover.arg1: pink4 turnover.arg2: purple2
+pass.arg1: purple10 pass.arg2: purple11 kick.arg1: purple11 playmode.arg1: goal_l badPass.arg1: purple11 badPass.arg2: pink10 turnover.arg1: purple11 turnover.arg2: pink10
+pass.arg1: purple2 pass.arg2: purple6 steal.arg1: pink8 turnover.arg1: purple6 turnover.arg2: pink8
+pass.arg1: purple9 pass.arg2: purple11 kick.arg1: purple11 badPass.arg1: purple11 badPass.arg2: pink10 turnover.arg1: purple11 turnover.arg2: pink10
+pass.arg1: pink7 pass.arg2: pink10
+playmode.arg1: play_on pass.arg1: pink1 pass.arg2: pink2
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: purple11 pass.arg2: purple10 steal.arg1: pink5 turnover.arg1: purple10 turnover.arg2: pink5 kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink6
+pass.arg1: purple7 pass.arg2: purple4
+kick.arg1: purple10 playmode.arg1: goal_l
+kick.arg1: purple10 kick.arg1: purple10 defense.arg1: pink2 defense.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2
+pass.arg1: purple10 pass.arg2: purple8
+badPass.arg1: pink6 badPass.arg2: purple3 turnover.arg1: pink6 turnover.arg2: purple3 kick.arg1: purple3 badPass.arg1: purple3 badPass.arg2: pink7 turnover.arg1: purple3 turnover.arg2: pink7
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple9
+kick.arg1: pink4 pass.arg1: pink4 pass.arg2: pink8
+badPass.arg1: purple10 badPass.arg2: pink7 turnover.arg1: purple10 turnover.arg2: pink7
+badPass.arg1: pink10 badPass.arg2: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+kick.arg1: pink4 badPass.arg1: pink4 badPass.arg2: purple6 turnover.arg1: pink4 turnover.arg2: purple6
+pass.arg1: purple8 pass.arg2: purple11
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink10
+pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: purple4 pass.arg2: purple8
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+steal.arg1: pink4 turnover.arg1: purple10 turnover.arg2: pink4
+pass.arg1: purple6 pass.arg2: purple9
+kick.arg1: purple10 defense.arg1: pink2 defense.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2 steal.arg1: purple10 turnover.arg1: pink2 turnover.arg2: purple10
+steal.arg1: purple4 turnover.arg1: pink7 turnover.arg2: purple4
+badPass.arg1: purple10 badPass.arg2: pink8 turnover.arg1: purple10 turnover.arg2: pink8
+pass.arg1: purple7 pass.arg2: purple6
+badPass.arg1: purple10 badPass.arg2: pink3 turnover.arg1: purple10 turnover.arg2: pink3 kick.arg1: pink3 pass.arg1: pink3 pass.arg2: pink6
+pass.arg1: pink2 pass.arg2: pink7
+pass.arg1: pink10 pass.arg2: pink4
+kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink7
+badPass.arg1: pink10 badPass.arg2: purple7 turnover.arg1: pink10 turnover.arg2: purple7
+pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: purple7 pass.arg2: purple10 steal.arg1: pink3 turnover.arg1: purple10 turnover.arg2: pink3
+pass.arg1: purple4 pass.arg2: purple1 playmode.arg1: free_kick_r kick.arg1: purple1 badPass.arg1: purple1 badPass.arg2: pink9 turnover.arg1: purple1 turnover.arg2: pink9
+playmode.arg1: play_on kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple8 turnover.arg1: pink10 turnover.arg2: purple8
+pass.arg1: purple9 pass.arg2: purple11
+badPass.arg1: pink2 badPass.arg2: purple10 turnover.arg1: pink2 turnover.arg2: purple10
+badPass.arg1: pink10 badPass.arg2: purple4 turnover.arg1: pink10 turnover.arg2: purple4
+kick.arg1: purple11
+pass.arg1: purple4 pass.arg2: purple8
+badPass.arg1: pink8 badPass.arg2: purple3 turnover.arg1: pink8 turnover.arg2: purple3
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: purple4 pass.arg2: purple11
+kick.arg1: pink4 badPass.arg1: pink4 badPass.arg2: purple9 turnover.arg1: pink4 turnover.arg2: purple9
+pass.arg1: purple7 pass.arg2: purple8
+kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink7
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+badPass.arg1: purple10 badPass.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2
+kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple7
+badPass.arg1: pink8 badPass.arg2: purple8 turnover.arg1: pink8 turnover.arg2: purple8
+pass.arg1: purple10 pass.arg2: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple10
+pass.arg1: purple7 pass.arg2: purple10 kick.arg1: purple10 badPass.arg1: purple10 badPass.arg2: pink6 turnover.arg1: purple10 turnover.arg2: pink6
+pass.arg1: purple6 pass.arg2: purple9
+pass.arg1: purple9 pass.arg2: purple7
+pass.arg1: purple10 pass.arg2: purple8
+kick.arg1: purple11 kick.arg1: purple11
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple10
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+defense.arg1: pink5 defense.arg2: pink5 turnover.arg1: purple10 turnover.arg2: pink5
+kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink7
+badPass.arg1: pink2 badPass.arg2: purple8 turnover.arg1: pink2 turnover.arg2: purple8
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple10
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple10 kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+badPass.arg1: pink11 badPass.arg2: purple5 turnover.arg1: pink11 turnover.arg2: purple5 kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple7
+badPass.arg1: purple6 badPass.arg2: pink4 turnover.arg1: purple6 turnover.arg2: pink4
+pass.arg1: pink10 pass.arg2: pink8
+kick.arg1: pink9 block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink10
+pass.arg1: purple10 pass.arg2: purple11 kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple2
+pass.arg1: purple7 pass.arg2: purple5
+kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple6
+badPass.arg1: purple10 badPass.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2
+pass.arg1: purple10 pass.arg2: purple8
+kick.arg1: purple11
+badPass.arg1: purple10 badPass.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2
+badPass.arg1: pink4 badPass.arg2: purple6 turnover.arg1: pink4 turnover.arg2: purple6
+pass.arg1: purple11 pass.arg2: purple7
+kick.arg1: purple11
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: purple10 pass.arg2: purple11
+playmode.arg1: play_on kick.arg1: pink1 pass.arg1: pink1 pass.arg2: pink4
+pass.arg1: pink5 pass.arg2: pink10
+pass.arg1: purple4 pass.arg2: purple8
+pass.arg1: purple7 pass.arg2: purple10
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: purple3 pass.arg2: purple6
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink10
+kick.arg1: pink2 badPass.arg1: pink2 badPass.arg2: purple11 turnover.arg1: pink2 turnover.arg2: purple11
+kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink10 steal.arg1: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+badPass.arg1: pink10 badPass.arg2: purple10 turnover.arg1: pink10 turnover.arg2: purple10 kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple7
+kick.arg1: purple11 steal.arg1: pink2 turnover.arg1: purple11 turnover.arg2: pink2
+badPass.arg1: purple8 badPass.arg2: pink9 turnover.arg1: purple8 turnover.arg2: pink9 playmode.arg1: play_on kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink7
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink10
+playmode.arg1: play_on kick.arg1: pink1 pass.arg1: pink1 pass.arg2: pink2
+kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink7
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple5
+steal.arg1: purple8 turnover.arg1: pink2 turnover.arg2: purple8
+steal.arg1: purple6 turnover.arg1: pink8 turnover.arg2: purple6
+badPass.arg1: pink2 badPass.arg2: purple8 turnover.arg1: pink2 turnover.arg2: purple8
+badPass.arg1: pink3 badPass.arg2: purple8 turnover.arg1: pink3 turnover.arg2: purple8
+pass.arg1: purple10 pass.arg2: purple11
+pass.arg1: purple2 pass.arg2: purple5
+pass.arg1: purple11 pass.arg2: purple10
+badPass.arg1: pink6 badPass.arg2: purple2 turnover.arg1: pink6 turnover.arg2: purple2
+pass.arg1: purple11 pass.arg2: purple10
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple8
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple10
+pass.arg1: pink6 pass.arg2: pink9
+badPass.arg1: purple11 badPass.arg2: pink6 turnover.arg1: purple11 turnover.arg2: pink6
+playmode.arg1: free_kick_r block.arg1: pink1 turnover.arg1: purple11 turnover.arg2: pink1
+steal.arg1: purple8 turnover.arg1: pink7 turnover.arg2: purple8
+badPass.arg1: purple7 badPass.arg2: pink5 turnover.arg1: purple7 turnover.arg2: pink5
+pass.arg1: purple6 pass.arg2: purple9
+badPass.arg1: pink11 badPass.arg2: purple5 turnover.arg1: pink11 turnover.arg2: purple5
+kick.arg1: purple5
+playmode.arg1: goal_l badPass.arg1: purple11 badPass.arg2: pink10 turnover.arg1: purple11 turnover.arg2: pink10
+kick.arg1: purple11
+playmode.arg1: goal_kick_r block.arg1: pink1 turnover.arg1: purple10 turnover.arg2: pink1
+pass.arg1: pink2 pass.arg2: pink9
+pass.arg1: purple2 pass.arg2: purple5
+pass.arg1: purple7 pass.arg2: purple5
+pass.arg1: purple6 pass.arg2: purple9
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple10
+pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: purple7 pass.arg2: purple10
+pass.arg1: purple7 pass.arg2: purple11
+pass.arg1: purple11 pass.arg2: purple10
+pass.arg1: purple7 pass.arg2: purple11
+kick.arg1: purple9 badPass.arg1: purple9 badPass.arg2: pink4 turnover.arg1: purple9 turnover.arg2: pink4
+pass.arg1: purple7 pass.arg2: purple10
+badPass.arg1: pink2 badPass.arg2: purple7 turnover.arg1: pink2 turnover.arg2: purple7 steal.arg1: pink2 turnover.arg1: purple7 turnover.arg2: pink2
+badPass.arg1: pink8 badPass.arg2: purple5 turnover.arg1: pink8 turnover.arg2: purple5
+pass.arg1: pink9 pass.arg2: pink10 kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple4 turnover.arg1: pink10 turnover.arg2: purple4
+pass.arg1: purple9 pass.arg2: purple10
+kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple5 turnover.arg1: pink10 turnover.arg2: purple5
+pass.arg1: pink9 pass.arg2: pink10
+badPass.arg1: pink10 badPass.arg2: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink10
+badPass.arg1: purple6 badPass.arg2: pink4 turnover.arg1: purple6 turnover.arg2: pink4
+pass.arg1: pink7 pass.arg2: pink10 steal.arg1: purple7 turnover.arg1: pink10 turnover.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple4
+pass.arg1: purple11 pass.arg2: purple10 kick.arg1: purple10
+badPass.arg1: pink10 badPass.arg2: purple10 turnover.arg1: pink10 turnover.arg2: purple10 kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple7
+playmode.arg1: kick_in_r badPass.arg1: purple8 badPass.arg2: pink9 turnover.arg1: purple8 turnover.arg2: pink9
+pass.arg1: pink10 pass.arg2: pink8
+pass.arg1: purple5 pass.arg2: purple3
+pass.arg1: purple11 pass.arg2: purple10 kick.arg1: purple10 badPass.arg1: purple10 badPass.arg2: pink2 turnover.arg1: purple10 turnover.arg2: pink2
+badPass.arg1: purple8 badPass.arg2: pink10 turnover.arg1: purple8 turnover.arg2: pink10
+badPass.arg1: purple8 badPass.arg2: pink4 turnover.arg1: purple8 turnover.arg2: pink4
+pass.arg1: purple10 pass.arg2: purple11 kick.arg1: purple11 playmode.arg1: goal_l badPass.arg1: purple11 badPass.arg2: pink10 turnover.arg1: purple11 turnover.arg2: pink10
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: purple11 pass.arg2: purple10
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple7
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: purple10 pass.arg2: purple8
+pass.arg1: pink9 pass.arg2: pink10
+badPass.arg1: pink6 badPass.arg2: purple5 turnover.arg1: pink6 turnover.arg2: purple5
+pass.arg1: purple10 pass.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple10
+pass.arg1: pink10 pass.arg2: pink3
+pass.arg1: pink1 pass.arg2: pink7
+pass.arg1: purple3 pass.arg2: purple7
+pass.arg1: purple3 pass.arg2: purple5
+badPass.arg1: pink11 badPass.arg2: purple5 turnover.arg1: pink11 turnover.arg2: purple5 kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple7
+kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple6
+playmode.arg1: play_on playmode.arg1: kick_in_l kick.arg1: pink4 badPass.arg1: pink4 badPass.arg2: purple6 turnover.arg1: pink4 turnover.arg2: purple6
+pass.arg1: purple7 pass.arg2: purple6 kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple7
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink7
+pass.arg1: pink10 pass.arg2: pink11
+kick.arg1: purple11
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple6
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple10
+steal.arg1: purple8 turnover.arg1: pink7 turnover.arg2: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+pass.arg1: purple8 pass.arg2: purple3
+pass.arg1: purple6 pass.arg2: purple9
+pass.arg1: purple11 pass.arg2: purple10
+playmode.arg1: play_on kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink7
+pass.arg1: purple10 pass.arg2: purple8
+pass.arg1: purple8 pass.arg2: purple11 kick.arg1: purple11 badPass.arg1: purple11 badPass.arg2: pink2 turnover.arg1: purple11 turnover.arg2: pink2
+badPass.arg1: purple10 badPass.arg2: pink3 turnover.arg1: purple10 turnover.arg2: pink3
+steal.arg1: purple6 turnover.arg1: pink8 turnover.arg2: purple6 kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple7
+pass.arg1: pink7 pass.arg2: pink10
+kick.arg1: purple11 playmode.arg1: goal_l playmode.arg1: kick_off_r badPass.arg1: purple11 badPass.arg2: pink10 turnover.arg1: purple11 turnover.arg2: pink10
+playmode.arg1: free_kick_r steal.arg1: pink1 turnover.arg1: purple11 turnover.arg2: pink1
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+pass.arg1: purple4 pass.arg2: purple1
+pass.arg1: pink7 pass.arg2: pink10
+kick.arg1: purple11 defense.arg1: pink3 defense.arg2: pink3 turnover.arg1: purple11 turnover.arg2: pink3
+pass.arg1: purple8 pass.arg2: purple7
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple8
+badPass.arg1: purple10 badPass.arg2: pink8 turnover.arg1: purple10 turnover.arg2: pink8
+kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple7
+playmode.arg1: kick_in_l
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple10
+playmode.arg1: play_on kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple8
+pass.arg1: purple2 pass.arg2: purple5
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+pass.arg1: purple2 pass.arg2: purple6
+kick.arg1: purple9 kick.arg1: purple9
+pass.arg1: pink6 pass.arg2: pink10
+pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: purple5 pass.arg2: purple10
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink7
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple11
+playmode.arg1: kick_in_l badPass.arg1: pink2 badPass.arg2: purple8 turnover.arg1: pink2 turnover.arg2: purple8
+badPass.arg1: pink2 badPass.arg2: purple4 turnover.arg1: pink2 turnover.arg2: purple4 kick.arg1: purple4 pass.arg1: purple4 pass.arg2: purple8
+kick.arg1: pink1 pass.arg1: pink1 pass.arg2: pink4
+kick.arg1: purple8 badPass.arg1: purple8 badPass.arg2: pink2 turnover.arg1: purple8 turnover.arg2: pink2
+pass.arg1: purple7 pass.arg2: purple6
+badPass.arg1: pink11 badPass.arg2: purple5 turnover.arg1: pink11 turnover.arg2: purple5
+pass.arg1: purple10 pass.arg2: purple11
+kick.arg1: purple8 badPass.arg1: purple8 badPass.arg2: pink9 turnover.arg1: purple8 turnover.arg2: pink9
+badPass.arg1: pink2 badPass.arg2: purple8 turnover.arg1: pink2 turnover.arg2: purple8
+playmode.arg1: kick_in_r badPass.arg1: purple6 badPass.arg2: pink4 turnover.arg1: purple6 turnover.arg2: pink4
+playmode.arg1: play_on kick.arg1: purple1
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple8
+pass.arg1: pink7 pass.arg2: pink10
+playmode.arg1: goal_l playmode.arg1: kick_off_r badPass.arg1: purple8 badPass.arg2: pink9 turnover.arg1: purple8 turnover.arg2: pink9
+playmode.arg1: kick_off_r badPass.arg1: purple9 badPass.arg2: pink9 turnover.arg1: purple9 turnover.arg2: pink9 playmode.arg1: play_on kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink6
+pass.arg1: purple4 pass.arg2: purple7
+kick.arg1: pink4 badPass.arg1: pink4 badPass.arg2: purple5 turnover.arg1: pink4 turnover.arg2: purple5
+badPass.arg1: pink11 badPass.arg2: purple7 turnover.arg1: pink11 turnover.arg2: purple7 kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple8
+pass.arg1: purple9 pass.arg2: purple8
+playmode.arg1: goal_r playmode.arg1: kick_off_l badPass.arg1: pink10 badPass.arg2: purple9 turnover.arg1: pink10 turnover.arg2: purple9 playmode.arg1: play_on kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple5
+pass.arg1: purple11 pass.arg2: purple8
+playmode.arg1: play_on kick.arg1: pink1 pass.arg1: pink1 pass.arg2: pink8
+pass.arg1: pink2 pass.arg2: pink6
+kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink9
+pass.arg1: purple5 pass.arg2: purple11
+pass.arg1: pink8 pass.arg2: pink11
+badPass.arg1: pink3 badPass.arg2: purple6 turnover.arg1: pink3 turnover.arg2: purple6
+kick.arg1: pink9 playmode.arg1: free_kick_l block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+pass.arg1: pink9 pass.arg2: pink10 kick.arg1: pink10
+kick.arg1: purple2 playmode.arg1: play_on pass.arg1: purple2 pass.arg2: purple8
+pass.arg1: pink10 pass.arg2: pink9 kick.arg1: pink9 block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple6
+pass.arg1: purple6 pass.arg2: purple8
+pass.arg1: purple8 pass.arg2: purple6
+kick.arg1: pink7 kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink9
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple8 kick.arg1: purple8 defense.arg1: pink4 defense.arg2: pink4 turnover.arg1: purple8 turnover.arg2: pink4
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink9
+pass.arg1: purple2 pass.arg2: purple10
+pass.arg1: pink8 pass.arg2: pink9
+defense.arg1: purple4 defense.arg2: purple4 turnover.arg1: pink9 turnover.arg2: purple4 kick.arg1: purple4 badPass.arg1: purple4 badPass.arg2: pink10 turnover.arg1: purple4 turnover.arg2: pink10
+pass.arg1: pink2 pass.arg2: pink6
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple3
+playmode.arg1: goal_l playmode.arg1: kick_off_r badPass.arg1: purple9 badPass.arg2: pink9 turnover.arg1: purple9 turnover.arg2: pink9 playmode.arg1: play_on kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink5
+pass.arg1: purple9 pass.arg2: purple5 kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple8
+pass.arg1: pink9 pass.arg2: pink10
+kick.arg1: pink1 pass.arg1: pink1 pass.arg2: pink5 kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink8
+block.arg1: pink1 turnover.arg1: purple10 turnover.arg2: pink1 playmode.arg1: free_kick_r
+pass.arg1: pink6 pass.arg2: pink9 kick.arg1: pink9
+pass.arg1: purple9 pass.arg2: purple10 kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple7
+pass.arg1: purple7 pass.arg2: purple11
+pass.arg1: purple6 pass.arg2: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple9
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple6
+playmode.arg1: play_on pass.arg1: purple2 pass.arg2: purple8
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple6
+kick.arg1: pink9 badPass.arg1: pink9 badPass.arg2: purple9 turnover.arg1: pink9 turnover.arg2: purple9
+pass.arg1: purple8 pass.arg2: purple7
+defense.arg1: purple7 defense.arg2: purple7 turnover.arg1: pink10 turnover.arg2: purple7 kick.arg1: purple7 badPass.arg1: purple7 badPass.arg2: pink6 turnover.arg1: purple7 turnover.arg2: pink6
+playmode.arg1: play_on kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink6 kick.arg1: pink6
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink9
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink9
+badPass.arg1: pink4 badPass.arg2: purple8 turnover.arg1: pink4 turnover.arg2: purple8
+playmode.arg1: play_on kick.arg1: pink1 pass.arg1: pink1 pass.arg2: pink2
+pass.arg1: purple5 pass.arg2: purple4 kick.arg1: purple4 pass.arg1: purple4 pass.arg2: purple6
+badPass.arg1: pink4 badPass.arg2: purple6 turnover.arg1: pink4 turnover.arg2: purple6
+pass.arg1: pink11 pass.arg2: pink7 kick.arg1: pink7 badPass.arg1: pink7 badPass.arg2: purple10 turnover.arg1: pink7 turnover.arg2: purple10
+badPass.arg1: purple11 badPass.arg2: pink8 turnover.arg1: purple11 turnover.arg2: pink8
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink10
+badPass.arg1: pink7 badPass.arg2: purple2 turnover.arg1: pink7 turnover.arg2: purple2
+defense.arg1: purple3 defense.arg2: purple3 turnover.arg1: pink10 turnover.arg2: purple3
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink9
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple6
+pass.arg1: purple7 pass.arg2: purple6 kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple11
+pass.arg1: purple6 pass.arg2: purple9 kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple10
+badPass.arg1: purple8 badPass.arg2: pink8 turnover.arg1: purple8 turnover.arg2: pink8
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink6
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink6
+badPass.arg1: purple8 badPass.arg2: pink6 turnover.arg1: purple8 turnover.arg2: pink6 kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink8
+pass.arg1: pink7 pass.arg2: pink10 kick.arg1: pink10 block.arg1: purple1 turnover.arg1: pink10 turnover.arg2: purple1
+badPass.arg1: pink8 badPass.arg2: purple4 turnover.arg1: pink8 turnover.arg2: purple4
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple8
+kick.arg1: pink4 pass.arg1: pink4 pass.arg2: pink8
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple7
+pass.arg1: purple6 pass.arg2: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple6
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple7
+kick.arg1: purple7 badPass.arg1: purple7 badPass.arg2: pink5 turnover.arg1: purple7 turnover.arg2: pink5
+pass.arg1: pink2 pass.arg2: pink7
+pass.arg1: pink6 pass.arg2: pink2
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple7
+pass.arg1: pink10 pass.arg2: pink7 kick.arg1: pink7 block.arg1: purple1 turnover.arg1: pink7 turnover.arg2: purple1
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink8
+kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink8
+pass.arg1: pink10 pass.arg2: pink9 kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink8
+pass.arg1: purple4 pass.arg2: purple9
+playmode.arg1: play_on kick.arg1: purple1 pass.arg1: purple1 pass.arg2: purple4
+badPass.arg1: pink4 badPass.arg2: purple8 turnover.arg1: pink4 turnover.arg2: purple8
+pass.arg1: purple8 pass.arg2: purple6
+pass.arg1: purple2 pass.arg2: purple10
+kick.arg1: pink7
+playmode.arg1: play_on kick.arg1: purple1 pass.arg1: purple1 pass.arg2: purple3
+badPass.arg1: purple7 badPass.arg2: pink6 turnover.arg1: purple7 turnover.arg2: pink6
+kick.arg1: pink6 badPass.arg1: pink6 badPass.arg2: purple5 turnover.arg1: pink6 turnover.arg2: purple5
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink8
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple10
+pass.arg1: pink7 pass.arg2: pink9 kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink11
+pass.arg1: pink7 pass.arg2: pink10 kick.arg1: pink10
+playmode.arg1: goal_l playmode.arg1: kick_off_r badPass.arg1: purple8 badPass.arg2: pink9 turnover.arg1: purple8 turnover.arg2: pink9 playmode.arg1: play_on kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink6
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple6
+playmode.arg1: free_kick_r block.arg1: pink1 turnover.arg1: purple11 turnover.arg2: pink1
+badPass.arg1: pink4 badPass.arg2: purple8 turnover.arg1: pink4 turnover.arg2: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink11
+pass.arg1: pink11 pass.arg2: pink7
+playmode.arg1: play_on kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple6
+kick.arg1: purple6 block.arg1: pink1 turnover.arg1: purple6 turnover.arg2: pink1
+pass.arg1: purple4 pass.arg2: purple6
+playmode.arg1: play_on kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple11
+playmode.arg1: play_on kick.arg1: pink1 badPass.arg1: pink1 badPass.arg2: purple10 turnover.arg1: pink1 turnover.arg2: purple10
+pass.arg1: purple4 pass.arg2: purple7
+pass.arg1: pink8 pass.arg2: pink11
+playmode.arg1: play_on kick.arg1: pink1 pass.arg1: pink1 pass.arg2: pink4
+pass.arg1: purple3 pass.arg2: purple2
+kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink7
+kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple2 turnover.arg1: pink10 turnover.arg2: purple2
+pass.arg1: purple6 pass.arg2: purple11
+pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: pink5 pass.arg2: pink8
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink8
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+badPass.arg1: purple8 badPass.arg2: pink8 turnover.arg1: purple8 turnover.arg2: pink8 kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: purple10 pass.arg2: purple7
+playmode.arg1: free_kick_l block.arg1: purple1 turnover.arg1: pink10 turnover.arg2: purple1
+kick.arg1: pink8
+pass.arg1: purple8 pass.arg2: purple6
+pass.arg1: purple10 pass.arg2: purple9
+pass.arg1: pink4 pass.arg2: pink8
+kick.arg1: pink5 badPass.arg1: pink5 badPass.arg2: purple7 turnover.arg1: pink5 turnover.arg2: purple7
+pass.arg1: pink7 pass.arg2: pink10
+badPass.arg1: pink1 badPass.arg2: purple10 turnover.arg1: pink1 turnover.arg2: purple10
+pass.arg1: purple6 pass.arg2: purple7
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink2
+pass.arg1: pink6 pass.arg2: pink8
+pass.arg1: pink9 pass.arg2: pink10
+playmode.arg1: play_on kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple8
+pass.arg1: pink5 pass.arg2: pink6 kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink5
+kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink9
+kick.arg1: purple6 badPass.arg1: purple6 badPass.arg2: pink8 turnover.arg1: purple6 turnover.arg2: pink8
+badPass.arg1: pink1 badPass.arg2: purple11 turnover.arg1: pink1 turnover.arg2: purple11
+pass.arg1: purple4 pass.arg2: purple9 kick.arg1: purple9 defense.arg1: pink2 defense.arg2: pink2 turnover.arg1: purple9 turnover.arg2: pink2
+pass.arg1: purple4 pass.arg2: purple6
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink11
+kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple8
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink6
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple10
+kick.arg1: pink8 badPass.arg1: pink8 badPass.arg2: purple5 turnover.arg1: pink8 turnover.arg2: purple5
+pass.arg1: purple7 pass.arg2: purple10
+steal.arg1: pink8 turnover.arg1: purple5 turnover.arg2: pink8
+pass.arg1: pink10 pass.arg2: pink9
+pass.arg1: purple10 pass.arg2: purple9
+badPass.arg1: pink4 badPass.arg2: purple5 turnover.arg1: pink4 turnover.arg2: purple5
+pass.arg1: purple9 pass.arg2: purple8
+pass.arg1: purple6 pass.arg2: purple8 kick.arg1: purple8 playmode.arg1: goal_l badPass.arg1: purple8 badPass.arg2: pink9 turnover.arg1: purple8 turnover.arg2: pink9
+kick.arg1: purple9 playmode.arg1: goal_l playmode.arg1: kick_off_r badPass.arg1: purple9 badPass.arg2: pink9 turnover.arg1: purple9 turnover.arg2: pink9 playmode.arg1: play_on
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple11 kick.arg1: purple11
+playmode.arg1: play_on kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple5
+badPass.arg1: pink11 badPass.arg2: purple7 turnover.arg1: pink11 turnover.arg2: purple7
+kick.arg1: pink6 badPass.arg1: pink6 badPass.arg2: purple7 turnover.arg1: pink6 turnover.arg2: purple7
+pass.arg1: pink9 pass.arg2: pink10
+playmode.arg1: free_kick_r
+pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: purple3 pass.arg2: purple4
+badPass.arg1: pink3 badPass.arg2: purple6 turnover.arg1: pink3 turnover.arg2: purple6
+pass.arg1: purple11 pass.arg2: purple6
+playmode.arg1: free_kick_l block.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+pass.arg1: purple1 pass.arg2: purple2
+pass.arg1: pink9 pass.arg2: pink11
+playmode.arg1: play_on kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple11
+pass.arg1: purple7 pass.arg2: purple6
+pass.arg1: pink7 pass.arg2: pink9 kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink11
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple6
+pass.arg1: purple7 pass.arg2: purple8
+pass.arg1: purple2 pass.arg2: purple10
+defense.arg1: pink4 defense.arg2: pink4 turnover.arg1: purple8 turnover.arg2: pink4 steal.arg1: purple11 turnover.arg1: pink4 turnover.arg2: purple11 kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple8
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink11
+pass.arg1: pink11 pass.arg2: pink9
+playmode.arg1: offside_l badPass.arg1: purple7 badPass.arg2: pink3 turnover.arg1: purple7 turnover.arg2: pink3 playmode.arg1: free_kick_r playmode.arg1: play_on kick.arg1: pink3 pass.arg1: pink3 pass.arg2: pink6 kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink7
+pass.arg1: pink9 pass.arg2: pink11
+pass.arg1: purple2 pass.arg2: purple3 playmode.arg1: play_on kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple8
+pass.arg1: purple7 pass.arg2: purple10
+playmode.arg1: goal_r playmode.arg1: kick_off_l badPass.arg1: pink11 badPass.arg2: purple9 turnover.arg1: pink11 turnover.arg2: purple9 playmode.arg1: play_on kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple5
+pass.arg1: pink11 pass.arg2: pink9 kick.arg1: pink9
+pass.arg1: pink9 pass.arg2: pink5
+playmode.arg1: play_on pass.arg1: pink5 pass.arg2: pink8
+pass.arg1: purple10 pass.arg2: purple9 kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple10
+pass.arg1: purple7 pass.arg2: purple11
+kick.arg1: purple2 pass.arg1: purple2 pass.arg2: purple6
+pass.arg1: purple6 pass.arg2: purple8
+badPass.arg1: purple11 badPass.arg2: pink6 turnover.arg1: purple11 turnover.arg2: pink6
+kick.arg1: pink9 badPass.arg1: pink9 badPass.arg2: purple9 turnover.arg1: pink9 turnover.arg2: purple9
+kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple8
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple6
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink11
+kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple4
+pass.arg1: pink5 pass.arg2: pink8
+playmode.arg1: play_on pass.arg1: pink1 pass.arg2: pink4
+pass.arg1: pink6 pass.arg2: pink2 kick.arg1: pink2 pass.arg1: pink2 pass.arg2: pink7
+pass.arg1: purple7 pass.arg2: purple8 kick.arg1: purple8 badPass.arg1: purple8 badPass.arg2: pink9 turnover.arg1: purple8 turnover.arg2: pink9
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+block.arg1: pink1 turnover.arg1: purple8 turnover.arg2: pink1 playmode.arg1: free_kick_r
+defense.arg1: purple4 defense.arg2: purple4 turnover.arg1: pink10 turnover.arg2: purple4
+playmode.arg1: play_on kick.arg1: pink4
+pass.arg1: pink7 pass.arg2: pink8
+pass.arg1: pink5 pass.arg2: pink8 kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink6
+kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink9
+badPass.arg1: purple11 badPass.arg2: pink6 turnover.arg1: purple11 turnover.arg2: pink6
+playmode.arg1: goal_l badPass.arg1: purple9 badPass.arg2: pink9 turnover.arg1: purple9 turnover.arg2: pink9
+kick.arg1: purple2
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink9
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple9
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink10
+badPass.arg1: purple4 badPass.arg2: pink10 turnover.arg1: purple4 turnover.arg2: pink10
+pass.arg1: pink11 pass.arg2: pink9 steal.arg1: purple4 turnover.arg1: pink9 turnover.arg2: purple4
+pass.arg1: purple7 pass.arg2: purple9
+badPass.arg1: pink8 badPass.arg2: purple4 turnover.arg1: pink8 turnover.arg2: purple4
+pass.arg1: pink6 pass.arg2: pink7
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink7
+kick.arg1: pink4 badPass.arg1: pink4 badPass.arg2: purple8 turnover.arg1: pink4 turnover.arg2: purple8
+badPass.arg1: pink1 badPass.arg2: purple10 turnover.arg1: pink1 turnover.arg2: purple10 playmode.arg1: play_on kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple7
+badPass.arg1: purple9 badPass.arg2: pink2 turnover.arg1: purple9 turnover.arg2: pink2
+kick.arg1: pink8 badPass.arg1: pink8 badPass.arg2: purple6 turnover.arg1: pink8 turnover.arg2: purple6
+playmode.arg1: corner_kick_l pass.arg1: purple6 pass.arg2: purple11
+badPass.arg1: pink7 badPass.arg2: purple10 turnover.arg1: pink7 turnover.arg2: purple10
+block.arg1: purple1 turnover.arg1: pink7 turnover.arg2: purple1
+badPass.arg1: purple7 badPass.arg2: pink6 turnover.arg1: purple7 turnover.arg2: pink6
+pass.arg1: purple8 pass.arg2: purple7
+kick.arg1: pink6 badPass.arg1: pink6 badPass.arg2: purple6 turnover.arg1: pink6 turnover.arg2: purple6
+pass.arg1: purple5 pass.arg2: purple8
+pass.arg1: purple8 pass.arg2: purple9
+badPass.arg1: pink11 badPass.arg2: purple6 turnover.arg1: pink11 turnover.arg2: purple6
+pass.arg1: pink5 pass.arg2: pink8 kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: pink9 pass.arg2: pink8
+pass.arg1: purple5 pass.arg2: purple4
+pass.arg1: purple10 pass.arg2: purple6
+playmode.arg1: play_on
+playmode.arg1: play_on kick.arg1: purple2 badPass.arg1: purple2 badPass.arg2: pink7 turnover.arg1: purple2 turnover.arg2: pink7
+steal.arg1: pink2
+pass.arg1: purple2 pass.arg2: purple7 kick.arg1: purple7 badPass.arg1: purple7 badPass.arg2: pink6 turnover.arg1: purple7 turnover.arg2: pink6
+pass.arg1: purple5 pass.arg2: purple8
+pass.arg1: purple6 pass.arg2: purple8
+pass.arg1: pink11 pass.arg2: pink8 kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: pink10 pass.arg2: pink7
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: pink8 pass.arg2: pink9
+block.arg1: pink1 turnover.arg1: purple8 turnover.arg2: pink1
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple10
+pass.arg1: purple9 pass.arg2: purple8
+badPass.arg1: purple2 badPass.arg2: pink10 turnover.arg1: purple2 turnover.arg2: pink10 kick.arg1: pink10 playmode.arg1: goal_r playmode.arg1: kick_off_l badPass.arg1: pink10 badPass.arg2: purple9 turnover.arg1: pink10 turnover.arg2: purple9
+kick.arg1: purple8 badPass.arg1: purple8 badPass.arg2: pink6 turnover.arg1: purple8 turnover.arg2: pink6
+pass.arg1: pink8 pass.arg2: pink9 kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink10
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink9
+defense.arg1: purple2 defense.arg2: purple2 turnover.arg1: pink9 turnover.arg2: purple2
+pass.arg1: purple11 pass.arg2: purple6
+pass.arg1: purple4 pass.arg2: purple6
+defense.arg1: pink3 defense.arg2: pink3 turnover.arg1: purple8 turnover.arg2: pink3 kick.arg1: pink3
+playmode.arg1: play_on kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple11
+pass.arg1: pink6 pass.arg2: pink7
+pass.arg1: purple6 pass.arg2: purple8
+pass.arg1: purple6 pass.arg2: purple7
+pass.arg1: purple8 pass.arg2: purple10
+kick.arg1: purple7 block.arg1: pink1 turnover.arg1: purple7 turnover.arg2: pink1
+pass.arg1: purple7 pass.arg2: purple9
+pass.arg1: pink9 pass.arg2: pink7 kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink10
+pass.arg1: pink1 pass.arg2: pink8 kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: pink7 pass.arg2: pink10
+pass.arg1: purple4 pass.arg2: purple6
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink7
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: pink6 pass.arg2: pink9 kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink11
+pass.arg1: pink4 pass.arg2: pink8
+pass.arg1: pink2 pass.arg2: pink6 kick.arg1: pink6
+steal.arg1: purple3 turnover.arg1: pink9 turnover.arg2: purple3 kick.arg1: purple3 pass.arg1: purple3 pass.arg2: purple2
+playmode.arg1: kick_in_l pass.arg1: purple11 pass.arg2: purple6
+badPass.arg1: purple3 badPass.arg2: pink6 turnover.arg1: purple3 turnover.arg2: pink6
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple8
+badPass.arg1: pink4 badPass.arg2: purple6 turnover.arg1: pink4 turnover.arg2: purple6
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple11
+pass.arg1: purple1 pass.arg2: purple2
+badPass.arg1: purple1 badPass.arg2: pink9 turnover.arg1: purple1 turnover.arg2: pink9
+pass.arg1: pink6 pass.arg2: pink7
+badPass.arg1: purple7 badPass.arg2: pink6 turnover.arg1: purple7 turnover.arg2: pink6
+kick.arg1: purple9 pass.arg1: purple9 pass.arg2: purple8
+kick.arg1: pink3 badPass.arg1: pink3 badPass.arg2: purple6 turnover.arg1: pink3 turnover.arg2: purple6
+pass.arg1: purple8 pass.arg2: purple6
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple9
+badPass.arg1: pink9 badPass.arg2: purple2 turnover.arg1: pink9 turnover.arg2: purple2 steal.arg1: pink10 turnover.arg1: purple2 turnover.arg2: pink10
+pass.arg1: pink7 pass.arg2: pink6 kick.arg1: pink6 badPass.arg1: pink6 badPass.arg2: purple4 turnover.arg1: pink6 turnover.arg2: purple4
+pass.arg1: purple8 pass.arg2: purple7
+pass.arg1: pink6 pass.arg2: pink11
+kick.arg1: purple10 block.arg1: pink1 turnover.arg1: purple10 turnover.arg2: pink1 playmode.arg1: free_kick_r
+pass.arg1: pink10 pass.arg2: pink9 playmode.arg1: free_kick_l steal.arg1: purple1 turnover.arg1: pink9 turnover.arg2: purple1
+playmode.arg1: free_kick_r
+badPass.arg1: purple11 badPass.arg2: pink6 turnover.arg1: purple11 turnover.arg2: pink6 kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink8
+pass.arg1: purple9 pass.arg2: purple8
+pass.arg1: purple3 pass.arg2: purple2 kick.arg1: purple2 badPass.arg1: purple2 badPass.arg2: pink10 turnover.arg1: purple2 turnover.arg2: pink10 kick.arg1: pink10 badPass.arg1: pink10 badPass.arg2: purple9 turnover.arg1: pink10 turnover.arg2: purple9
+pass.arg1: purple8 pass.arg2: purple11
+pass.arg1: pink11 pass.arg2: pink9
+pass.arg1: purple1 pass.arg2: purple3
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink8
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+kick.arg1: purple11 pass.arg1: purple11 pass.arg2: purple6 kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple8
+kick.arg1: purple4 pass.arg1: purple4 pass.arg2: purple6
+kick.arg1: purple8 kick.arg1: purple8 defense.arg1: pink3 defense.arg2: pink3 turnover.arg1: purple8 turnover.arg2: pink3
+kick.arg1: purple6 pass.arg1: purple6 pass.arg2: purple11
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple11
+badPass.arg1: purple8 badPass.arg2: pink6 turnover.arg1: purple8 turnover.arg2: pink6 kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink7
+badPass.arg1: pink5 badPass.arg2: purple7 turnover.arg1: pink5 turnover.arg2: purple7
+playmode.arg1: free_kick_r block.arg1: pink1 turnover.arg1: purple7 turnover.arg2: pink1
+pass.arg1: purple8 pass.arg2: purple10
+pass.arg1: pink6 pass.arg2: pink7 kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink10
+pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: purple4 pass.arg2: purple8 kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+pass.arg1: pink11 pass.arg2: pink9 kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink7
+pass.arg1: purple11 pass.arg2: purple4
+kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink9 kick.arg1: pink9
+kick.arg1: pink11 playmode.arg1: goal_r playmode.arg1: kick_off_l badPass.arg1: pink11 badPass.arg2: purple9 turnover.arg1: pink11 turnover.arg2: purple9
+pass.arg1: pink9 pass.arg2: pink11
+kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink11
+pass.arg1: pink4 pass.arg2: pink8
+pass.arg1: pink6 pass.arg2: pink8
+pass.arg1: pink9 pass.arg2: pink11
+pass.arg1: purple7 pass.arg2: purple9
+kick.arg1: purple7 pass.arg1: purple7 pass.arg2: purple8
+pass.arg1: pink1 pass.arg2: pink4
+block.arg1: pink1 turnover.arg1: purple11 turnover.arg2: pink1
+kick.arg1: purple9
+badPass.arg1: purple8 badPass.arg2: pink3 turnover.arg1: purple8 turnover.arg2: pink3
+kick.arg1: pink6 pass.arg1: pink6 pass.arg2: pink8
+kick.arg1: pink5 pass.arg1: pink5 pass.arg2: pink8
+pass.arg1: purple9 pass.arg2: purple5
+pass.arg1: pink11 pass.arg2: pink9 kick.arg1: pink9 pass.arg1: pink9 pass.arg2: pink10
+pass.arg1: pink2 pass.arg2: pink7
+playmode.arg1: goal_l playmode.arg1: kick_off_r badPass.arg1: purple8 badPass.arg2: pink9 turnover.arg1: purple8 turnover.arg2: pink9 playmode.arg1: play_on
+pass.arg1: purple2 pass.arg2: purple6
+kick.arg1: pink10
+playmode.arg1: goal_kick_r block.arg1: pink1 turnover.arg1: purple6 turnover.arg2: pink1
+pass.arg1: pink8 pass.arg2: pink11 kick.arg1: pink11 pass.arg1: pink11 pass.arg2: pink7
+playmode.arg1: free_kick_r
+badPass.arg1: purple11 badPass.arg2: pink6 turnover.arg1: purple11 turnover.arg2: pink6
+kick.arg1: purple10 pass.arg1: purple10 pass.arg2: purple9
+pass.arg1: pink9 pass.arg2: pink10 kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink9
+pass.arg1: pink5 pass.arg2: pink8 kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink6
+pass.arg1: pink1 pass.arg2: pink7
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple7
+pass.arg1: purple3 pass.arg2: purple8
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink6
+badPass.arg1: purple6 badPass.arg2: pink8 turnover.arg1: purple6 turnover.arg2: pink8 kick.arg1: pink8
+pass.arg1: purple9 pass.arg2: purple10
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+kick.arg1: pink10 pass.arg1: pink10 pass.arg2: pink7
+kick.arg1: purple8 pass.arg1: purple8 pass.arg2: purple6
+playmode.arg1: play_on kick.arg1: pink1 pass.arg1: pink1 pass.arg2: pink4
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink10
+kick.arg1: pink7 pass.arg1: pink7 pass.arg2: pink10
+badPass.arg1: purple9 badPass.arg2: pink2 turnover.arg1: purple9 turnover.arg2: pink2
+badPass.arg1: pink7 badPass.arg2: purple10 turnover.arg1: pink7 turnover.arg2: purple10
+pass.arg1: purple6 pass.arg2: purple11
+kick.arg1: pink8
+kick.arg1: purple7
+pass.arg1: pink9 pass.arg2: pink6 kick.arg1: pink6
+badPass.arg1: pink6 badPass.arg2: purple6 turnover.arg1: pink6 turnover.arg2: purple6 kick.arg1: purple6
+playmode.arg1: play_on kick.arg1: pink1 badPass.arg1: pink1 badPass.arg2: purple11 turnover.arg1: pink1 turnover.arg2: purple11
+pass.arg1: purple9 pass.arg2: purple5
+defense.arg1: pink2 defense.arg2: pink2 turnover.arg1: purple9 turnover.arg2: pink2
+pass.arg1: pink8 pass.arg2: pink11
+kick.arg1: pink8 pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: purple5 pass.arg2: purple8
+pass.arg1: pink8 pass.arg2: pink11
+pass.arg1: pink9 pass.arg2: pink11
+kick.arg1: purple5 pass.arg1: purple5 pass.arg2: purple4
+pass.arg1: purple10 pass.arg2: purple6
+steal.arg1: purple5 turnover.arg1: pink8 turnover.arg2: purple5 kick.arg1: purple5 badPass.arg1: purple5 badPass.arg2: pink4 turnover.arg1: purple5 turnover.arg2: pink4
+playmode.arg1: free_kick_l block.arg1: purple1 turnover.arg1: pink11 turnover.arg2: purple1
+pass.arg1: purple7 pass.arg2: purple10

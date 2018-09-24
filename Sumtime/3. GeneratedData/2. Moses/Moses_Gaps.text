@@ -1,0 +1,60 @@
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> showers <time> later <wind_direction_change> <wind_direction> <wind_speed> later GustSpeedChange.3: up 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <time> 
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> gusts <gust_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> showers <time> later <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> later WindDirChange.4: WindDir.4: WindSpeedChange.4: WindSpeed.4: WindSpeed.4: GustSpeedChange.4: <time> <wind_speed_change> <wind_speed> <time> Time.4: <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> showers <wind_speed_change> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> 
+<wind_direction> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> showers <time> later <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> later 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed_change> later WindDirChange.4: WindSpeedChange.4: WindSpeed.4: WindSpeed.4: <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> showers <time> later <wind_direction_change> <wind_direction> <wind_speed> later GustSpeedChange.3: up 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> with gusts to <gust_speed> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> WindSpeedChange.3: <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> showers <wind_speed_change> <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> showers <time> later <wind_direction_change> <wind_direction> <wind_speed> later GustSpeedChange.3: up 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> showers <wind_speed_change> to <wind_direction> <wind_speed_change> later to GustSpeedChange.3: same WindDirChange.4: WindSpeedChange.4: WindSpeed.4: WindSpeed.4: GustSpeedChange.4: <time> <wind_speed_change> <wind_speed> <time> Time.4: <time> 
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> 
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> <wind_direction_change> <wind_direction> later <wind_direction_change> <wind_direction> WindDirChange.4: WindDir.4: WindSpeedChange.4: WindSpeed.4: WindSpeed.4: <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> <wind_direction_change> WindSpeedChange.3: <wind_speed_change> <wind_speed> gusts <gust_speed> later 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> showers <time> later <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> later 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> later 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <time> 
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> with gusts to <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> WindDirChange.4: WindDir.4: WindSpeedChange.4: WindSpeed.4: WindSpeed.4: Time.4: <time> <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> showers <wind_speed_change> to <wind_direction> <wind_speed_change> later to GustSpeedChange.3: same WindDirChange.4: WindSpeedChange.4: WindSpeed.4: WindSpeed.4: GustSpeedChange.4: <time> <wind_speed_change> <wind_speed> <time> Time.4: <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> WindSpeedChange.3: <wind_speed_change> <wind_speed> later GustSpeedChange.3: <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> 
+WindSpeed.1: <time> <wind_direction> <wind_speed> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> gradually <wind_speed_change> <wind_speed> <time> showers <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> showers <wind_speed_change> <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> showers <wind_speed_change> to <wind_direction> <wind_speed_change> later to GustSpeedChange.3: same WindDirChange.4: WindSpeedChange.4: WindSpeed.4: WindSpeed.4: GustSpeedChange.4: <time> <wind_speed_change> <wind_speed> <time> Time.4: <time> 
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> and later <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> with gusts to <gust_speed> <time> 
+<wind_direction> <wind_speed> soon <wind_speed_change> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <time> 
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> WindSpeedChange.3: <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> gusts <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> later 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> and later <wind_speed_change> <wind_speed> 
+<wind_direction> <wind_speed> gusts <gust_speed> gradually <wind_speed_change> <wind_speed> <time> showers <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> with gusts to <gust_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_speed_change> <wind_speed> with gusts to <gust_speed> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> or less <time> <wind_direction_change> <wind_direction> <wind_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> with gusts to <gust_speed> <wind_direction_change> <wind_direction> later 
+<wind_direction> <wind_speed> gusts <gust_speed> gradually <wind_speed_change> <wind_speed> gusts <gust_speed> <time> 
+<wind_direction> <wind_speed> <wind_direction_change> <wind_direction> <wind_speed> <time> <wind_direction_change> <wind_direction> <wind_speed> gusts <gust_speed> <time> 
